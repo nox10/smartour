@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Античный маршрут</name>
+    <description/>
+    <Style id="icon-1899-FF5252-normal">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FF5252-highlight">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FF5252">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FF5252-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FF5252-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Античные скульптуры </name>
+      <Placemark>
+        <name>Атланты на портике Нового Эрмитажа</name>
+        <description><![CDATA[<img src="https://doc-08-04-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/g58m0e3a02gtqcsnoj8si604ec/1635648852500/H1UDzh__yZO1P2gC5ybhKse9_N6yDssd/08892943792363940611/5AIsG_vZBxbg3ZF3PZQ7YPTryNAujw1SRcig1K2_BWeKl6JWQgK8_XBeJIWMZBEOZTkw07WZSh0wid7M7bDTt33L5WReW9nqQJj1iqS4icX7VGHYc8hLECcBuwiCcI9gK8x-yZ1kezcgIAeX47oADoAQ4plouRryA6PksIv5KgwwTnOYuEBOCfKiQMLNFJpPOTsfpIq6K?session=0&fife" height="200" width="auto" /><br><br>Портик с десятью атлантами на южном фасаде здания стал своеобразной эмблемой Нового Эрмитажа. Выполненная в соответствии с замыслом Кленце, модель баварского скульптора И.Гальбига, изобразившего атланта в виде фараона была отвергнута. По эскизам и модели в натуральную величину, представленным А.И. Теребеневым, высекли из серого сердобольского гранита мощные фигуры гигантов. Увеличивая фигуры до необходимых по масштабу здания размеров, Теребенев внёс в их трактовку изменения, продиктованные технологической необходимостью перевода эскиза в твёрдый скульптурный материал. В работе ваятеля, лично доводившего до совершенства скульптурную пластику фигур, чувствуется высокий профессионализм, чувство камня и безупречный вкус художника. В этой сложной работе, продолжавшейся два года, у скульптора было сто пятьдесят помощников-каменотесов. Но окончательную пластическую проработку торсов и лиц Теребенев выполнял «своеручно». Наиболее трудоемкой была полировка. Заставить фигуры такой большой площади блестеть как лакированные, причем вручную — это огромный труд. На камне не глухая замыленная полировка, а звонко подчёркивающая пластику скульптур прозрачная полировка в стиле высокого Возрождения.<br>За превосходное произведение скульптор удостоился похвалы Кленце в изданном им увраже: «Красота и благородный стиль этих скульптур, чистота и тонкость работы и блеск полировки не оставляют желать ничего лучшего и позволяют заявить, что если египетские фараоны восполняли свои монолитные колоссы, то эти телемоны для крайнего севера ничуть не хуже».<br>Осенью 1848 года атланты были установлены на место.]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-08-04-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/g58m0e3a02gtqcsnoj8si604ec/1635648852500/H1UDzh__yZO1P2gC5ybhKse9_N6yDssd/08892943792363940611/5AIsG_vZBxbg3ZF3PZQ7YPTryNAujw1SRcig1K2_BWeKl6JWQgK8_XBeJIWMZBEOZTkw07WZSh0wid7M7bDTt33L5WReW9nqQJj1iqS4icX7VGHYc8hLECcBuwiCcI9gK8x-yZ1kezcgIAeX47oADoAQ4plouRryA6PksIv5KgwwTnOYuEBOCfKiQMLNFJpPOTsfpIq6K?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3175959,59.94118,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>«Колесница Славы» на арке Главного штаба</name>
+        <description><![CDATA[<img src="https://doc-0k-04-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/6s9fcvnfrejis5sl93505hla58/1635648852500/H1UDzh__yZO1P2gC5ybhKse9_N6yDssd/08892943792363940611/5AIsG_vaYMjEeF4s3CKEHJcrk7OgbftGiGeS4bWNEvWkp4xUGU-iug24H4j4zkHNQM7xEUO9JEBysQRBqezjX7Q0Uu6nDq1vX3awmDA5e1tcsMa_haOiAr7rZP8ypFOeRliEN5i7pzWNzLl-2muql1IQGujmy3xkwJH5RjjTMKrcSGEwim8OsnCsIW2C5mwEZHALyDBg?session=0&fife" height="200" width="auto" /><br><br>Монумент «Колесница Славы» на арке Главного штаба является самым большим по объему из старинных памятников Санкт-Петербурга. Его высота составляет 9,94 метра, ширина по фронту — 15,62 метра; длина колесницы со статуями лошадей — 9,59 метра. <br>Скульптурная композиция «Колесница Славы» по инициативе императора Николая I в честь победы России над Наполеоном в Отечественной войне 1812 года была поставлена в 1828 году перед самыми окнами царской резиденции - Зимнего дворца. Автором эскизов был знаменитый архитектор эпохи классицизма Карл Росси. За образец он взял колесницу с Бранденбургских ворот в Берлине. Нарисовал такую же. Посмотрел и решил, что для огромной и величественной Дворцовой площади она будет маловата. Огромное здание с циркульным фасадом требовало большего. Он пририсовал ещё двух лошадей: из четвёрки квадриги, получилась шестёрка — гексиппа. И этого тоже показалось мало. Тогда он веером развернул лошадей и пририсовал двух воинов, которые сдерживают коней. Всё это заняло 11 дней.<br>Скульптурную группу — богиню Нику на колеснице, запряженной шестеркой лошадей — исполнили Степан Пименов и Василий Демут-Малиновский. Впервые в практике монументальной скульптуры фигуры были выполнены из листовой меди в технике выколотки.<br>Композиция представляет собой фигуру богини победы - Ники в колеснице, запряженной шестеркой коней, крайних из которых придерживают воины. В одной руке у неё - штандарт (знамя), а в другой руке - лавровый венок.]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0k-04-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/6s9fcvnfrejis5sl93505hla58/1635648852500/H1UDzh__yZO1P2gC5ybhKse9_N6yDssd/08892943792363940611/5AIsG_vaYMjEeF4s3CKEHJcrk7OgbftGiGeS4bWNEvWkp4xUGU-iug24H4j4zkHNQM7xEUO9JEBysQRBqezjX7Q0Uu6nDq1vX3awmDA5e1tcsMa_haOiAr7rZP8ypFOeRliEN5i7pzWNzLl-2muql1IQGujmy3xkwJH5RjjTMKrcSGEwim8OsnCsIW2C5mwEZHALyDBg?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3146884,59.9397995,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Посейдон на здании Биржи</name>
+        <description><![CDATA[<img src="https://doc-08-04-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/2do9kcki9899mc1f5fd8vf1gbo/1635648852500/H1UDzh__yZO1P2gC5ybhKse9_N6yDssd/08892943792363940611/5AIsG_vbfrxXhsEbv5MCxyDPX6RkaLJ8wVc-aIGi98-yOyTiEgncthDp6ljWK6NbgLRMYpVkVeIK_hEYsW3LdjSthbbdUgSDxWw7IJXkM9xassGoBHWoZmkXDr5hkuV-tx2Y1JHNs6f5JifJAx9FFvnvsZPafRNNt9WUX2YOZozh4eXATomdJKaMLaGd-nt7iOhU4iUk?session=0&fife" height="200" width="auto" /><br><br>Раньше в Петербурге корабли прибывали прямо на Васильевский остров, поэтому встречать их должно было что-то необыкновенное, величественное. За архитектурный ансамбль стрелки острова отвечал Жан Франсуа Тома де Томон. Ив качестве центрального объекта он хотел построить здание, подобное памятнику античной архитектуры — главному храму Акрополя Парфенону. Свою величественную Биржу Тома де Томон развернул фасадом к Неве. Прямоугольное здание опоясывала колоннада из 44 колонн.<br>Навстречу пристающим к берегу кораблям с аттика Биржи Посейдон (Нептун) протягивал руку, в другой руке держал высоко поднятый трезубец. Он выплывал в колеснице, в которую впряжены морские кони (гиппокамы). Справа от бога морей – женская фигура, очевидно символизирующая Неву, а слева – Волхов – седобородый муж — это ключевые водные артерии, по которым с древних времён велась активная торговля.<br>Петербург – город водный, и потому неудивительно, что в самом его сердце располагается скульптура античного Бога морей.]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-08-04-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/2do9kcki9899mc1f5fd8vf1gbo/1635648852500/H1UDzh__yZO1P2gC5ybhKse9_N6yDssd/08892943792363940611/5AIsG_vbfrxXhsEbv5MCxyDPX6RkaLJ8wVc-aIGi98-yOyTiEgncthDp6ljWK6NbgLRMYpVkVeIK_hEYsW3LdjSthbbdUgSDxWw7IJXkM9xassGoBHWoZmkXDr5hkuV-tx2Y1JHNs6f5JifJAx9FFvnvsZPafRNNt9WUX2YOZozh4eXATomdJKaMLaGd-nt7iOhU4iUk?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3045909,59.9434769,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Скульптуры Петровских ворот</name>
+        <description><![CDATA[<img src="https://doc-0s-04-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/vi8tbvde3omfrfm4srpalot6ak/1635648852500/H1UDzh__yZO1P2gC5ybhKse9_N6yDssd/08892943792363940611/5AIsG_vZPoh0XKSXrm1xalwxDvbfAXcNMLr4X4rxwO8uR4lfssL7uEJqHD1wa8mRIMwttkuBFOqxjfJMj6SA_p8pTToYwzdKrTS0IVXrdKu-XEo3XaKXSqC_l6KngmKjrvus-HMi0Esjwf-7na_Jx5zKaQG9s_5c0GgQIa091kASJOByQbG2ZiBPbo38B91xLmljzFZFO?session=0&fife" height="200" width="auto" /><br><br>Петровские ворота — первые триумфальные ворота Санкт-Петербурга, были построены в 1708 году и перестроены по приказу Петра I в 1716-1717 годах. Свое название получили из-за того, что изначально с наружной стороны их украшала ныне не сохранившаяся деревянная скульптура апостола Петра. Помимо барельефов и двуглавого орла, являвшегося во время создания Петровских ворот не только гербом России, но и символом победы русской армии, ворота украшены двумя аллегорическими скульптурами: слева — Афины Полиады, справа — Афины Паллады. Афина Полиада держит в руках змея и зеркало, как бы говоря зрителю «будь мудр, как змея, и, глядя в зеркало, думай, как есть на самом деле» и символизирует благоразумие. Афина Паллада изображена в доспехах и шлеме с саламандрой, олицетворяя храбрость.<br>Афина — одна из наиболее почитаемых богинь Древней Греции, входит в число двенадцати великих олимпийских богов. Является богиней мудрости, военной тактики и стратегии, кроме того покровительствует наукам и ремеслам, городам и государствам.<br>Обе скульптуры выполнены французским скульптором Николя Пино, приглашенным в Россию Петром Первым. <br><br><img src="https://doc-0g-04-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/90mo4jg3jflac5e1t9ctv3fbis/1635648852500/H1UDzh__yZO1P2gC5ybhKse9_N6yDssd/08892943792363940611/5AIsG_va7KnalzdEpSjvJ_oIzGMUIj8zSNXxamaUdixfdooO0VsEq18VdBRp6ifCi1RRtSgox4LWbwO1nGzbKZWry9gcZNdR6CFxyuGaSpS8UIqycNzVHXpNU3c80MryJCYtPaqOp5QWeXXF0ad-C0l-D0ZSvHP6cxZZmqsXH4Kqvj8lyT2sfxB6z3ezRzn9C6k0z7-I?session=0&fife" height="200" width="auto" /><br><br><img src="https://doc-0c-04-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/rl2i79t719nm65pk95t68jc6t4/1635648852500/H1UDzh__yZO1P2gC5ybhKse9_N6yDssd/08892943792363940611/5AIsG_vZ52SojMVX0ah8Jab0S5t7i0JYdsif7UC3YC6D6BsiuOT8ykQY8bzrwhEntzBky22okqhOdHMVmt5YEcap2v3dNwtGvTLRg7LXuUJiOCTVji1gWylG0K4QaRAWhNhPrBO6aEuctdDBWdMTGQrr__TdBMpXZXt66NmQpF-DU5UyyKXPfaO6NGxgmDqxOe_2mlUQ?session=0&fife" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0s-04-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/vi8tbvde3omfrfm4srpalot6ak/1635648852500/H1UDzh__yZO1P2gC5ybhKse9_N6yDssd/08892943792363940611/5AIsG_vZPoh0XKSXrm1xalwxDvbfAXcNMLr4X4rxwO8uR4lfssL7uEJqHD1wa8mRIMwttkuBFOqxjfJMj6SA_p8pTToYwzdKrTS0IVXrdKu-XEo3XaKXSqC_l6KngmKjrvus-HMi0Esjwf-7na_Jx5zKaQG9s_5c0GgQIa091kASJOByQbG2ZiBPbo38B91xLmljzFZFO?session=0&fife https://doc-0g-04-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/90mo4jg3jflac5e1t9ctv3fbis/1635648852500/H1UDzh__yZO1P2gC5ybhKse9_N6yDssd/08892943792363940611/5AIsG_va7KnalzdEpSjvJ_oIzGMUIj8zSNXxamaUdixfdooO0VsEq18VdBRp6ifCi1RRtSgox4LWbwO1nGzbKZWry9gcZNdR6CFxyuGaSpS8UIqycNzVHXpNU3c80MryJCYtPaqOp5QWeXXF0ad-C0l-D0ZSvHP6cxZZmqsXH4Kqvj8lyT2sfxB6z3ezRzn9C6k0z7-I?session=0&fife https://doc-0c-04-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/rl2i79t719nm65pk95t68jc6t4/1635648852500/H1UDzh__yZO1P2gC5ybhKse9_N6yDssd/08892943792363940611/5AIsG_vZ52SojMVX0ah8Jab0S5t7i0JYdsif7UC3YC6D6BsiuOT8ykQY8bzrwhEntzBky22okqhOdHMVmt5YEcap2v3dNwtGvTLRg7LXuUJiOCTVji1gWylG0K4QaRAWhNhPrBO6aEuctdDBWdMTGQrr__TdBMpXZXt66NmQpF-DU5UyyKXPfaO6NGxgmDqxOe_2mlUQ?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3201628,59.9507781,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Квадрига Аполлона на здании Александринского театра</name>
+        <description><![CDATA[<img src="https://doc-0c-04-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/kb782361vqdpe3bvhcbc5815hs/1635648852500/H1UDzh__yZO1P2gC5ybhKse9_N6yDssd/08892943792363940611/5AIsG_vbWcxmvYde24KRtnaN6Pt0JBOIU3unjcLq27Exm7U2E-jI3JTo1iBTnqhmV3R7KdsjCkqUxBTfov6K2esKdiwXrweM01YzOZJvnmvTBd9TTt-a-D7_66zmD4M_6OyhxAv__GMsWcZRdVP3QBC9hTlHmmt5WTJ3GVD4wdWlpbp-kvTfAR-QveOcZU0_khuv8_YM?session=0&fife" height="200" width="auto" /><br><br>Величественное здание Александринского театра было построено в 1832 году по проекту Карла Росси в стиле ампир, позднем течении классицизма, воскрешающего античные художественные традиции. Над скульптурным оформлением фасада работал выдающийся русский скульптор Василий Иванович Демут-Малиновский. <br>На аттике театра установлена квадрига (двухколесная колесница с четырьмя запряженными конями) Аполлона, выполненная скульптором С.С. Пименовым. К образу Аполлона, выполняя скульптурное оформление театра, обратились не случайно. Аполлон в античной мифологии не только являлся богом света и эталоном мужской красоты, но и покровителем искусств, предводителем муз. В правой руке он держит лавровый венок, а в левой — античный музыкальный инструмент, кифару. Скульптура отличается тщательной проработкой деталей фигуры и колесницы. Сам аттик украшен лепными рельефами славы. На фризе изображены античные театральные маски и гирлянды из лавровых ветвей.<br>В нишах на торцевых фасадах расположены четыре скульптуры муз. Точной трактовки, кто эти музы не существует, наиболее часто упоминаются Талия, Мельпомена, Терпсихора и Клио, однако даже они в разных источниках соответствуют разным скульптурам.]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0c-04-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/kb782361vqdpe3bvhcbc5815hs/1635648852500/H1UDzh__yZO1P2gC5ybhKse9_N6yDssd/08892943792363940611/5AIsG_vbWcxmvYde24KRtnaN6Pt0JBOIU3unjcLq27Exm7U2E-jI3JTo1iBTnqhmV3R7KdsjCkqUxBTfov6K2esKdiwXrweM01YzOZJvnmvTBd9TTt-a-D7_66zmD4M_6OyhxAv__GMsWcZRdVP3QBC9hTlHmmt5WTJ3GVD4wdWlpbp-kvTfAR-QveOcZU0_khuv8_YM?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.336157,59.931785,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Геракл и Флора в Екатерининском парке</name>
+        <description><![CDATA[<img src="https://doc-0g-04-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/1i4h5fs200g3hke5e9lu0e7t5g/1635648852500/H1UDzh__yZO1P2gC5ybhKse9_N6yDssd/08892943792363940611/5AIsG_vaGqYyX875VvckFpuVGMD5hsAtSqH975VEnzW5PkkoW5NbDBEVaiVG8f01OfbnLbamPdhyySjmCU2Nytoluv-k_8UwPOC2tHEMLKhS0IGnROAQWlZ0bjTnQWWzaAPqiuQR61jDH5YO1Cw0cugyYCEm1Ynr5x6q5QzPc-jGCWCiD1uIgO7UoiTG7r1yEyoA-UqC5?session=0&fife" height="200" width="auto" /><br><br>Лестницу, ведущую к Камероновой галерее украшают две величественные бронзовые скульптуры: Геракл и Флора Фарнезские. Обе скульптуры являются копиями оригинальных греческих скульптур, до нас не дошедших. Они были выполнены в 1787-17888 годах в мастерской Академии Художеств по эскизам скульптора Ф.С. Гордеева.<br>Скульптура изображает утомленного Геракла, опершегося на палицу, поверх которой накинута шкура Немейского льва, в отведенной за спину правой руке геракл держит три яблока. Предположительно скульптор запечатлел героя в момент совершения одного из двенадцати подвигов — похищения яблок Гесперид. Оригинал статуи был отлит в бронзе, предположительно Лисиппом, в IV веке до нашей эры. Статуя была популярна у римлян, ее копии украшали многие дворцы и гимнастические залы, и именно в виде копий она и дошла до наших дней. Мраморная копия, выполненная неизвестным итальянским скульптором XVIII века хранится в Государственном Эрмитаже.<br>Вторая скульптура изображает богиню весны, цветов, полей и плодородия Флору. Скульптура также является копией, однако в отличие от других петербургских копий держит в руке лавровый венок (Флора в Александровском саду не держит в руке ничего, Флора из Национального музея Неаполя держит в руке букет).<br>Также копии Геракла и Флоры Фарнезских можно найти в Петербурге в Александровском саду, на лестнице парадного портика северного фасада Михайловского замка, на портике здания Академии Художеств.<br><br><img src="https://doc-04-04-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/2bd0udg8eafo5jvigk0l7t0c0g/1635648852500/H1UDzh__yZO1P2gC5ybhKse9_N6yDssd/08892943792363940611/5AIsG_vZkOti_B4Vu_TKVbWguB51nPEzP9hZfe9mW2oQbyfLnIv547M5uvuwnwkVMNXMOBdB-6tsge5bqfNeqph05uJp4gAgvqXP06chSqMpDOnVNRKElkvmc_4eMXrGWir079HpEBGgcly7tHIZgso_L3xI0VlgwfghVy9NW2964_WSroIhi88vvP6avBqi1leAmeV8?session=0&fife" height="200" width="auto" /><br><br><img src="https://doc-0c-04-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/9cqt0qd1vrlvprj9b365ull26o/1635648852500/H1UDzh__yZO1P2gC5ybhKse9_N6yDssd/08892943792363940611/5AIsG_vauhO7gjRBk_ktXfJqLC4fmcRB5GvDrcxMSI4oOfMlp530qVAAAhnVRlaHwjXsvZw6YOT3xgNdx4dZcO7xyb4he1od6nZ2yutROjjJap-5dx8Ws2CQFGuXPQog1Vp4qRnV53iKUd42nmpJDqpf-m59NYw0vRwwezdEVNrb2NggOqMWDAP7HjA2A657eRonNlkk?session=0&fife" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0g-04-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/1i4h5fs200g3hke5e9lu0e7t5g/1635648852500/H1UDzh__yZO1P2gC5ybhKse9_N6yDssd/08892943792363940611/5AIsG_vaGqYyX875VvckFpuVGMD5hsAtSqH975VEnzW5PkkoW5NbDBEVaiVG8f01OfbnLbamPdhyySjmCU2Nytoluv-k_8UwPOC2tHEMLKhS0IGnROAQWlZ0bjTnQWWzaAPqiuQR61jDH5YO1Cw0cugyYCEm1Ynr5x6q5QzPc-jGCWCiD1uIgO7UoiTG7r1yEyoA-UqC5?session=0&fife https://doc-04-04-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/2bd0udg8eafo5jvigk0l7t0c0g/1635648852500/H1UDzh__yZO1P2gC5ybhKse9_N6yDssd/08892943792363940611/5AIsG_vZkOti_B4Vu_TKVbWguB51nPEzP9hZfe9mW2oQbyfLnIv547M5uvuwnwkVMNXMOBdB-6tsge5bqfNeqph05uJp4gAgvqXP06chSqMpDOnVNRKElkvmc_4eMXrGWir079HpEBGgcly7tHIZgso_L3xI0VlgwfghVy9NW2964_WSroIhi88vvP6avBqi1leAmeV8?session=0&fife https://doc-0c-04-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/9cqt0qd1vrlvprj9b365ull26o/1635648852500/H1UDzh__yZO1P2gC5ybhKse9_N6yDssd/08892943792363940611/5AIsG_vauhO7gjRBk_ktXfJqLC4fmcRB5GvDrcxMSI4oOfMlp530qVAAAhnVRlaHwjXsvZw6YOT3xgNdx4dZcO7xyb4he1od6nZ2yutROjjJap-5dx8Ws2CQFGuXPQog1Vp4qRnV53iKUd42nmpJDqpf-m59NYw0vRwwezdEVNrb2NggOqMWDAP7HjA2A657eRonNlkk?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3960534,59.7142762,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Амур и Психея</name>
+        <description><![CDATA[<img src="https://doc-04-04-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/qp0j654ubhrn8celb1hom5vlrg/1635648852500/H1UDzh__yZO1P2gC5ybhKse9_N6yDssd/08892943792363940611/5AIsG_vaGptaSd3o7kZ6LJHfcvPMNxCpXWJ8pIHPtXox6ugPcTxcUnOueQe8NUmsKwteKqIeAcQfj_M9yOt2no0j1llY3Bzr047o9Freb0n_n1MvlKEAtygkXs5heQX5WIPDmTPbP41w3Rvr3MR4Dzql8g12K8ld02Q8xt-_VPr4wO6tN2OYmjv2SClkplyB2iZZQyJW4?session=0&fife" height="200" width="auto" /><br><br>Скульптурная группа "Амур и Психея" упоминается впервые среди скульптуры, приобретенной в Италии для строящегося Михайловского замка, привезена в Петербург в июне 1798 г.<br>“Амур и Психея” является одним из интереснейших, с художественной точки зрения, произведением собрания в Летнем саду. Сюжетом для скульптуры стала легенда о любви Амура, сына Венеры и девушки Психеи. Она была настолько прекрасна, что богиня красоты разгневалась на нее и послала своего сына, чтобы он ранил её. Но Амур, увидев столь прекрасную девушку, не смог ей навредить, а спрятал в своём тайном чертоге, навещая по ночам в темноте.<br>Скульптор избрал кульминационный момент мифологической легенды, когда Психея, со светильником в руке, нарушив запрет богов, наклоняется к своему таинственному супругу. Через мгновение капля горячего масла, падающая из светильника, разбудит Амура, и он в гневе покинет Психею. Девушке придется перенести немало испытаний, прежде чем она вновь обретет своего любимого, а сжалившийся над влюбленными Юпитер не подарит ей крылья и бессмертие богов.]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-04-04-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/qp0j654ubhrn8celb1hom5vlrg/1635648852500/H1UDzh__yZO1P2gC5ybhKse9_N6yDssd/08892943792363940611/5AIsG_vaGptaSd3o7kZ6LJHfcvPMNxCpXWJ8pIHPtXox6ugPcTxcUnOueQe8NUmsKwteKqIeAcQfj_M9yOt2no0j1llY3Bzr047o9Freb0n_n1MvlKEAtygkXs5heQX5WIPDmTPbP41w3Rvr3MR4Dzql8g12K8ld02Q8xt-_VPr4wO6tN2OYmjv2SClkplyB2iZZQyJW4?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3340273,59.9447853,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Аполлон Бельведерский
+</name>
+        <description><![CDATA[<img src="https://doc-00-04-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/ad83tkhlttku1nvm9k4dkjp38c/1635648852500/H1UDzh__yZO1P2gC5ybhKse9_N6yDssd/08892943792363940611/5AIsG_vbTqcZugygW9ut-YNy2Vhz5TEu_0EOsKNcctFgdDCH_WxVp2o7TvjMEzeoIFHhziocx0iM8gsZHK0BowLvwWteuN4ebfgxo_mdwaEnXpm5s4PEKo-mAUB0R5qke-Y7aQD3idudkz65DVVbcp5s0aK8Q8heJmaWiF2BsZ-ppSAPjA23ngaRO3eC96YJbSsD-Y57t?session=0&fife" height="200" width="auto" /><br><br>Статуя "Аполлон Бельведерский" была выполнена в 1820-е скульптором Паоло Андреа Трискорни (копия) из каррарского мрамора.<br>Статуя находилась в Летнем Саду с 1830 года. Ранее она располагалась в одной из ниш главного фасада Михайловского Замка.<br>Сын Зевса и богини Латоны Аполлон - самый прекрасный из богов-олимпийцев. Он имеет два лица - светлое и грозное. Прежде всего, он почитался как бог света, покровитель красоты и поэзии. Юный, златокудрый шествует он по земле, разливая вокруг себя дивное сияние. Вся природа замирает, когда звучит божественная кифара бога-певца.<br>Статуя построена по идеальным принципам гармонии и золотого сечения: классически правильное лицо симметрично, а вот поза построена по принципу противопоставления, движения в разные стороны (контрапост), что очень приятно глазу и создает даже в спокойной статуе эффект движения, ощущение жизни.]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-00-04-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/ad83tkhlttku1nvm9k4dkjp38c/1635648852500/H1UDzh__yZO1P2gC5ybhKse9_N6yDssd/08892943792363940611/5AIsG_vbTqcZugygW9ut-YNy2Vhz5TEu_0EOsKNcctFgdDCH_WxVp2o7TvjMEzeoIFHhziocx0iM8gsZHK0BowLvwWteuN4ebfgxo_mdwaEnXpm5s4PEKo-mAUB0R5qke-Y7aQD3idudkz65DVVbcp5s0aK8Q8heJmaWiF2BsZ-ppSAPjA23ngaRO3eC96YJbSsD-Y57t?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3349928,59.9454892,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Церера</name>
+        <description><![CDATA[<img src="https://doc-0c-04-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/90u4e8gae1nd96fqdb53a7ujrc/1635648852500/H1UDzh__yZO1P2gC5ybhKse9_N6yDssd/08892943792363940611/5AIsG_vbONWB5RXHKIfF7JQCKHliLMFAA6c6VHTsSvxp-yOre5aXK4o3uXhoO61Wtg3e6067DfTLI50EJ0L3kGw2gJjETP5Nftu6LTeqRXEO9SYTSX_hUGN3849BpyRIFRHd_GDd6qJaT1ycv8j9Kq6D8ist5aZITkX9DWYnqhcKoQpFoQvKbI59krZma2N7CdXqYgoU?session=0&fife" height="200" width="auto" /><br><br>«Церера» (предположительно) за авторством фламандского скульптора Томаса Квеллинуса является одной из самых ранних скульптур Летнего сада и датируется 90-ми годами XVII века. Церера - древнеримская богиня, вторая дочь Сатурна и Реи (в греческой мифологии ей соответствует Деметра). Изображалась на колеснице, запряженной крылатыми змеями. Также её изображали прекрасной матроной с фруктами в руках, ибо она считалась покровительницей урожая и плодородия. Единственная дочь Цереры — Прозерпина, родившаяся от Юпитера, была похищена и стала женой Плутона. Богиня-мать отказывается от своей функции давать пищу и жизнь человечеству, чтобы разыскать похищенную дочь. В конце концов, испугавшись, что жизнь на Земле может прекратиться, Юпитер приказывает Плутону возвращать свою молодую жену к матери хотя бы на какую-то часть года. Но каждый год, когда Прозерпина возвращается к Плутону, Церера и вся природа погружаются в печаль и наступает зима.<br>Сегодня «Церера» располагается на второй площадке от Невы по главной аллее, слева от центральной клумбы.]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0c-04-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/90u4e8gae1nd96fqdb53a7ujrc/1635648852500/H1UDzh__yZO1P2gC5ybhKse9_N6yDssd/08892943792363940611/5AIsG_vbONWB5RXHKIfF7JQCKHliLMFAA6c6VHTsSvxp-yOre5aXK4o3uXhoO61Wtg3e6067DfTLI50EJ0L3kGw2gJjETP5Nftu6LTeqRXEO9SYTSX_hUGN3849BpyRIFRHd_GDd6qJaT1ycv8j9Kq6D8ist5aZITkX9DWYnqhcKoQpFoQvKbI59krZma2N7CdXqYgoU?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3343472,59.9463898,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Минерва</name>
+        <description><![CDATA[<img src="https://doc-08-04-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/hk8onf4ge2r5btb4j6lf9p3lt8/1635648852500/H1UDzh__yZO1P2gC5ybhKse9_N6yDssd/08892943792363940611/5AIsG_va_vc89YUyEGF7NlyM8XFmynx70sw1Xg2ia4MMKMoLaN9WUGnvKiqf8B0yuXHehTY3m5I9_BQNaH7tr5cXQYmzghfpTNUrIApmRG7xdEGgzpTY4-ssTHtvOVNvVYsaXfTNxRK4BjJfW1MnnILLgfuzeVkt1Gur4LiGkv2TaDDJGiW7teKcY9fF0Hedw3Z1uZp_X?session=0&fife" height="200" width="auto" /><br><br>Мраморная статуя Минерва, которую также приписывают Квеллинусу, поступила в коллекцию Летнего сада в 1707 году.<br>По мифам, Минерва – любимая дочь Юпитера и Метис, соответствующая греческой Афине Палладе, – непобедимая воительница, богиня мудрости, ремесел, знаний, покровительница героев. Ее особым расположением пользовались ремесленники, художники и скульпторы, поэты и музыканты, врачи, учителя и искусные рукодельницы.<br>Молодая женщина одета в доспехи с изображением Медузы, опирается на копье, у ног – сова, как символ мудрости. Скульптура является одной из основных в коллекции Летнего сада.]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-08-04-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/hk8onf4ge2r5btb4j6lf9p3lt8/1635648852500/H1UDzh__yZO1P2gC5ybhKse9_N6yDssd/08892943792363940611/5AIsG_va_vc89YUyEGF7NlyM8XFmynx70sw1Xg2ia4MMKMoLaN9WUGnvKiqf8B0yuXHehTY3m5I9_BQNaH7tr5cXQYmzghfpTNUrIApmRG7xdEGgzpTY4-ssTHtvOVNvVYsaXfTNxRK4BjJfW1MnnILLgfuzeVkt1Gur4LiGkv2TaDDJGiW7teKcY9fF0Hedw3Z1uZp_X?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3340005,59.946997,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Похищение Прозерпины Плутоном</name>
+        <description><![CDATA[<img src="https://doc-0o-04-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/dkgsb8eqdetv7lipvf66prcqro/1635648852500/H1UDzh__yZO1P2gC5ybhKse9_N6yDssd/08892943792363940611/5AIsG_vZTWmdgKhHjeCLS6V6KoJKR3O9fDgFTgwZ5eF4zAjkJfA1GumDrFlfqDGMopgPcs1EsB3VIfnAXyTjuTN5ZUEmh7GBnJatGxzOrsyn2pTjlrfFplrPVPcm-dP3Hk9K3sghzWWvfD4831IfF4jJ7tkdfw0iOQeXasA4FpKx7YI8VBOgCsE2X8ZyVJmZrklyY4oSU?session=0&fife" height="200" width="auto" /><br><br>Симметрично «Гераклу, удушающему Антея», на входе в Горный институт располагается статуя «Похищение Прозерпины Плутоном» работы Василия Демут-Малиновского. Она также была в 1809–1811 годах вытесана из пудостского камня в мастерской Самсона Суханова.<br><br>Мифологическая основа<br>Античный миф повествует о Прозерпине, дочери богини плодородия Цереры и бога-громовержца Юпитера. Девушка должна была стать женой бога подземного царства Плутона, и он, увидев, как красавица Прозерпина гуляет в цветущей долине, решил ее похитить. По его просьбе богиня Теллус создала прекрасный цветок, и, когда Прозерпина попыталась его сорвать, земля разверзлась и красавица попала в царство Плутона. Отчаявшаяся Церера искала ее повсюду, а когда от бога солнца Гелиоса узнала об участи Прозерпины, от горя и отчаяния покинула Олимп и стала простой смертной. Без богини плодородия на земле наступили засуха и неурожай. Юпитер был вынужден попросить Плутона отдать матери Прозерпину, чтобы та вернулась на Олимп. Тот согласился, но подарил девушке гранатовые зернышки — символ семейных уз. С тех пор Прозерпина две трети года живет с матерью, а одну треть проводит в подземном царстве.<br>В этой группе силы неравноценны - сравнительно легко далась Плутону победа. Борьба не требовала большого напряжения сил. Плутон легко устремился вперед со своей ношей. Мощи и силе, присущим фигуре Геракла, противопоставлены динамика и стремительность Плутона.<br><br>Обе скульптурные группы изготовлены в 1809-1811 годах артелью мастеров-каменотесов, которую возглавлял Самсон Ксенофонтович Суханов. С.К. Суханов воплощал в камне и другие модели скульпторов С.С. Пименова и В.И. Демут-Малиновского.<br>Особенностью пудостского камня, из которого выполнены обе скульптуры, является пористость и сравнительна лёгкость в обработке. Кроме того, в зависимости от погоды и освещения, цвет скульптур из пудостского камня приобретает различные оттенки от серого до жёлто-серого.<br>Со временем, в связи с пористостью камня, скульптуры из него приобретают грязно-серый цвет и некоторую неряшливость. ]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0o-04-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/dkgsb8eqdetv7lipvf66prcqro/1635648852500/H1UDzh__yZO1P2gC5ybhKse9_N6yDssd/08892943792363940611/5AIsG_vZTWmdgKhHjeCLS6V6KoJKR3O9fDgFTgwZ5eF4zAjkJfA1GumDrFlfqDGMopgPcs1EsB3VIfnAXyTjuTN5ZUEmh7GBnJatGxzOrsyn2pTjlrfFplrPVPcm-dP3Hk9K3sghzWWvfD4831IfF4jJ7tkdfw0iOQeXasA4FpKx7YI8VBOgCsE2X8ZyVJmZrklyY4oSU?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.2694682,59.9290293,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Геракл, удушающий Антея</name>
+        <description><![CDATA[<img src="https://doc-14-04-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/s13ts2ocquhduaqidncqco7oi8/1635648852500/H1UDzh__yZO1P2gC5ybhKse9_N6yDssd/08892943792363940611/5AIsG_vaBaBLNKsaKcmqPHo4nXiZ5OPfZpQbvqDEwcpf_MVfA3Pzorq0_0ASiv92Gl2GGZUIR9NNnuixZSGCm14ape8HnGDNS9ho8U3gETy1tsPZbjk2Cbr7-P3bCPAHJtdxGbPBTTah2WIMX2cjWiJ3Q5h-kKdiNK3GmWLdYTicxqR5cV9ax94s8OM_7gcqeHVECXSft?session=0&fife" height="200" width="auto" /><br><br>Здание Горного института украшают две скульптурные группы, установленные перед фасадом по сторонам широкой лестницы. Созданные по мотивам широко известных античных мифов, они дополняют назначение Горного как кузницы по подготовке специалистов по освоению земных недр. Героями скульптурных композиций являются: Плутон — властелин подземного царства и Антей — сын богини Земли Геи. Выполненные разными мастерами, своими силуэтами и размерами скульптурные группы уравновешивают друг друга.<br>«Геракла, удушающего Антея» из пудостского камня выполнил известный скульптор Степан Пименов в 1809–1811 годах.<br>Мифологическая основа<br>Скульптура иллюстрирует один из мифов о подвигах Геракла. Во время странствия за золотыми яблоками по приказу Эврисфея герой был вынужден сойтись в поединке с великаном Антеем — сыном богини земли Геи. Гераклу никак не удавалось победить Антея: как только великан начинал ослабевать, он касался земли, и мать давала ему новые силы. Но Гераклу удалось оторвать Антея от земли и задушить его.<br>К образу Геракла не раз обращались мастера искусства XVIII века, когда нужно было аллегорически передать силу, мощь и величие. Обратились к нему и авторы Горного института, желая в напряженный исторический момент, когда приближались события Отечественной войны 1812 года, снова напомнить современникам о доблести, гражданственности и патриотическом долге.<br>Геракл мощным объятием сковал своего врага. Сила и напряженность чувствуются в крепко поставленной фигуре героя; голова его упрямо наклонена - нелегко дается ему эта победа. Отчаяние и полное бессилие передано в запрокинутой голове Антея; страдание написано на лице, предсмертный крик готов сорваться с уст.]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-14-04-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/s13ts2ocquhduaqidncqco7oi8/1635648852500/H1UDzh__yZO1P2gC5ybhKse9_N6yDssd/08892943792363940611/5AIsG_vaBaBLNKsaKcmqPHo4nXiZ5OPfZpQbvqDEwcpf_MVfA3Pzorq0_0ASiv92Gl2GGZUIR9NNnuixZSGCm14ape8HnGDNS9ho8U3gETy1tsPZbjk2Cbr7-P3bCPAHJtdxGbPBTTah2WIMX2cjWiJ3Q5h-kKdiNK3GmWLdYTicxqR5cV9ax94s8OM_7gcqeHVECXSft?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.2697632,59.9292416,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
