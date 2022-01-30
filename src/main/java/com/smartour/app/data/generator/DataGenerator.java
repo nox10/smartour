@@ -19,18 +19,17 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Bean;
 import org.springframework.core.io.Resource;
+import org.springframework.core.io.support.PathMatchingResourcePatternResolver;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.xml.sax.SAXException;
 
 import javax.xml.parsers.ParserConfigurationException;
 import javax.xml.parsers.SAXParser;
 import javax.xml.parsers.SAXParserFactory;
-import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.nio.file.Files;
 import java.nio.file.Path;
-import java.nio.file.Paths;
 import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.Collections;
@@ -98,12 +97,12 @@ public class DataGenerator {
         List<XmlPlacemark> xmlPlacemarks = new ArrayList<>();
         SAXParserFactory factory = SAXParserFactory.newInstance();
 
-        String path = placemarksFolder.getURL().getPath();
+        PathMatchingResourcePatternResolver resolver = new PathMatchingResourcePatternResolver();
+        Resource[] resources = resolver.getResources("/sampleplacemarks/**.kml");
+        for (Resource resource : resources) {
+            System.out.println("resource = " + resource);
 
-        List<String> files = findFiles(Paths.get(path), ".kml");
-
-        for (String file : files) {
-            try (InputStream is = new FileInputStream(file)) {
+            try (InputStream is = resource.getInputStream()) {
                 SAXParser saxParser = factory.newSAXParser();
 
                 // parse XML and map to object, it works, but not recommend, try JAXB
