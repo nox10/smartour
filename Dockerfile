@@ -31,4 +31,4 @@ COPY --from=build /usr/src/app/target/*.jar /usr/app/app.jar
 RUN useradd -m myuser
 USER myuser
 EXPOSE 8080
-CMD java -jar /usr/app/app.jar
+CMD java -Xmx3g -jar /usr/app/app.jar
