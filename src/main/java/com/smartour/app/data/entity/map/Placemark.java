@@ -1,12 +1,24 @@
 package com.smartour.app.data.entity.map;
 
+import com.smartour.app.data.AbstractEntity;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
 import java.util.Objects;
 
-public class Placemark {
+@Entity
+public class Placemark extends AbstractEntity {
     private String name;
+
+    @Column(length = 50000)
     private String description;
+
+    @Column(length = 4000)
     private String styleUrl;
+
+    @Column(length = 50000)
     private String data;
+
     private Double latitude;
     private Double longitude;
     private Double height;

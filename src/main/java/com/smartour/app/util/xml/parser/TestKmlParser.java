@@ -39,6 +39,6 @@ public class TestKmlParser {
 
     // get XML file from resources folder.
     private static InputStream getXMLFileAsStream() {
-        return TestKmlParser.class.getClassLoader().getResourceAsStream("sampledata/antique.kml");
+        return TestKmlParser.class.getClassLoader().getResourceAsStream("sampleplacemarks/antique.kml");
     }
 }
