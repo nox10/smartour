@@ -9,6 +9,8 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 import java.util.Optional;
 
+import static com.smartour.app.util.PlacemarkConverter.getNormalizedPhrase;
+
 @Service
 public class PlacemarkService {
 
@@ -23,9 +25,11 @@ public class PlacemarkService {
     }
 
     public List<Placemark> findByPhrase(String phrase) {
-        return repository.findAll().stream().filter(
-                p -> p.getDescription().toLowerCase().contains(phrase.toLowerCase())
-                        || p.getName().toLowerCase().contains(phrase.toLowerCase())).toList();
+        String normalizedPhrase = getNormalizedPhrase(phrase);
+
+        return repository.findAll().stream().filter(p ->
+                p.getNormalizedDescription().contains(normalizedPhrase)
+                        || p.getNormalizedName().contains(normalizedPhrase)).toList();
     }
 
     public Placemark update(Placemark entity) {

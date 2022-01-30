@@ -9,9 +9,13 @@ import java.util.Objects;
 @Entity
 public class Placemark extends AbstractEntity {
     private String name;
+    private String normalizedName;
 
     @Column(length = 50000)
     private String description;
+
+    @Column(length = 50000)
+    private String normalizedDescription;
 
     @Column(length = 4000)
     private String styleUrl;
@@ -77,6 +81,22 @@ public class Placemark extends AbstractEntity {
 
     public void setHeight(Double height) {
         this.height = height;
+    }
+
+    public String getNormalizedName() {
+        return normalizedName;
+    }
+
+    public void setNormalizedName(String normalizedName) {
+        this.normalizedName = normalizedName;
+    }
+
+    public String getNormalizedDescription() {
+        return normalizedDescription;
+    }
+
+    public void setNormalizedDescription(String normalizedDescription) {
+        this.normalizedDescription = normalizedDescription;
     }
 
     @Override
