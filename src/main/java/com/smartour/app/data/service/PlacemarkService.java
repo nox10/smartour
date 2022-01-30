@@ -6,6 +6,7 @@ import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
 
+import java.util.List;
 import java.util.Optional;
 
 @Service
@@ -19,6 +20,12 @@ public class PlacemarkService {
 
     public Optional<Placemark> get(Integer id) {
         return repository.findById(id);
+    }
+
+    public List<Placemark> findByPhrase(String phrase) {
+        return repository.findAll().stream().filter(
+                p -> p.getDescription().toLowerCase().contains(phrase.toLowerCase())
+                        || p.getName().toLowerCase().contains(phrase.toLowerCase())).toList();
     }
 
     public Placemark update(Placemark entity) {

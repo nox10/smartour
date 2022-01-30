@@ -13,8 +13,8 @@ public class PlacemarkConverter {
 
         String[] latLonHeigth = xmlPlacemark.getPoint().getCoordinates().split(",");
 
-        placemark.setLatitude(Double.parseDouble(latLonHeigth[0]));
-        placemark.setLongitude(Double.parseDouble(latLonHeigth[1]));
+        placemark.setLatitude(Double.parseDouble(latLonHeigth[1]));
+        placemark.setLongitude(Double.parseDouble(latLonHeigth[0]));
         placemark.setHeight(Double.parseDouble(latLonHeigth[2]));
 
         return placemark;
