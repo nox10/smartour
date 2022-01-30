@@ -12,8 +12,6 @@ import java.util.Arrays;
 import java.util.List;
 
 public class TestKmlParser {
-    private static final String FILENAME = "src/main/resources/sampledata/antique.kml";
-
     public static void main(String[] args) {
 
         SAXParserFactory factory = SAXParserFactory.newInstance();
