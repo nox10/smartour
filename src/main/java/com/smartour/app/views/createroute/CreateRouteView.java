@@ -17,6 +17,7 @@ import com.vaadin.flow.router.RouteAlias;
 import com.vaadin.flow.server.auth.AnonymousAllowed;
 import org.springframework.beans.factory.annotation.Autowired;
 
+import java.util.ArrayList;
 import java.util.List;
 
 @PageTitle("Create Route")
@@ -28,6 +29,7 @@ public class CreateRouteView extends VerticalLayout {
     private GoogleMap gmaps;
     private TextField searchQueryField;
     private Button searchButton;
+    private List<GoogleMapMarker> markers = new ArrayList<>();
 
     public CreateRouteView(@Autowired PlacemarkService placemarkService) {
         setSizeFull();
@@ -62,6 +64,11 @@ public class CreateRouteView extends VerticalLayout {
 
         searchButton = new Button("Create");
         searchButton.addClickListener(e -> {
+            for (GoogleMapMarker marker : markers) {
+                gmaps.removeMarker(marker);
+            }
+            markers = new ArrayList<>();
+
             Notification.show("Loading route \"" + searchQueryField.getValue() + "\"...");
 
             List<Placemark> placemarks = placemarkService.findByPhrase(searchQueryField.getValue());
@@ -74,6 +81,7 @@ public class CreateRouteView extends VerticalLayout {
                         null
                 );
                 marker.addInfoWindow("<h1>" + p.getName() + "</h1>\n\n" + p.getDescription());
+                markers.add(marker);
             });
         });
 
