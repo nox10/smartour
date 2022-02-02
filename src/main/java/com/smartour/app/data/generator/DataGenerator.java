@@ -15,7 +15,6 @@ import com.vaadin.exampledata.ExampleDataGenerator;
 import com.vaadin.flow.spring.annotation.SpringComponent;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Bean;
 import org.springframework.core.io.Resource;
@@ -39,9 +38,6 @@ import java.util.stream.Stream;
 
 @SpringComponent
 public class DataGenerator {
-
-    @Value("classpath:sampleplacemarks/")
-    private Resource placemarksFolder;
 
     @Bean
     public CommandLineRunner loadData(PasswordEncoder passwordEncoder, SampleAddressRepository sampleAddressRepository, UserRepository userRepository, PlacemarkRepository placemarkRepository) {
