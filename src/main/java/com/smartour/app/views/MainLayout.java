@@ -3,29 +3,18 @@ package com.smartour.app.views;
 import com.smartour.app.data.entity.User;
 import com.smartour.app.security.AuthenticatedUser;
 import com.smartour.app.views.about.AboutView;
-import com.smartour.app.views.addpoint.AddPointView;
 import com.smartour.app.views.createroute.CreateRouteView;
-import com.smartour.app.views.dashboard.DashboardView;
-import com.smartour.app.views.managepoints.ManagePointsView;
-import com.smartour.app.views.savedroutes.SavedRoutesView;
 import com.vaadin.flow.component.Component;
 import com.vaadin.flow.component.applayout.AppLayout;
 import com.vaadin.flow.component.applayout.DrawerToggle;
 import com.vaadin.flow.component.avatar.Avatar;
 import com.vaadin.flow.component.button.ButtonVariant;
 import com.vaadin.flow.component.contextmenu.ContextMenu;
-import com.vaadin.flow.component.html.Anchor;
-import com.vaadin.flow.component.html.Footer;
-import com.vaadin.flow.component.html.H1;
-import com.vaadin.flow.component.html.H2;
-import com.vaadin.flow.component.html.Header;
-import com.vaadin.flow.component.html.ListItem;
-import com.vaadin.flow.component.html.Nav;
-import com.vaadin.flow.component.html.Span;
-import com.vaadin.flow.component.html.UnorderedList;
+import com.vaadin.flow.component.html.*;
 import com.vaadin.flow.router.PageTitle;
 import com.vaadin.flow.router.RouterLink;
 import com.vaadin.flow.server.auth.AccessAnnotationChecker;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
@@ -122,15 +111,15 @@ public class MainLayout extends AppLayout {
         MenuItemInfo[] menuItems = new MenuItemInfo[]{ //
                 new MenuItemInfo("Create Route", "la la-map-marked", CreateRouteView.class), //
 
-                new MenuItemInfo("Saved Routes", "la la-th-list", SavedRoutesView.class), //
-
-                new MenuItemInfo("Add Point", "la la-map-marker", AddPointView.class), //
-
-                new MenuItemInfo("Manage Points", "la la-cog", ManagePointsView.class), //
-
+//                new MenuItemInfo("Saved Routes", "la la-th-list", SavedRoutesView.class), //
+//
+//                new MenuItemInfo("Add Point", "la la-map-marker", AddPointView.class), //
+//
+//                new MenuItemInfo("Manage Points", "la la-cog", ManagePointsView.class), //
+//
                 new MenuItemInfo("About", "la la-file", AboutView.class), //
 
-                new MenuItemInfo("Dashboard", "la la-chart-area", DashboardView.class), //
+//                new MenuItemInfo("Dashboard", "la la-chart-area", DashboardView.class), //
 
         };
         List<RouterLink> links = new ArrayList<>();

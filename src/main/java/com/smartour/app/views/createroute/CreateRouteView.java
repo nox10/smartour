@@ -41,23 +41,23 @@ public class CreateRouteView extends VerticalLayout {
         gmaps.setSizeFull();
         gmaps.setCenter(new LatLon(59.9311, 30.3609));
 
-        // add click listener to get latitude and longitude on left click
-        gmaps.addClickListener(
-                ev ->
-                        Notification.show(
-                                "Left click at latitude: "
-                                        + ev.getLatitude()
-                                        + "; Longitude: "
-                                        + ev.getLongitude()));
-
-        // add click listener to get latitude and longitude on right click
-        gmaps.addRightClickListener(
-                ev ->
-                        Notification.show(
-                                "Right click at latitude: "
-                                        + ev.getLatitude()
-                                        + "; Longitude: "
-                                        + ev.getLongitude()));
+//        // add click listener to get latitude and longitude on left click
+//        gmaps.addClickListener(
+//                ev ->
+//                        Notification.show(
+//                                "Left click at latitude: "
+//                                        + ev.getLatitude()
+//                                        + "; Longitude: "
+//                                        + ev.getLongitude()));
+//
+//        // add click listener to get latitude and longitude on right click
+//        gmaps.addRightClickListener(
+//                ev ->
+//                        Notification.show(
+//                                "Right click at latitude: "
+//                                        + ev.getLatitude()
+//                                        + "; Longitude: "
+//                                        + ev.getLongitude()));
 
         searchQueryField = new TextField("Route topic");
         searchQueryField.setAutofocus(true);
