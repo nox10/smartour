@@ -71,6 +71,13 @@ public class CreateRouteView extends VerticalLayout {
                         null
                 );
                 marker.addInfoWindow("<h1>" + p.getName() + "</h1>\n\n" + p.getDescription());
+                marker.addClickListener(ev -> {
+                    for (GoogleMapMarker gmarker : markers) {
+                        if (!gmarker.equals(marker)) {
+                            gmarker.setInfoWindowVisible(false);
+                        }
+                    }
+                });
                 markers.add(marker);
             });
 
