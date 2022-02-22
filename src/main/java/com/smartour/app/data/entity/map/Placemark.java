@@ -27,6 +27,16 @@ public class Placemark extends AbstractEntity {
     private Double longitude;
     private Double height;
 
+    private String source;
+
+    public String getSource() {
+        return source;
+    }
+
+    public void setSource(String source) {
+        this.source = source;
+    }
+
     public String getName() {
         return name;
     }
@@ -103,25 +113,29 @@ public class Placemark extends AbstractEntity {
     public boolean equals(Object o) {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
+        if (!super.equals(o)) return false;
         Placemark placemark = (Placemark) o;
-        return Objects.equals(name, placemark.name) && Objects.equals(description, placemark.description) && Objects.equals(styleUrl, placemark.styleUrl) && Objects.equals(data, placemark.data) && Objects.equals(latitude, placemark.latitude) && Objects.equals(longitude, placemark.longitude) && Objects.equals(height, placemark.height);
+        return Objects.equals(name, placemark.name) && Objects.equals(normalizedName, placemark.normalizedName) && Objects.equals(description, placemark.description) && Objects.equals(normalizedDescription, placemark.normalizedDescription) && Objects.equals(styleUrl, placemark.styleUrl) && Objects.equals(data, placemark.data) && Objects.equals(latitude, placemark.latitude) && Objects.equals(longitude, placemark.longitude) && Objects.equals(height, placemark.height) && Objects.equals(source, placemark.source);
     }
 
     @Override
     public int hashCode() {
-        return Objects.hash(name, description, styleUrl, data, latitude, longitude, height);
+        return Objects.hash(super.hashCode(), name, normalizedName, description, normalizedDescription, styleUrl, data, latitude, longitude, height, source);
     }
 
     @Override
     public String toString() {
         return "Placemark{" +
                 "name='" + name + '\'' +
+                ", normalizedName='" + normalizedName + '\'' +
                 ", description='" + description + '\'' +
+                ", normalizedDescription='" + normalizedDescription + '\'' +
                 ", styleUrl='" + styleUrl + '\'' +
                 ", data='" + data + '\'' +
-                ", lat=" + latitude +
-                ", lon=" + longitude +
+                ", latitude=" + latitude +
+                ", longitude=" + longitude +
                 ", height=" + height +
+                ", source='" + source + '\'' +
                 '}';
     }
 }

@@ -44,6 +44,10 @@ public class PlacemarkService {
         return repository.findAll(pageable);
     }
 
+    public List<Placemark> findAll() {
+        return repository.findAll();
+    }
+
     public int count() {
         return (int) repository.count();
     }

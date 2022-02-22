@@ -1,7 +1,6 @@
 package com.smartour.app.data.generator;
 
 import com.smartour.app.data.Role;
-import com.smartour.app.data.entity.SampleAddress;
 import com.smartour.app.data.entity.User;
 import com.smartour.app.data.entity.map.Placemark;
 import com.smartour.app.data.service.PlacemarkRepository;
@@ -10,8 +9,6 @@ import com.smartour.app.data.service.UserRepository;
 import com.smartour.app.util.PlacemarkConverter;
 import com.smartour.app.util.xml.entity.XmlPlacemark;
 import com.smartour.app.util.xml.parser.KmlParserHandler;
-import com.vaadin.exampledata.DataType;
-import com.vaadin.exampledata.ExampleDataGenerator;
 import com.vaadin.flow.spring.annotation.SpringComponent;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -27,9 +24,6 @@ import javax.xml.parsers.SAXParser;
 import javax.xml.parsers.SAXParserFactory;
 import java.io.IOException;
 import java.io.InputStream;
-import java.nio.file.Files;
-import java.nio.file.Path;
-import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
@@ -57,15 +51,15 @@ public class DataGenerator {
 
             logger.info("Generating demo data");
 
-            logger.info("... generating 100 Sample Address entities...");
-            ExampleDataGenerator<SampleAddress> sampleAddressRepositoryGenerator = new ExampleDataGenerator<>(SampleAddress.class, LocalDateTime.of(2022, 1, 25, 0, 0, 0));
-            sampleAddressRepositoryGenerator.setData(SampleAddress::setId, DataType.ID);
-            sampleAddressRepositoryGenerator.setData(SampleAddress::setStreet, DataType.ADDRESS);
-            sampleAddressRepositoryGenerator.setData(SampleAddress::setPostalCode, DataType.ZIP_CODE);
-            sampleAddressRepositoryGenerator.setData(SampleAddress::setCity, DataType.CITY);
-            sampleAddressRepositoryGenerator.setData(SampleAddress::setState, DataType.STATE);
-            sampleAddressRepositoryGenerator.setData(SampleAddress::setCountry, DataType.COUNTRY);
-            sampleAddressRepository.saveAll(sampleAddressRepositoryGenerator.create(100, seed));
+//            logger.info("... generating 100 Sample Address entities...");
+//            ExampleDataGenerator<SampleAddress> sampleAddressRepositoryGenerator = new ExampleDataGenerator<>(SampleAddress.class, LocalDateTime.of(2022, 1, 25, 0, 0, 0));
+//            sampleAddressRepositoryGenerator.setData(SampleAddress::setId, DataType.ID);
+//            sampleAddressRepositoryGenerator.setData(SampleAddress::setStreet, DataType.ADDRESS);
+//            sampleAddressRepositoryGenerator.setData(SampleAddress::setPostalCode, DataType.ZIP_CODE);
+//            sampleAddressRepositoryGenerator.setData(SampleAddress::setCity, DataType.CITY);
+//            sampleAddressRepositoryGenerator.setData(SampleAddress::setState, DataType.STATE);
+//            sampleAddressRepositoryGenerator.setData(SampleAddress::setCountry, DataType.COUNTRY);
+//            sampleAddressRepository.saveAll(sampleAddressRepositoryGenerator.create(100, seed));
 
             logger.info("... generating 2 User entities...");
             User user = new User();
@@ -106,32 +100,30 @@ public class DataGenerator {
 
                 saxParser.parse(is, handler);
 
-                xmlPlacemarks.addAll(handler.getResult());
+                List<XmlPlacemark> placemarks = handler.getResult();
+
+//                List<XmlPlacemark> badPlacemarks = placemarks.stream().filter(p -> p.getPoint() == null).toList();
+//                if (!badPlacemarks.isEmpty()) {
+//                    System.out.println();
+//                }
+
+                List<XmlPlacemark> resultPlacemarks = placemarks.stream().filter(
+
+                        // Not part of a route, actual placemark
+                        p -> p.getExtendedData() != null
+
+                                // Not a route coordinates set
+                                && p.getPoint().getCoordinates().split(",").length == 3
+
+                ).toList();
+                resultPlacemarks.forEach(p -> p.setSource(resource.getFilename()));
+
+                xmlPlacemarks.addAll(resultPlacemarks);
             } catch (ParserConfigurationException | SAXException | IOException e) {
                 e.printStackTrace();
             }
         }
         return xmlPlacemarks.stream().map(PlacemarkConverter::apply).toList();
-    }
-
-    public List<String> findFiles(Path path, String fileExtension) throws IOException {
-
-        if (!Files.isDirectory(path)) {
-            throw new IllegalArgumentException("Path must be a directory!");
-        }
-
-        List<String> result;
-
-        try (Stream<Path> walk = Files.walk(path)) {
-            result = walk.filter(p -> !Files.isDirectory(p))
-                    // this is a path, not string,
-                    // this only test if path end with a certain path
-                    //.filter(p -> p.endsWith(fileExtension))
-                    // convert path to string first
-                    .map(p -> p.toString().toLowerCase()).filter(f -> f.endsWith(fileExtension)).collect(Collectors.toList());
-        }
-
-        return result;
     }
 
 }

@@ -13,6 +13,8 @@
     <properties>
         <java.version>17</java.version>
         <vaadin.version>22.0.5</vaadin.version>
+        <timestamp>${maven.build.timestamp}</timestamp>
+        <maven.build.timestamp.format>yyyy-MM-dd HH:mm</maven.build.timestamp.format>
     </properties>
 
     <parent>
@@ -102,11 +104,11 @@
             <artifactId>spring-boot-starter-security</artifactId>
         </dependency>
 
-        <dependency>
-            <groupId>com.vaadin</groupId>
-            <artifactId>exampledata</artifactId>
-            <version>4.1.1</version>
-        </dependency>
+        <!--        <dependency>-->
+        <!--            <groupId>com.vaadin</groupId>-->
+        <!--            <artifactId>exampledata</artifactId>-->
+        <!--            <version>4.1.1</version>-->
+        <!--        </dependency>-->
 
         <dependency>
             <groupId>com.h2database</groupId>

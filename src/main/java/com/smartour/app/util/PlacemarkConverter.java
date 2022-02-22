@@ -17,6 +17,7 @@ public class PlacemarkConverter {
         placemark.setStyleUrl(xmlPlacemark.getStyleUrl());
         placemark.setDescription(xmlPlacemark.getDescription());
         placemark.setData(xmlPlacemark.getExtendedData().get(0).getValue());
+        placemark.setSource(xmlPlacemark.getSource());
 
         String[] latLonHeigth = xmlPlacemark.getPoint().getCoordinates().split(",");
 
