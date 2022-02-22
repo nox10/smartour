@@ -18,7 +18,7 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>2.6.2</version>
+        <version>2.6.3</version>
     </parent>
 
     <repositories>
@@ -105,7 +105,7 @@
         <dependency>
             <groupId>com.vaadin</groupId>
             <artifactId>exampledata</artifactId>
-            <version>4.1.0</version>
+            <version>4.1.1</version>
         </dependency>
 
         <dependency>
@@ -197,30 +197,6 @@
                         <goals>
                             <goal>prepare-frontend</goal>
                         </goals>
-                    </execution>
-                </executions>
-            </plugin>
-            <plugin>
-                <groupId>org.codehaus.mojo</groupId>
-                <artifactId>truezip-maven-plugin</artifactId>
-                <version>1.2</version>
-                <executions>
-                    <execution>
-                        <id>remove-a-file-in-sub-archive</id>
-                        <goals>
-                            <goal>remove</goal>
-                        </goals>
-                        <phase>package</phase>
-                        <configuration>
-                            <fileset>
-                                <directory>
-                                    target/smartour-1.0-SNAPSHOT.jar/BOOT-INF/lib/exampledata-4.1.0.jar/META-INF/resources/icons/
-                                </directory>
-                                <includes>
-                                    <include>icon.png</include>
-                                </includes>
-                            </fileset>
-                        </configuration>
                     </execution>
                 </executions>
             </plugin>
