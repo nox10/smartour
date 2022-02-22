@@ -10,8 +10,7 @@ import com.smartour.app.util.PlacemarkConverter;
 import com.smartour.app.util.xml.entity.XmlPlacemark;
 import com.smartour.app.util.xml.parser.KmlParserHandler;
 import com.vaadin.flow.spring.annotation.SpringComponent;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
+import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Bean;
 import org.springframework.core.io.Resource;
@@ -31,25 +30,25 @@ import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 @SpringComponent
+@Slf4j
 public class DataGenerator {
 
     @Bean
     public CommandLineRunner loadData(PasswordEncoder passwordEncoder, SampleAddressRepository sampleAddressRepository, UserRepository userRepository, PlacemarkRepository placemarkRepository) {
         return args -> {
-            Logger logger = LoggerFactory.getLogger(getClass());
             if (placemarkRepository.count() != 0L) {
-                logger.info("Using existing database");
+                log.info("Using existing database");
                 return;
             }
 
             placemarkRepository.saveAll(getPlacemarks());
-            logger.info("Placemarks loaded");
+            log.info("Placemarks loaded");
 
             // Generate everything else
 
             int seed = 123;
 
-            logger.info("Generating demo data");
+            log.info("Generating demo data");
 
 //            logger.info("... generating 100 Sample Address entities...");
 //            ExampleDataGenerator<SampleAddress> sampleAddressRepositoryGenerator = new ExampleDataGenerator<>(SampleAddress.class, LocalDateTime.of(2022, 1, 25, 0, 0, 0));
@@ -61,7 +60,7 @@ public class DataGenerator {
 //            sampleAddressRepositoryGenerator.setData(SampleAddress::setCountry, DataType.COUNTRY);
 //            sampleAddressRepository.saveAll(sampleAddressRepositoryGenerator.create(100, seed));
 
-            logger.info("... generating 2 User entities...");
+            log.info("... generating 2 User entities...");
             User user = new User();
             user.setName("John Normal");
             user.setUsername("user");
@@ -77,7 +76,7 @@ public class DataGenerator {
             admin.setRoles(Stream.of(Role.USER, Role.ADMIN).collect(Collectors.toSet()));
             userRepository.save(admin);
 
-            logger.info("Generated demo data");
+            log.info("Generated demo data");
         };
 
 
@@ -90,7 +89,7 @@ public class DataGenerator {
         PathMatchingResourcePatternResolver resolver = new PathMatchingResourcePatternResolver();
         Resource[] resources = resolver.getResources("/sampleplacemarks/**.kml");
         for (Resource resource : resources) {
-            System.out.println("resource = " + resource);
+            log.info("resource = " + resource);
 
             try (InputStream is = resource.getInputStream()) {
                 SAXParser saxParser = factory.newSAXParser();

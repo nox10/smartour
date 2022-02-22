@@ -1,9 +1,14 @@
 package com.smartour.app.data.entity;
 
 import com.smartour.app.data.AbstractEntity;
+import lombok.Getter;
+import lombok.Setter;
+
 import javax.persistence.Entity;
 
 @Entity
+@Getter
+@Setter
 public class SampleAddress extends AbstractEntity {
 
     private String street;
@@ -11,36 +16,4 @@ public class SampleAddress extends AbstractEntity {
     private String city;
     private String state;
     private String country;
-
-    public String getStreet() {
-        return street;
-    }
-    public void setStreet(String street) {
-        this.street = street;
-    }
-    public String getPostalCode() {
-        return postalCode;
-    }
-    public void setPostalCode(String postalCode) {
-        this.postalCode = postalCode;
-    }
-    public String getCity() {
-        return city;
-    }
-    public void setCity(String city) {
-        this.city = city;
-    }
-    public String getState() {
-        return state;
-    }
-    public void setState(String state) {
-        this.state = state;
-    }
-    public String getCountry() {
-        return country;
-    }
-    public void setCountry(String country) {
-        this.country = country;
-    }
-
 }

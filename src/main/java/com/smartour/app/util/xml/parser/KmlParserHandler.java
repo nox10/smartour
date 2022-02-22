@@ -3,12 +3,14 @@ package com.smartour.app.util.xml.parser;
 import com.smartour.app.util.xml.entity.XmlPlacemark;
 import com.smartour.app.util.xml.entity.XmlPlacemarkData;
 import com.smartour.app.util.xml.entity.XmlPoint;
+import lombok.extern.slf4j.Slf4j;
 import org.xml.sax.Attributes;
 import org.xml.sax.helpers.DefaultHandler;
 
 import java.util.ArrayList;
 import java.util.List;
 
+@Slf4j
 public class KmlParserHandler extends DefaultHandler {
 
     private final StringBuilder currentValue = new StringBuilder();
@@ -31,7 +33,7 @@ public class KmlParserHandler extends DefaultHandler {
 
     @Override
     public void endDocument() {
-        System.out.println("End Document");
+        log.info("End of the document");
     }
 
     @Override
