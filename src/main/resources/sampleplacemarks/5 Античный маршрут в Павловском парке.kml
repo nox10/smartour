@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Античный маршрут в Павловском парке</name>
+    <description/>
+    <Style id="icon-1899-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>Маршрут</name>
+      <Placemark>
+        <name>Круглый Зал</name>
+        <description><![CDATA[<img src="https://doc-0o-9k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/9lt4qeva063hrrerio458d5pf0/1645487298000/OMbkWFMYqXnhUCDPRKItJIpDY3iDSzdb/08892943792363940611/5AIsG_vYzA9D_NLzU_LPfd0hP7bHoK1tMpSUvcbRdjRdUitfokPGCHfzRzyVTEa5anwQQ3HGBvUj7glP0wAJyqz2FL5OBS7zgdJm6d_1oRq-5ZGnF9vHtKIMcLU3CvqPztvKqLtqedzLIdVgAaI5ElJp-nIEUXm9Uv7CPVDbCB6mgYSyvhCxy7KhjLaOQ1gpdhBMRSaY?session=0&fife" height="200" width="auto" /><br><br>Круглый зал, павильон классической архитектуры, расположен в парковом районе Большая Звезда в месте пересечения радиально расположенных дорог, где первоначально на круглой площадке, иногда именуемой по-французски Tapis Vert (Зеленый ковер), находилась смотровая площадка. Обладает классическими чертами античной архитектуры, портиками на боковых фасадах и абсидами на торцах.]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0o-9k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/9lt4qeva063hrrerio458d5pf0/1645487298000/OMbkWFMYqXnhUCDPRKItJIpDY3iDSzdb/08892943792363940611/5AIsG_vYzA9D_NLzU_LPfd0hP7bHoK1tMpSUvcbRdjRdUitfokPGCHfzRzyVTEa5anwQQ3HGBvUj7glP0wAJyqz2FL5OBS7zgdJm6d_1oRq-5ZGnF9vHtKIMcLU3CvqPztvKqLtqedzLIdVgAaI5ElJp-nIEUXm9Uv7CPVDbCB6mgYSyvhCxy7KhjLaOQ1gpdhBMRSaY?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.443733,59.6931888,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Колоннада Аполлона</name>
+        <description><![CDATA[<img src="https://doc-0o-9k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/iu3h6nu6mdlp61jlruqljjf2o4/1645487298000/OMbkWFMYqXnhUCDPRKItJIpDY3iDSzdb/08892943792363940611/5AIsG_vZrPR-8WdOJyfSSOhVas6JRW9Prs6QhKNmD26CqXLoziUSvU98gEToR6o-QZ3itW1HXECg2pm5GlSfjttQQj0rbNhZF0yI1HrmCmWxFFOmTXg2jDe7zsdN5JfgBbWq3xAvIXGIysbwfsVgmb72GWf9QNyp-HyAOp2XXbUffJ3zaBy9Gv6CCh3DFgm-No_M0FO8?session=0&fife" height="200" width="auto" /><br><br>Колоннада Аполлона – один из шедевров парковой архитектуры конца XVIII века. Сооружена Ч. Камероном в 1782 году на лугу верхнего плато левого берега р. Славянки. Колоннада решена в виде двойного кольца колонн дорического ордера, перекрытых архитравом. Мощные формы архитектуры и серый цвет известняка, из которого выполнено сооружение, придают ему характер подлинной античности. Величественный, открытый храм-колоннада, полный света и воздуха, посвящен Аполлону]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0o-9k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/iu3h6nu6mdlp61jlruqljjf2o4/1645487298000/OMbkWFMYqXnhUCDPRKItJIpDY3iDSzdb/08892943792363940611/5AIsG_vZrPR-8WdOJyfSSOhVas6JRW9Prs6QhKNmD26CqXLoziUSvU98gEToR6o-QZ3itW1HXECg2pm5GlSfjttQQj0rbNhZF0yI1HrmCmWxFFOmTXg2jDe7zsdN5JfgBbWq3xAvIXGIysbwfsVgmb72GWf9QNyp-HyAOp2XXbUffJ3zaBy9Gv6CCh3DFgm-No_M0FO8?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.4480431,59.6857305,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Мост Кентавров</name>
+        <description><![CDATA[<img src="https://doc-04-9k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/97u9s3rve72rssitvh0snrimvs/1645487298000/OMbkWFMYqXnhUCDPRKItJIpDY3iDSzdb/08892943792363940611/5AIsG_vb-61Euz95aoWIhWUuJ1wXOMlcF87FiPxs7yFte_b7oSs-lP6rm_NXiE6u2IWRW1DrdymQ7Co1Mbfit_ExnWrDlOeseIfZL9tQE-RQrC5fjV1iN-BBYyNR8upCLbPQ1SPl1rNruR56ZtZvgZn2BKwPVDodWsIVBR9375X0uN7cYO42P_fPZu3UrUdK4v8sr_Ns?session=0&fife" height="200" width="auto" /><br><br>Мост Кентавров – один из знаковых символов Павловского парка. Расположенный в излучине реки Славянки, он превосходно вписывается в пейзаж, с него открываются живописные виды на дворец и на Колоннаду Аполлона. Влияние античности очевидно выражается в скульптурах древних мифических существ, кентавров, которыми украшен мост.]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-04-9k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/97u9s3rve72rssitvh0snrimvs/1645487298000/OMbkWFMYqXnhUCDPRKItJIpDY3iDSzdb/08892943792363940611/5AIsG_vb-61Euz95aoWIhWUuJ1wXOMlcF87FiPxs7yFte_b7oSs-lP6rm_NXiE6u2IWRW1DrdymQ7Co1Mbfit_ExnWrDlOeseIfZL9tQE-RQrC5fjV1iN-BBYyNR8upCLbPQ1SPl1rNruR56ZtZvgZn2BKwPVDodWsIVBR9375X0uN7cYO42P_fPZu3UrUdK4v8sr_Ns?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.4508253,59.6862154,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Павловский Дворец</name>
+        <description><![CDATA[<img src="https://doc-0o-9k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/7iv2i0gbdb1ulcupbts0unghmk/1645487298000/OMbkWFMYqXnhUCDPRKItJIpDY3iDSzdb/08892943792363940611/5AIsG_vZoYkKFURsoxGUAJS9hT00T8H5NhuBFQ2nesh2r00x6JTBjn0Um8RwmY3tTPILaadNAx-a3ES1hw4NXu0BvziEBUFQFnEGeGM07T962AvkkSPQjIAlygNtZF9M1JiHT55ckm16uBP58rLwzuAiTKW1tX_GoKiWnHzBKycPX8_QWh2CpE8ixTYKiRh_hdKdosts?session=0&fife" height="200" width="auto" /><br><br>Золотисто-белый дворец, построенный на высоком берегу Славянки, виден даже с дальних точек парка и города. Его трехэтажный центральный корпус, увенчанный плоским куполом на шестидесяти четырех колоннах, — самый ранний по времени постройки и самый изысканный по отделке. Он создан Чарльзом Камероном в 80-х годах XVIII века. Колоннады закругленных галерей соединяли центральный корпус со служебными одноэтажными корпусами, образуя парадный двор в виде широкой подковы. Здание возведено в неоклассическом стиле, а значит во многих аспектах заимствует античные архитектурные традиции.]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0o-9k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/7iv2i0gbdb1ulcupbts0unghmk/1645487298000/OMbkWFMYqXnhUCDPRKItJIpDY3iDSzdb/08892943792363940611/5AIsG_vZoYkKFURsoxGUAJS9hT00T8H5NhuBFQ2nesh2r00x6JTBjn0Um8RwmY3tTPILaadNAx-a3ES1hw4NXu0BvziEBUFQFnEGeGM07T962AvkkSPQjIAlygNtZF9M1JiHT55ckm16uBP58rLwzuAiTKW1tX_GoKiWnHzBKycPX8_QWh2CpE8ixTYKiRh_hdKdosts?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.4526298,59.68568,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Павильон "Вольер"]]></name>
+        <description><![CDATA[<img src="https://doc-0o-9k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/27nt691ce1853v5pj5l0cp7a9c/1645487298000/OMbkWFMYqXnhUCDPRKItJIpDY3iDSzdb/08892943792363940611/5AIsG_vZBzqOHYTWuMiinMtWWZ_C3AepnKvfPyDR0OcmTAr1MYo8B_uSnDRE0aESrYiitRJGQ5YkaqLkbfCSonrdQZcsmh7ups3VRw4knoAPUbRt0qI_1BsPd8fUiuR2sfL2AneHxcOl4atzvk-b5qVY_L9QlSO79t5fyqHajuVZsLv_da7fQay6WngBkk9M70U2cBz4?session=0&fife" height="200" width="auto" /><br><br>Вольер – расположен недалеко от Большого дворца у Тройной липовой аллеи. Он был построен по проекту Ч. Камерона в 1782-1784 годах и представляет собой изящный парковый павильон в классическом стиле. В переводе с французского Вольер означает Птичник и первоначально павильон строился как помещение для певчих птиц, что являлось модной тенденцией XVIII века. Для того, чтобы в павильоне было больше солнца, его главный фасад обращен к югу, и таким образом Вольер поставлен несколько под углом по отношению к Тройной липовой аллее.]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0o-9k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/27nt691ce1853v5pj5l0cp7a9c/1645487298000/OMbkWFMYqXnhUCDPRKItJIpDY3iDSzdb/08892943792363940611/5AIsG_vZBzqOHYTWuMiinMtWWZ_C3AepnKvfPyDR0OcmTAr1MYo8B_uSnDRE0aESrYiitRJGQ5YkaqLkbfCSonrdQZcsmh7ups3VRw4knoAPUbRt0qI_1BsPd8fUiuR2sfL2AneHxcOl4atzvk-b5qVY_L9QlSO79t5fyqHajuVZsLv_da7fQay6WngBkk9M70U2cBz4?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.4566968,59.6855471,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Павильон "Храм Дружбы"]]></name>
+        <description><![CDATA[<img src="https://doc-04-9k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/ij3qn5368mcn3ifl0id8o7ae2g/1645487298000/OMbkWFMYqXnhUCDPRKItJIpDY3iDSzdb/08892943792363940611/5AIsG_vaWvtoLm_EzixqOaabdqwWHsyB6gTxnrvl2cHWS5aYRba8K2HEBm7823kRvyBpl13OqMp36Iz9hopleh79OOs0pDT5SUUYuDpopwtfgwJFNPERqSpcA4Cx97nPpR8KPobZlXD-4SeTKzdiI6Ty4eua1Q0qM-7dNz4dtoTf8Gs5n6FkoLlajnWF9jrwzh5hwUOc?session=0&fife" height="200" width="auto" /><br><br>Храм Дружбы, шедевр классической парковой архитектуры, созданный Ч. Камероном в 1782 г., является доминантой района Долины реки Славянки. Поставленный Камероном на полуостровке, образованном излучиной Славянки, он является неотъемлемой частью пейзажа, создавая гармонию архитектуры и природы. В павильоне явно просматриваются черты античного римского пантеона]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-04-9k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/ij3qn5368mcn3ifl0id8o7ae2g/1645487298000/OMbkWFMYqXnhUCDPRKItJIpDY3iDSzdb/08892943792363940611/5AIsG_vaWvtoLm_EzixqOaabdqwWHsyB6gTxnrvl2cHWS5aYRba8K2HEBm7823kRvyBpl13OqMp36Iz9hopleh79OOs0pDT5SUUYuDpopwtfgwJFNPERqSpcA4Cx97nPpR8KPobZlXD-4SeTKzdiI6Ty4eua1Q0qM-7dNz4dtoTf8Gs5n6FkoLlajnWF9jrwzh5hwUOc?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.4558101,59.6881657,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Двенадцать дорожек (Аполлон и музы)</name>
+        <description><![CDATA[<img src="https://doc-14-9k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/5olj8h2euje71mkcpsem33ofb0/1645487298000/OMbkWFMYqXnhUCDPRKItJIpDY3iDSzdb/08892943792363940611/5AIsG_vYGWiR-vDqd6dFXrzTcNd6poA4_0moqY6xYJa29qwjZ2d-k08JmjyFn8DwklybwwHcnAakKvAW4jODQgj43OVcfr1Y2C-mxL5VR60jmelyWyLyRo7QKxYouzlLMPoODMwYOOArtXGNbacI6ezwVRIhjEttIjxEKIN8UVMRXcfI8UQU9e41CuxGT9ZWKfod-9B0e?session=0&fife" height="200" width="auto" /><br><br>Статуи древнегреческого бога Аполлона и муз-покровительниц искусств украшают двенадцать сходящихся дорожек.]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-14-9k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/5olj8h2euje71mkcpsem33ofb0/1645487298000/OMbkWFMYqXnhUCDPRKItJIpDY3iDSzdb/08892943792363940611/5AIsG_vYGWiR-vDqd6dFXrzTcNd6poA4_0moqY6xYJa29qwjZ2d-k08JmjyFn8DwklybwwHcnAakKvAW4jODQgj43OVcfr1Y2C-mxL5VR60jmelyWyLyRo7QKxYouzlLMPoODMwYOOArtXGNbacI6ezwVRIhjEttIjxEKIN8UVMRXcfI8UQU9e41CuxGT9ZWKfod-9B0e?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.4613351,59.6909895,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Амфитеатр со статуей «Флора»</name>
+        <description><![CDATA[<img src="https://doc-08-9k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/856hbsudlpbtbt49o57134du04/1645487298000/OMbkWFMYqXnhUCDPRKItJIpDY3iDSzdb/08892943792363940611/5AIsG_vaEUAjUZS_RfjKsg-KH2Rtq2OooE9R1NYs5FO7HqHlVPjyd2sXVqX4SyCcuhcBQ0n8qZ1UeuX366rt_kOEKSWanqouggxwzVr3485m9bKhG0g-Rx1zEBd-9lVSk4Kxv_nXyc1aVa_eGrqWE3cyb-brOXlBOsTyPyi17wWvN8OUyxZPsmTkzqwTEFbq0JC_S2kQ?session=0&fife" height="200" width="auto" /><br><br>Амфитеатр (Любимое место цесаревича Николая Александровича) – небольшая полукруглая площадка на вершине насыпного холма в Долине реки Славянки между Висконтиевым и Пильбашенным мостами. Амфитеатр, как садовая затея в духе античных увеселительных сооружений, был сооружен в 1793 году по проекту В. Бренна. На правом берегу Славянки Бренна разместил Каменный амфитеатр для зрителей, а на левом берегу – зеленый амфитеатр, представлявший ряд земляных террас и лестниц с зелеными кулисами для представлений. В центре каменной скамьи на пьедестале была установлена мраморная статуя Цереры.]]></description>
+        <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-08-9k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/856hbsudlpbtbt49o57134du04/1645487298000/OMbkWFMYqXnhUCDPRKItJIpDY3iDSzdb/08892943792363940611/5AIsG_vaEUAjUZS_RfjKsg-KH2Rtq2OooE9R1NYs5FO7HqHlVPjyd2sXVqX4SyCcuhcBQ0n8qZ1UeuX366rt_kOEKSWanqouggxwzVr3485m9bKhG0g-Rx1zEBd-9lVSk4Kxv_nXyc1aVa_eGrqWE3cyb-brOXlBOsTyPyi17wWvN8OUyxZPsmTkzqwTEFbq0JC_S2kQ?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.4596272,59.6921538,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

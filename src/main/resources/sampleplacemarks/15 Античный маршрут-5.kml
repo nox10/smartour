@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Античный маршрут</name>
+    <description/>
+    <Style id="icon-1548-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1548-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1548-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1548-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1548-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Павловск</name>
+      <Placemark>
+        <name>Николаевские ворота</name>
+        <description><![CDATA[<img src="https://doc-0s-7o-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/1q6dp590amr9m2k23uav70tn7g/1645487100000/fdr84WUOP0v_NqsdnEzIWcFVsWf6MMXs/*/6AIsG_vbC5Ze74tx9Ppk572dBjR2p_PyQwjAOvAYj59ffpOCqXgovhad3fgRMekEGCrqhOdXHdnXMApUM0xoYVMMfAmqgEUQKZrRnlhjWndBB09RC71u-UbtdNUjMLRHMQN04z7iMNkMRaSikQoDy5bV6FqSCraZsEZBcc3b_igGdNJl1quk-Dvg7RiTWV8TA-3tdJJVs?session=0&fife" height="200" width="auto" /><br><br>Николаевские (чугунные) ворота<br>(1826 г., архитектор Карл Росси).              Черты античной архитектуры: колонны дорического ордера.]]></description>
+        <styleUrl>#icon-1548-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0s-7o-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/1q6dp590amr9m2k23uav70tn7g/1645487100000/fdr84WUOP0v_NqsdnEzIWcFVsWf6MMXs/*/6AIsG_vbC5Ze74tx9Ppk572dBjR2p_PyQwjAOvAYj59ffpOCqXgovhad3fgRMekEGCrqhOdXHdnXMApUM0xoYVMMfAmqgEUQKZrRnlhjWndBB09RC71u-UbtdNUjMLRHMQN04z7iMNkMRaSikQoDy5bV6FqSCraZsEZBcc3b_igGdNJl1quk-Dvg7RiTWV8TA-3tdJJVs?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.4434793,59.687268,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Колоннада Аполлона</name>
+        <description><![CDATA[<img src="https://doc-0k-7o-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/k5jtbuqjhsvumvq4pl3tjoh4f8/1645487100000/fdr84WUOP0v_NqsdnEzIWcFVsWf6MMXs/*/6AIsG_vZIJmKeD4GLUtCqtZ7uvoFShVH_nfzQt5N4Q4dCvwXq24JXQXL98SZoFAYLzVteLFBP3c5dClgEKPhAcnm5Gq1dVD8vyS7SbEJs7xFF04CMU8f-Wc3iEwjyYbt9rWBREFdf3NW1DYG-balC5u5yV4SF_2tRDkn_thWCMkySDqkcE6Zv3sRRHZjF9hS9wwibOVs?session=0&fife" height="200" width="auto" /><br><br>Год постройки: 1782-1783, 1799-1817<br>Архитекторы: Кваренги Д. Камерон Ч.<br>Античные элементы: колонна, капитель, антаблемент, карниз<br>Архитектура императорских резиденций пригородов Санкт-Петербурга пронизана античными мотивами, но колоннада Аполлона, вне всяких сомнений, не имеет себе равных в плане подражания древнегреческому стилю. Она находится на территории Павловского парка, на левом берегу реки Славянка, и с первого взгляда любого приводит в недоумение: кажется, будто находишься на развалинах Парфенона, а не в пышном подлеске средней полосы России.<br>Колоннада была спроектирована в 1782 г. Чарльзом Камероном, автором большинства строений Павловского парка. Она выполнена в форме кольца, колонны расположены в два ряда, а в центре композиции стоит статуя Аполлона, покровителя искусств. Само строение и декоративные элементы выполнены из пудостского известняка характерного серого цвета. Верхняя часть колоннады украшена медальонами, барельефами и лепниной в виде лавровых гирлянд. Первоначально Колоннада Аполлона находилась на открытом солнечном месте, недалеко от въезда в парк со стороны Царского села, но в 1800 году Павел I приказал перенести сооружение ближе к дворцу, чтобы видеть его из своих покоев. Автор композиции Камерон был категорически против этого решения, долго спорил и тогда перенести сооружение было поручено Джакомо Кваренги. Колоннада была установлена на вершине холма, символизирующего гору Парнас, также был устроен каскад, спускавшийся по камням в реку. Согласно греческой мифологии, гора Парнас была местом обитания покровителя искусства Аполлона и девяти его муз.<br>В 1817 г. во время бури ее подмыло водой, и часть колонн рухнули, увлекая за собой и верхнюю часть — антаблемент. Смотрители парка приняли решение в духе столетия — не реставрировать сооружение, ведь обломки колонн придавали ему еще более античный и романтический вид.]]></description>
+        <styleUrl>#icon-1548-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0k-7o-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/k5jtbuqjhsvumvq4pl3tjoh4f8/1645487100000/fdr84WUOP0v_NqsdnEzIWcFVsWf6MMXs/*/6AIsG_vZIJmKeD4GLUtCqtZ7uvoFShVH_nfzQt5N4Q4dCvwXq24JXQXL98SZoFAYLzVteLFBP3c5dClgEKPhAcnm5Gq1dVD8vyS7SbEJs7xFF04CMU8f-Wc3iEwjyYbt9rWBREFdf3NW1DYG-balC5u5yV4SF_2tRDkn_thWCMkySDqkcE6Zv3sRRHZjF9hS9wwibOVs?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.4465412,59.6850851,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Павильон Трёх граций</name>
+        <description><![CDATA[<img src="https://doc-04-7o-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/bkho8amicni8o7b8qi5mg6be1s/1645487100000/fdr84WUOP0v_NqsdnEzIWcFVsWf6MMXs/*/6AIsG_vbtdtTN98BQ6_sHIx-RjA_715C0aJhUTpgn7IR7EIv83gWpmHf8kGuTIYNhvPcp7F2ELtVePWvcyvY-TT0wTmLQ4J9ay2VrCVahDoQqMuE132Qxq1ikmaNzZ6kTYwTZCXeB61VV0Wqt-fHmwBtc0l0lY3R-yfac3bG34MyHDRVp_zpUyPfxHegtS5DatEVRZyw?session=0&fife" height="200" width="auto" /><br><br>Павильон Трех граций был построен в 1800 г. по проекту Ч. Камерона на террасе Собственного садика, откуда открывается живописный вид на Мариентальский пруд. Эта терраса была любимым местом, где отдыхал и работал Павел I. Павильон представляет собой 16-ти колонный портик ионического ордера. Павильон имеет двускатную крышу, с фронтонами с обеих сторон. Во фронтонах помещены барельефы с фигурами Аполлона с лирой, окруженного атрибутами искусств и Минервы с эмблемами силы и славы (скульптор И.П. Прокофьев). Плафон украшен розетками из листьев аканта, исполненных в высоком рельефе. В 1803 г. император Александр I подарил матери императрице Марии Федоровне мраморную скульптуру «Три грации», выполненную итальянским скульптором Паоло Трискорни из цельного куска каррарского мрамора. Три грации по античной мифологии покровительницы всего прекрасного и возвышенного: Ефросина (радость), Аглая (блеск) и Талия (счастье). Они – дочери бога Зевса и океаниды Эвриномы. Грации часто являлись спутницами богов: Диониса, Гермеса, Афродиты. Их главной обязанностью было доставлять богам и людям все то, что делает их жизнь замечательной и счастливой.<br>Они представлены в виде стройных женских фигур, поддерживающих вазу, стоящую на колонне. Эта скульптурная группа, поставленная в центре павильона на пересечении осей, гармонично вписалась в архитектуру камероновского павильона, получившего с этого момента свое название как Павильон Трех граций.<br><br><img src="https://doc-0s-7o-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/mk4kqb5jig4je1kmq0372ffl78/1645487100000/fdr84WUOP0v_NqsdnEzIWcFVsWf6MMXs/*/6AIsG_vZq-npC8y3275yLxkDwh3Fu4BuYigTlx1nPUuoh3JHvk9YeEFHl5dNCxXumKD5CjlL6MvBN5xfKfOFauJiuVufv-UdKqsWp31cEerF480I96b0I1G5YvILcNM4YrwLtmjGdHkSv4xe3WGKJoUo_y3_ZD9BNJC4RJLe243iVxZZxPgK5x2KPXGiyK6RTw2dWR5I?session=0&fife" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1548-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-04-7o-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/bkho8amicni8o7b8qi5mg6be1s/1645487100000/fdr84WUOP0v_NqsdnEzIWcFVsWf6MMXs/*/6AIsG_vbtdtTN98BQ6_sHIx-RjA_715C0aJhUTpgn7IR7EIv83gWpmHf8kGuTIYNhvPcp7F2ELtVePWvcyvY-TT0wTmLQ4J9ay2VrCVahDoQqMuE132Qxq1ikmaNzZ6kTYwTZCXeB61VV0Wqt-fHmwBtc0l0lY3R-yfac3bG34MyHDRVp_zpUyPfxHegtS5DatEVRZyw?session=0&fife https://doc-0s-7o-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/mk4kqb5jig4je1kmq0372ffl78/1645487100000/fdr84WUOP0v_NqsdnEzIWcFVsWf6MMXs/*/6AIsG_vZq-npC8y3275yLxkDwh3Fu4BuYigTlx1nPUuoh3JHvk9YeEFHl5dNCxXumKD5CjlL6MvBN5xfKfOFauJiuVufv-UdKqsWp31cEerF480I96b0I1G5YvILcNM4YrwLtmjGdHkSv4xe3WGKJoUo_y3_ZD9BNJC4RJLe243iVxZZxPgK5x2KPXGiyK6RTw2dWR5I?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.4529555,59.6846641,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Павильон Вольер</name>
+        <description><![CDATA[<img src="https://doc-08-7o-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/fc0bbsn9coml3mha8g3fk9fv2g/1645487100000/fdr84WUOP0v_NqsdnEzIWcFVsWf6MMXs/*/6AIsG_vYe5xLI-mgUvry18KERI3GKs0MJ2xhhpzALkH7CfvvyoZab4Ci1nDgln9ptKUs8bxUkFNd6jmRJkWyy_raK0AWAWiVR_rjxEP5T9YOJTLJSk074KAwB-pXILQpIahO9IIgqOW9BLkXK8-Zi_qciG2vP5RrRaZTSpXRNO0_X4KfhiNiUG_2BoDbmV4wXfdhZBBA?session=0&fife" height="200" width="auto" /><br><br>Вольер – расположен недалеко от Большого дворца у Тройной липовой аллеи. Он был построен по проекту Ч. Камерона в 1782-1784 годах и представляет собой изящный парковый павильон в классическом стиле. В переводе с французского Вольер означает Птичник и первоначально павильон строился как помещение для певчих птиц, что являлось модной тенденцией XVIII века. Для того, чтобы в павильоне было больше солнца, его главный фасад обращен к югу, и таким образом Вольер поставлен несколько под углом по отношению к Тройной липовой аллее.]]></description>
+        <styleUrl>#icon-1548-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-08-7o-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/fc0bbsn9coml3mha8g3fk9fv2g/1645487100000/fdr84WUOP0v_NqsdnEzIWcFVsWf6MMXs/*/6AIsG_vYe5xLI-mgUvry18KERI3GKs0MJ2xhhpzALkH7CfvvyoZab4Ci1nDgln9ptKUs8bxUkFNd6jmRJkWyy_raK0AWAWiVR_rjxEP5T9YOJTLJSk074KAwB-pXILQpIahO9IIgqOW9BLkXK8-Zi_qciG2vP5RrRaZTSpXRNO0_X4KfhiNiUG_2BoDbmV4wXfdhZBBA?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.4566191,59.6856074,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Статуя "Венера Италийская"]]></name>
+        <description><![CDATA[<img src="https://doc-0o-7o-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/rf8g4d70cbshii3ab8bhgauhic/1645487100000/fdr84WUOP0v_NqsdnEzIWcFVsWf6MMXs/*/6AIsG_vbm3UIqVfHjLp4WA9nRFqTeoFrnefOnaghPiO7hf6utGQw6ssTuoCYHV1qAtGXVxuY_AMUO1hOO3S8raWOc3Zva7u6dTzyeKm97Pbsm9ymtt0f2S30FV7K0zEiDD5H5JeYtgHmfUzvbd39qmGph1IxvyoYnJIlNHL5EUwM9rliXtxMmZO4XtoLRl4P_USdVIS7n?session=0&fife" height="200" width="auto" /><br><br>Пруд перед Вольером в настоящее время украшает мраморная скульптура Венеры Италийской (копия итальянской работы нач. XIX в. с оригинала А. Кановы).]]></description>
+        <styleUrl>#icon-1548-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0o-7o-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/rf8g4d70cbshii3ab8bhgauhic/1645487100000/fdr84WUOP0v_NqsdnEzIWcFVsWf6MMXs/*/6AIsG_vbm3UIqVfHjLp4WA9nRFqTeoFrnefOnaghPiO7hf6utGQw6ssTuoCYHV1qAtGXVxuY_AMUO1hOO3S8raWOc3Zva7u6dTzyeKm97Pbsm9ymtt0f2S30FV7K0zEiDD5H5JeYtgHmfUzvbd39qmGph1IxvyoYnJIlNHL5EUwM9rliXtxMmZO4XtoLRl4P_USdVIS7n?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.4561538,59.6853433,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Мост кентавров</name>
+        <description><![CDATA[<img src="https://doc-10-7o-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/dpsc9r5ugi1l2d219kql70l5ks/1645487100000/fdr84WUOP0v_NqsdnEzIWcFVsWf6MMXs/*/6AIsG_vbs2iX82TeOBb_Gw3yxd6sd13-ns_JDTEQ2Vrhj_EijJi5Nc6kDFJ4OLSscx_8S4kN91CE-0kgfO1_nWHsWIiyz64sBg3Au0IQAqwDoK9ZZNBxONBXrmvQZZZZSDl-jCdS9SrgLzotYgstjI6WH-a3Vaty4Put_EHdCBHWMK8crRhtuU46NHazPEftVpb1YQszj?session=0&fife" height="200" width="auto" /><br><br>Мост Кентавров – один из знаковых символов Павловского парка. Расположенный в излучине реки Славянки, он превосходно вписывается в пейзаж, с него открываются живописные виды на дворец и на Колоннаду Аполлона.<br><br>Построенный в начале 1790 годов по проекту В. Бренны, мост с самого начала был украшен по четырем углам двумя парами статуй безбородого и бородатого кентавров. Первоначально здесь находился деревянный мост, вместо которого с появлением Холодной бани был построен новый каменный мост. Его украшали гипсовые копии с античных кентавров, которые произвели большое впечатление на Павла Петровича и Марию Федоровну во время посещения музея Капитолия. Таким образом, идея украсить мост этими скульптурами принадлежала владельцам Павловска.<br><br>В 1805 году А.Н. Воронихин заменил гипсовые статуи на мраморные, которые и находились на мосту вплоть до Великой Отечественной войны. Статуи не были эвакуированы и сильно пострадали. После войны были сделаны копии из эпоксидной смолы. В настоящее время продолжается процесс реставрации подлинных мраморных скульптур и исполнение с них копий в искусственном материале.]]></description>
+        <styleUrl>#icon-1548-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-10-7o-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/dpsc9r5ugi1l2d219kql70l5ks/1645487100000/fdr84WUOP0v_NqsdnEzIWcFVsWf6MMXs/*/6AIsG_vbs2iX82TeOBb_Gw3yxd6sd13-ns_JDTEQ2Vrhj_EijJi5Nc6kDFJ4OLSscx_8S4kN91CE-0kgfO1_nWHsWIiyz64sBg3Au0IQAqwDoK9ZZNBxONBXrmvQZZZZSDl-jCdS9SrgLzotYgstjI6WH-a3Vaty4Put_EHdCBHWMK8crRhtuU46NHazPEftVpb1YQszj?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.4507302,59.686222,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Храм Дружбы</name>
+        <description><![CDATA[<img src="https://doc-0o-7o-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/fmcsav2095itl6i9ij8lotjbpk/1645487100000/fdr84WUOP0v_NqsdnEzIWcFVsWf6MMXs/*/6AIsG_vaStsQdcu9r1y2DX11aV_6Dmon5Pk2KJgFT5xeMP-frqGgmRpojDmXspEKwVHeHdDJxBcjRrsqIOBdue_7MoMSni-jd_X1YnndZ83nRHpU5uGjxRTwVywqxFZrfwq50pYi-YiiCGb3FXyZrxUyy8cCyuH6errHr6rnT04anDlJOapzse42pu2c3mlFIVkqCTPM?session=0&fife" height="200" width="auto" /><br><br>Храм Дружбы, шедевр классической парковой архитектуры, созданный Чарлзом Камероном в 1782 г., является доминантой района Долины реки Славянки. Павильон был посвящен Екатерине II. Над дверями была сделана надпись из бронзовых золоченых букв: «Любовь, почтение и благодарность посвятили». Храм Дружбы предназначался для устройства обедов и небольших концертов. Для организации обедов в павильоне вблизи него на берегу Славянки была построена Кухня-руина, не сохранившаяся до нашего времени. Следуя канонам античного искусства, а также отдавая дань моде на подобные аллегорические сооружения, Камерон строит Храм Дружбы в виде ротонды, окруженной кольцом из шестнадцати каннелированных колонн дорического ордера архаического типа: колонны без баз поставлены на невысокий стереобат. Все сооружение перекрыто плоским куполом со световым фонарем: окна в Храме Дружбы отсутствуют, поэтому свет внутрь может попасть только сверху, как в «Око Пантеона» На фасаде павильона Рашет разместил медальоны с барельефами, в аллегорической форме прославляющие Екатерину Вторую. На одном она олицетворяет Щедрость, на другом – Справедливость, на третьем представлена в образе богини мудрости Минервы (или богини победы Виктории), а на четвертом изображена в момент вручения дарственных грамот на владение этими землями. Внутри была установлена скульптура императрицы, сначала в образе Минервы, а затем в виде богини плодородия Цереры. Над колоннами по периметру идет лепной фриз в стиле греческого триглифо-метопного фриза, где изображения дельфинов, символов дружбы, чередуются с венками, в которых представлены роза как символ любви с миртами и оливами, символами славы и почета. Внутри интерьера по верхнему периметру стен также идет лепной фриз, в котором чередуются сухая и цветущая ветви, как символы умирающей и возрождающейся жизни.]]></description>
+        <styleUrl>#icon-1548-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0o-7o-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/fmcsav2095itl6i9ij8lotjbpk/1645487100000/fdr84WUOP0v_NqsdnEzIWcFVsWf6MMXs/*/6AIsG_vaStsQdcu9r1y2DX11aV_6Dmon5Pk2KJgFT5xeMP-frqGgmRpojDmXspEKwVHeHdDJxBcjRrsqIOBdue_7MoMSni-jd_X1YnndZ83nRHpU5uGjxRTwVywqxFZrfwq50pYi-YiiCGb3FXyZrxUyy8cCyuH6errHr6rnT04anDlJOapzse42pu2c3mlFIVkqCTPM?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.4557774,59.6881893,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Скульптура Аполлона</name>
+        <description><![CDATA[<img src="https://doc-0s-7o-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/uqf2cppnn1masr5l467vpfjuj8/1645487100000/fdr84WUOP0v_NqsdnEzIWcFVsWf6MMXs/*/6AIsG_vbyt2DEEUszCdeNNLoXTb4li_XNuaASX9OhJ6S-5o0Io4eWdPU4ProwxMPuHUqkBFaYB_Lg1gQYz_sE7c2eqQ8ziz5R_NyVpmDexcqjGwC6sVizgzdeDEuwS-negwbWdT_PB8ypbvjXsxJCm0x6aVTLoELmYh7i6hfxcucjJLw7_gLfaI2EkG0H5qlaFH9EEHI?session=0&fife" height="200" width="auto" /><br><br>Аполлон – бог света, покровитель искусств и муз. Именно поэтому бронзовая статуя Аполлона Бельведерского находится в окружении 9 муз (Эвтерпы, Мельпомены, Талии, Терпсихоры, Эраты, Полигимнии, Каллиопы, Клио, Урании), богинь Венеры и Флоры, а также вестника богов Меркурия. Бронзовая скульптура отлита Е.Гастеклу в Петербургской Академии художеств по мраморной статуе – римской копии несохранившейся греческой бронзовой скульптуры. <br>На стопе левой ноги Апполона можно заметить отверстие. Когда-то оно служило дренажом, но это поспособствовало коррозии, которую, к счастью, удалось предотвратить.<br>Первоначально эта парковая отливка находилась в Колоннаде Аполлона, но в 1817 году была перенесена на это место – двенадцать дорожек.<br>Во время Великой Отечественной войны Аполлон, как и остальные скульптуры аллеи, был закопан в Павловском парке глубоко в землю. К счастью, все статуи и их постаменты не пострадали, хотя и не сразу были найдены. Поэтому сейчас мы можем любоваться тем же Аполлоном Бельведерским и его музами, что и десятки лет назад. ]]></description>
+        <styleUrl>#icon-1548-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0s-7o-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/uqf2cppnn1masr5l467vpfjuj8/1645487100000/fdr84WUOP0v_NqsdnEzIWcFVsWf6MMXs/*/6AIsG_vbyt2DEEUszCdeNNLoXTb4li_XNuaASX9OhJ6S-5o0Io4eWdPU4ProwxMPuHUqkBFaYB_Lg1gQYz_sE7c2eqQ8ziz5R_NyVpmDexcqjGwC6sVizgzdeDEuwS-negwbWdT_PB8ypbvjXsxJCm0x6aVTLoELmYh7i6hfxcucjJLw7_gLfaI2EkG0H5qlaFH9EEHI?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.461469,59.690951,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Амфитеатр</name>
+        <description><![CDATA[<img src="https://doc-0k-7o-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/5setnipn9i9qlm9vd3des5rqj4/1645487100000/fdr84WUOP0v_NqsdnEzIWcFVsWf6MMXs/*/6AIsG_vYi1S5xjoB-tg8O1Ey07FALvmlT1yKmutyYbaZO9LfjMYUIh_2uHFCpoJJvdcMOeW8Yp9SXDxa4l-0OQ_UXnuNwzEL01Ot1p-6_NxcltAglKxUVVSzVx_ik7FKHEdaUbxSTZQST3bVH4VWpBnxDiP4cPi_MRTasRju7WjkOvZW_Noo7v1mnPwyRXpnTn1D3Qjg?session=0&fife" height="200" width="auto" /><br><br>Каменный амфитеатр<br>(1793 г., архитектор Винченцо Бренна) <br>Черты античной архитектуры: амфитеатр - античная постройка для разнообразных массовых зрелищ, представляющая собой круглый театр без крыши (греческий тип).]]></description>
+        <styleUrl>#icon-1548-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0k-7o-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/5setnipn9i9qlm9vd3des5rqj4/1645487100000/fdr84WUOP0v_NqsdnEzIWcFVsWf6MMXs/*/6AIsG_vYi1S5xjoB-tg8O1Ey07FALvmlT1yKmutyYbaZO9LfjMYUIh_2uHFCpoJJvdcMOeW8Yp9SXDxa4l-0OQ_UXnuNwzEL01Ot1p-6_NxcltAglKxUVVSzVx_ik7FKHEdaUbxSTZQST3bVH4VWpBnxDiP4cPi_MRTasRju7WjkOvZW_Noo7v1mnPwyRXpnTn1D3Qjg?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.4596272,59.6921538,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Мавзолей супругу-благодетелю</name>
+        <description><![CDATA[<img src="https://doc-10-7o-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/qhhcmir3eo9t87bvjerbpkm2us/1645487100000/fdr84WUOP0v_NqsdnEzIWcFVsWf6MMXs/*/6AIsG_vaQAILxEs9qXJxZLA89VTRkRjRvCaNyIDmXT_hEZiz9_XoWmhtJvv3LSSJYCXgC_eQ-o5hqYw5wR_YVr8qf-8h9lQQRz9zqWdfsX8SPHz1nQaoDmnHWD_io-c6hOvojNtLoB5nSUVtL6jhhi0yVh33pc2ACwR2GiPpJ2Ka5Dl6DQ_oHd1b81SRrBj5JfXQcfco?session=0&fife" height="200" width="auto" /><br><br>Перед нами мавзолей в память о императоре Павле I, построенный в 1810 г. по личному заказу императрицы Марии Фёдоровны по проекту Ж.Тома де Томона в парковом районе Новой Сильви. В то время мавзолей назывался Храмом Павла I и лишь относительно недавно получил название «Мавзолей Супругу-благодетелю», который также называют «Мавзолеем Петра I».<br>При первом же взгляде на строение можно заметить множество деталей, выдающих в нем стиль античной архитектуры. Дорический ордер с массивными гранитными колоннами, треугольный фронтон с надписью «Супругу-благодетелю», портик, фриз с плачущими масками, гранитный стереобат, широкие ступени, симметрия и простота линий здания. На противоположной стороне мавзолея слова: «Павлу I-му Императору и Самодержцу Всероссийскому. Родившемуся сентября 20-го дня 1754 года. Скончавшемуся марта 11-го дня 1801 года».<br>Вокруг Мавзолея были посажены высокие ели, что еще более подчеркнуло траурный характер сооружения. Центральный фасад Мавзолея, поставленного над оврагом, хорошо виден с центральной дорожки Новой Сильвии, но подойти к нему можно лишь по узкой дорожке, пройдя через траурные чугунные ворота, и обогнув Мавзолей, и таким образом полностью обозрев памятник. <br>Внутренний мемориальный памятник выполнен И.П. Мартосом в 1809 г. Он представляет собой расположившийся у стены против входа мраморный кенотаф: высокий пьедестал, украшенный рельефом с изображением скорбящего семейства Павла I, на пьедестале плакальщица в короне – олицетворение Марии Федоровны, склонившейся в скорби к урне . Монумент находится на фоне гранитной пирамиды, украшенном мраморным медальоном с портретом Павла I. Рассмотреть монумент вблизи нет никакой возможности - вход закрыт решёткой.]]></description>
+        <styleUrl>#icon-1548-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-10-7o-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/qhhcmir3eo9t87bvjerbpkm2us/1645487100000/fdr84WUOP0v_NqsdnEzIWcFVsWf6MMXs/*/6AIsG_vaQAILxEs9qXJxZLA89VTRkRjRvCaNyIDmXT_hEZiz9_XoWmhtJvv3LSSJYCXgC_eQ-o5hqYw5wR_YVr8qf-8h9lQQRz9zqWdfsX8SPHz1nQaoDmnHWD_io-c6hOvojNtLoB5nSUVtL6jhhi0yVh33pc2ACwR2GiPpJ2Ka5Dl6DQ_oHd1b81SRrBj5JfXQcfco?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.466424,59.693366,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Колонна "Конец света"]]></name>
+        <description><![CDATA[<img src="https://doc-0g-7o-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/e1vu16l987egj21dk23njeuhug/1645487100000/fdr84WUOP0v_NqsdnEzIWcFVsWf6MMXs/*/6AIsG_vYvBfl_SKQ5nQ9AFJhruz8z_aSEkR4o8ROOVYC-o3OoTDl5gZmvJ4Dw1Utu_0XsXltH7A0nE2OV0bB8ZGnZQrGNB9FvrVrDOl85N0mty4IeU07H28Y13JsanP8pxg_PRCMZqZEGNcU5M0Y3HC55nnsLq1YazMR0co4IlNlfdjwpHvSpwOS9wWoKppzWsq_K5X0?session=0&fife" height="200" width="auto" /><br><br>Год постройки: 1783<br>Архитектор: Камерон Ч.<br>Античные элементы: колонна, капитель, база<br>Это простое по форме сооружение было построено архитектором Чарльзом Камероном в 1783 году, в самом начале создания парка в Павловске. Первоначально монумент был установлен в конце Липовой аллеи там, где начинался район Парадное поле. Плинт (нижняя часть, плинтус) памятника и его основание выполнены из серого мрамора, а ствол монумента состоит из трех частей розового мрамора.<br>Район Новая Сильвия обустраивался позже, в конце XVIII века под руководством Винченцо Бренны. Эта колонна ионического ордера была перенесена и получила  название «Конец света». Название в духе времени было символичным напоминанием, что здесь заканчивался Павловский парк. Колонна хорошо сохранилась и до сих пор находится на своем историческом месте в Новой Сильвии.]]></description>
+        <styleUrl>#icon-1548-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0g-7o-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/e1vu16l987egj21dk23njeuhug/1645487100000/fdr84WUOP0v_NqsdnEzIWcFVsWf6MMXs/*/6AIsG_vYvBfl_SKQ5nQ9AFJhruz8z_aSEkR4o8ROOVYC-o3OoTDl5gZmvJ4Dw1Utu_0XsXltH7A0nE2OV0bB8ZGnZQrGNB9FvrVrDOl85N0mty4IeU07H28Y13JsanP8pxg_PRCMZqZEGNcU5M0Y3HC55nnsLq1YazMR0co4IlNlfdjwpHvSpwOS9wWoKppzWsq_K5X0?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.4589391,59.6975847,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Слой без названия</name>
+    </Folder>
+    <Folder>
+      <name>Слой без названия</name>
+    </Folder>
+    <Folder>
+      <name>Слой без названия</name>
+    </Folder>
+  </Document>
+</kml>

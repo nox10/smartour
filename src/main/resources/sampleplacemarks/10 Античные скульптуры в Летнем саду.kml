@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Античные скульптуры в Летнем саду</name>
+    <description/>
+    <Style id="icon-1899-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Слой без названия</name>
+      <Placemark>
+        <name>Нимфа Летнего сада</name>
+        <description><![CDATA[<img src="https://doc-0c-5g-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/njvs5uq1nr4jasa9t7ftj71u3g/1645487100000/NTz0vvVTAW9FdZwgVf7mI3s-Xlo8IEj-/*/6AIsG_vYCCQ3yak__WsjMgJWsD0e09G2-XFtcWLirdaBlhqXGHF1BG2hVgbCykfzLziNLWk9L1gDJtzlkePIaVXbIwHn1fCnS42lYJx8tUtF8rX8C4Xl8B1PQrCs3fiF_093ysjkiVnHUK2pm5Co69pOzaTiQnQnKXFRaDhzTcgvKCpQMyVN2CxuiRbaPzpEvVVtCgUw?session=0&fife" height="200" width="auto" /><br><br>Работа Томаса Квеллинуса - фламандского скульптора, работавшего в Копенгагене. Он является представителем антверпенский семьи Квеллинус, известный творец художественных надгробий стиля барокко и декоративных скульптур.<br>На Школьной аллее находится статуя, которая была условно названа Ж. А. Мацулевич. Предполагается, что именно она является копией Нимфы леса, созданной неизвестным римским скульптором с греческого оригинала.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0c-5g-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/njvs5uq1nr4jasa9t7ftj71u3g/1645487100000/NTz0vvVTAW9FdZwgVf7mI3s-Xlo8IEj-/*/6AIsG_vYCCQ3yak__WsjMgJWsD0e09G2-XFtcWLirdaBlhqXGHF1BG2hVgbCykfzLziNLWk9L1gDJtzlkePIaVXbIwHn1fCnS42lYJx8tUtF8rX8C4Xl8B1PQrCs3fiF_093ysjkiVnHUK2pm5Co69pOzaTiQnQnKXFRaDhzTcgvKCpQMyVN2CxuiRbaPzpEvVVtCgUw?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3339644,59.9458084,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Амур и Психея</name>
+        <description><![CDATA[<img src="https://doc-0c-5g-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/u1ccaten4quhoq9ls7kk29tu8k/1645487100000/NTz0vvVTAW9FdZwgVf7mI3s-Xlo8IEj-/*/6AIsG_vZq4ZDv3X_VHGeNXpGR77GzLBgK83hUz4xmQ2HpdD5PNGNcPAUT1Hmj6PoIpg4MDd0GND5mrPF-12zdug5-8VvuwLM3kT-voGkk8F_ta8dFqLuuyres4GovMtUHKgNBCxCN2Qw4mPymHcJ7mJM95geC0zCkr0ytXfcv6osZQx8a9oXxFNxy9FaTSODlylBOVuQ?session=0&fife" height="200" width="auto" /><br><br>Скульптор Джулио Картари, конец XVII века.<br><br>Сюжетом для скульптуры стала легенда о любви Амура, сына Венеры и девушки Психеи.<br>Она была настолько прекрасна, что богиня красоты разгневалась на нее и послала своего сына, чтобы он ранил её. Но Амур, увидев столь прекрасную девушку, не смог ей навредить, а спрятал в своём тайном чертоге, навещая по ночам в темноте.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0c-5g-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/u1ccaten4quhoq9ls7kk29tu8k/1645487100000/NTz0vvVTAW9FdZwgVf7mI3s-Xlo8IEj-/*/6AIsG_vZq4ZDv3X_VHGeNXpGR77GzLBgK83hUz4xmQ2HpdD5PNGNcPAUT1Hmj6PoIpg4MDd0GND5mrPF-12zdug5-8VvuwLM3kT-voGkk8F_ta8dFqLuuyres4GovMtUHKgNBCxCN2Qw4mPymHcJ7mJM95geC0zCkr0ytXfcv6osZQx8a9oXxFNxy9FaTSODlylBOVuQ?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3339731,59.9447703,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Аврора</name>
+        <description><![CDATA[<img src="https://doc-0k-5g-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/uknfd19gbdff2r9s1squ8rbk7s/1645487100000/NTz0vvVTAW9FdZwgVf7mI3s-Xlo8IEj-/*/6AIsG_vajecrDWxQKBDe7x8Jjn9_mXNCbypZr_YFF0KPW5Afj2d7CI6mSl75knUDUtZmYbqrSbG1ZATenJd-0ubDF2fCi5SWJmty5DbjO1gq19H4FRhcmrs7CRc5iBqSHTOM5oQWTG07rkcj0v2v2SCG-JvolF34CCKJDUA9j6cRwOyDQjNoEiGB0P8ukVv4nwK8tcS8?session=0&fife" height="200" width="auto" /><br><br>Богиня утренней зари, рассвета. Изображена в теле юной девушки, на голове её венок из роз. В левой руке богиня держит цветы, которые распускаются ранним утром с появлением первых капель росы. В правой руке Авроры факел,при котором воздух становится светлым.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0k-5g-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/uknfd19gbdff2r9s1squ8rbk7s/1645487100000/NTz0vvVTAW9FdZwgVf7mI3s-Xlo8IEj-/*/6AIsG_vajecrDWxQKBDe7x8Jjn9_mXNCbypZr_YFF0KPW5Afj2d7CI6mSl75knUDUtZmYbqrSbG1ZATenJd-0ubDF2fCi5SWJmty5DbjO1gq19H4FRhcmrs7CRc5iBqSHTOM5oQWTG07rkcj0v2v2SCG-JvolF34CCKJDUA9j6cRwOyDQjNoEiGB0P8ukVv4nwK8tcS8?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3350158,59.9455773,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Марс. Бог войны</name>
+        <description><![CDATA[<img src="https://doc-14-5g-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/upqdbqgd2cua6aphir81gqdtis/1645487100000/NTz0vvVTAW9FdZwgVf7mI3s-Xlo8IEj-/*/6AIsG_vZUNiDB5GXgYrFX4a1r-cVSaeptFkHSyqKrzo1d5ZyLer49x4v1TB06suceqrJKFqd64VWuKFeVeSvNheHOLilkci01Zhb6UZ70RpuMMiv9lIvrP2EA01ALZrmurSss-fjbkVHNQZXFIHI2Bfpod0CUaxkJG3Ia8urDXL8-fKg4mH60ogvuBDFvQElY3LHfqRA?session=0&fife" height="200" width="auto" /><br><br>Скульптор: О. Маринали (Италия)<br>Создана около 1717 г.<br>Марс — один из древнейших богов Италии и Рима, входил в триаду богов, первоначально возглавлявших римский пантеон (Юпитер, Марс и Квирин).<br>В Древней Италии Марс был богом плодородия; считалось, что он может либо наслать гибель урожая или падеж скота, либо отвратить их. В его честь первый месяц римского года, в который совершался обряд изгнания зимы, был назван мартом. Позднее Марс был отождествлен с греческим Аресом и стал богом войны. Храм Марса уже как бога войны был сооружен на Марсовом поле вне городских стен, поскольку вооруженное войско не должно было входить на территорию города.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-14-5g-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/upqdbqgd2cua6aphir81gqdtis/1645487100000/NTz0vvVTAW9FdZwgVf7mI3s-Xlo8IEj-/*/6AIsG_vZUNiDB5GXgYrFX4a1r-cVSaeptFkHSyqKrzo1d5ZyLer49x4v1TB06suceqrJKFqd64VWuKFeVeSvNheHOLilkci01Zhb6UZ70RpuMMiv9lIvrP2EA01ALZrmurSss-fjbkVHNQZXFIHI2Bfpod0CUaxkJG3Ia8urDXL8-fKg4mH60ogvuBDFvQElY3LHfqRA?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3352385,59.9453389,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Янус Двуликий</name>
+        <description><![CDATA[<img src="https://doc-0g-5g-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/0elqh8r04pe1uusr4ibln87nko/1645487100000/NTz0vvVTAW9FdZwgVf7mI3s-Xlo8IEj-/*/6AIsG_vbUTsW0hZG7Nxxy7peCK8ae1eEZj0aJSbrOuflAmG4ODMfkTI-V7ZVXn9IiYVHj56ETchEdJjrHo40Fma3V3S4Owd9Z3CTyWwNuMZLEwUAaIHZrMidWh_JDnynWEVItfIm8LnL95fRWedGgxxa5orI-cGwd1jhu8Oh0-cmnE2yGGmUdcTN-bFVRDceWpzopHk8?session=0&fife" height="200" width="auto" /><br><br>Копия с оригинала неизвестного скульптора. Начало XVIII века.<br>Божество солнца и неба. Спустя время миф о Двуликом Янусе изменился. Считалось, что сам Сатурн наградил его даром видеть прошлое и будущее. Именно из-за этой способности его изображали с двумя лицами: одно молодое, означающее будущее, а другое старое - прошлое.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0g-5g-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/0elqh8r04pe1uusr4ibln87nko/1645487100000/NTz0vvVTAW9FdZwgVf7mI3s-Xlo8IEj-/*/6AIsG_vbUTsW0hZG7Nxxy7peCK8ae1eEZj0aJSbrOuflAmG4ODMfkTI-V7ZVXn9IiYVHj56ETchEdJjrHo40Fma3V3S4Owd9Z3CTyWwNuMZLEwUAaIHZrMidWh_JDnynWEVItfIm8LnL95fRWedGgxxa5orI-cGwd1jhu8Oh0-cmnE2yGGmUdcTN-bFVRDceWpzopHk8?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3327003,59.9466526,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Аполлон Бельведерский</name>
+        <description><![CDATA[<img src="https://doc-08-5g-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/cp8u9bjnfjvmiae7529hanaun4/1645487100000/NTz0vvVTAW9FdZwgVf7mI3s-Xlo8IEj-/*/6AIsG_vZndBwbQ3w6i75n0GsBHoDwUQ6_3JYqYLuxGCmP3xfJaFq27YMk1xT4d4m_eZpcGjMOx-lZlqaPM8kFDNf5FhrwdBSy0cN2guIu_H3zWsar70spzgUyPGJgTcW5vh2Ko1DfPZblYoXpnm1UVacdMbe3DsyZcovtiztGTVnPSrkuwYJd3WR1DYBFenqMQF0dmks?session=0&fife" height="200" width="auto" /><br><br>Реставрация скульптуры "Аполлон Бельведерский". 1820-е. Копия с античной статуи, Италия<br>скульптор П. Трискорни.<br>Античная статуя, изображающая древнегреческого и древнеримского бога солнечного света Аполлона в образе молодого прекрасного юноши, стреляющего из лука. Согласно одной из версий статуя изображает солнечного бога, только что поразившего стрелой хтоническое чудовище, змея Пифона, охранявшего вход в Дельфийское святилище, после чего Аполлон занял его место и стал «Аполлоном Пифийским».]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-08-5g-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/cp8u9bjnfjvmiae7529hanaun4/1645487100000/NTz0vvVTAW9FdZwgVf7mI3s-Xlo8IEj-/*/6AIsG_vZndBwbQ3w6i75n0GsBHoDwUQ6_3JYqYLuxGCmP3xfJaFq27YMk1xT4d4m_eZpcGjMOx-lZlqaPM8kFDNf5FhrwdBSy0cN2guIu_H3zWsar70spzgUyPGJgTcW5vh2Ko1DfPZblYoXpnm1UVacdMbe3DsyZcovtiztGTVnPSrkuwYJd3WR1DYBFenqMQF0dmks?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3353967,59.9451045,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Сатурн</name>
+        <description><![CDATA[<img src="https://doc-04-5g-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/on1tdjo8lll4fv71j1041sb7ts/1645487100000/NTz0vvVTAW9FdZwgVf7mI3s-Xlo8IEj-/*/6AIsG_vb_eFtgiAAWP_kvGWEHFdUnCHh3EKvtkxUfLw5juIJGS5htNEfHsbphd1Lum7wrDKBk99e-OypmX6eBAjep1R3qkX2qUD3Ca7cbiK4hv3Bpu8g_R8YBLjOjpRp9e2aZOTS8r0pA-vsOi_sUUw33wjhSna8Hb4H4OsWJ5IfKTG8jn5QzD1ShHcYiJoSRJULQ_vI?session=0&fife" height="200" width="auto" /><br><br>Скульптор: Франческо Пенсо (Италия).<br>Сатурн бог плодородия. По легенде, один лишь Зевс (его сын) остался в живых, затем изгнал с престола отца и освободил всех своих братьев и сестер из-под чар Сатурна. В наказание Зевс сослал его в глубокую бездну — Тартар.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-04-5g-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/on1tdjo8lll4fv71j1041sb7ts/1645487100000/NTz0vvVTAW9FdZwgVf7mI3s-Xlo8IEj-/*/6AIsG_vb_eFtgiAAWP_kvGWEHFdUnCHh3EKvtkxUfLw5juIJGS5htNEfHsbphd1Lum7wrDKBk99e-OypmX6eBAjep1R3qkX2qUD3Ca7cbiK4hv3Bpu8g_R8YBLjOjpRp9e2aZOTS8r0pA-vsOi_sUUw33wjhSna8Hb4H4OsWJ5IfKTG8jn5QzD1ShHcYiJoSRJULQ_vI?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3341736,59.9468105,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

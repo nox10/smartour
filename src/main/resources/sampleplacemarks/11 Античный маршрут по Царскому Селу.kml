@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Античный маршрут по Царскому Селу</name>
+    <description/>
+    <Style id="icon-seq2-0-0-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-1-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-2.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-2-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-3-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-4.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-4-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-5.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-5-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-6.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-6-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-7.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-7-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-8.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-8-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-9.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-9-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-10.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>Античный маршрут</name>
+      <Placemark>
+        <name>Орловские ворота</name>
+        <description><![CDATA[<img src="https://doc-00-8g-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/n7pna2u5tupos176a8lg6grdrc/1645487298000/ZdSQ9cZPqsFC_tOKUjWFUKRlrZoVPn4k/08892943792363940611/5AIsG_vZUKgjCF1s00zPPEq2P7diqWtdtvxI8VnRWQonUmwPTUIEJW7bwAJXrQ_jwjKWeUj0an1ns30myxNC706SeZGZi1weDuuEZqXK3yTwy_AjLu0TBZejXkgdmps3-fJz7_ZekXee1RzgfFoEYi20Y1q2QiEaK2rDwNIvgX9sX480FIC-gkkFYDTh5DIJdZbUcKF8?session=0&fife" height="200" width="auto" /><br><br>Орловские ворота следуют композиции однопролетной триумфальной арки. В их решении А. Ринальди использовал элементы древнеримской архитектуры: колонны и пилястры на пьедесталах размещены по сторонам высокой арки]]></description>
+        <styleUrl>#icon-seq2-0-0-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-00-8g-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/n7pna2u5tupos176a8lg6grdrc/1645487298000/ZdSQ9cZPqsFC_tOKUjWFUKRlrZoVPn4k/08892943792363940611/5AIsG_vZUKgjCF1s00zPPEq2P7diqWtdtvxI8VnRWQonUmwPTUIEJW7bwAJXrQ_jwjKWeUj0an1ns30myxNC706SeZGZi1weDuuEZqXK3yTwy_AjLu0TBZejXkgdmps3-fJz7_ZekXee1RzgfFoEYi20Y1q2QiEaK2rDwNIvgX9sX480FIC-gkkFYDTh5DIJdZbUcKF8?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3828621,59.7094402,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Мраморный Мост</name>
+        <description><![CDATA[<img src="https://doc-00-8g-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/dd8brlma7ns3atn1von71nqr70/1645487298000/ZdSQ9cZPqsFC_tOKUjWFUKRlrZoVPn4k/08892943792363940611/5AIsG_vaMXgw-6HuI2RjYt3ydUqZyYSJL35W__aec2H8rqNtBIRMjXnc9OyQ--byBa7GaJZy6R3Jq6WI4bBKlWtR3zaSM2T7xK-hYoEvr76XpmTHswx97OOW8VHbtvln902buQFeQb7vz6ARwJD5qxwtI_O9v6r8IFG10AQJCJYpdkOmk76RztokfE5Nq8rxof-i1QxKa?session=0&fife" height="200" width="auto" /><br><br>Мраморный мост представляет собой колоннаду, установленную на гранитном основании, с расходящимися по бокам лестницами. Павильоны связаны друг с другом колоннадой из легких и стройных ионических колонн. Промежутки между их пьедесталами оформлены балюстрадами из фигурных балясин.]]></description>
+        <styleUrl>#icon-seq2-0-1-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-00-8g-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/dd8brlma7ns3atn1von71nqr70/1645487298000/ZdSQ9cZPqsFC_tOKUjWFUKRlrZoVPn4k/08892943792363940611/5AIsG_vaMXgw-6HuI2RjYt3ydUqZyYSJL35W__aec2H8rqNtBIRMjXnc9OyQ--byBa7GaJZy6R3Jq6WI4bBKlWtR3zaSM2T7xK-hYoEvr76XpmTHswx97OOW8VHbtvln902buQFeQb7vz6ARwJD5qxwtI_O9v6r8IFG10AQJCJYpdkOmk76RztokfE5Nq8rxof-i1QxKa?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3890889,59.7102843,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Концертный Зал</name>
+        <description><![CDATA[<img src="https://doc-0s-8g-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/oqo9c7ng7tmqlp7u54eb8vacg0/1645487298000/ZdSQ9cZPqsFC_tOKUjWFUKRlrZoVPn4k/08892943792363940611/5AIsG_vbwtDzCxg7Ba-t-e_x5ysWRMl1SEZWztELnyiAFyA1u-T7IusydR3VwRl4p0RWQMarHjNaLdjcSa7hIB58tRY3YTUQYGPUVu1aT-1RNCJZmSbW_qjWFIxf2lxYstEpIu3Qo9M7s20OrZesnDHm8rQH9jEmlbbYwAzqAItMrjhbV-avtVc4BfcnbvIQ8ODb1qZkp?session=0&fife" height="200" width="auto" /><br><br>Его фасад, обращенный к пруду, оформлен четырехколонным портиком; с противоположной стороны фасад решен в виде ротонды из десяти колонн, перекрытой невысоким куполом. Стены ротонды украшают пять барельефов на мифологические сюжеты.Стены зала украшены пилястрами коринфского ордера.По замыслу архитектора в зале на пьедесталах были установлены двадцать восемь мраморных бюстов — подлинники и копии с античных оригиналов, — почти полностью утраченные в годы войны. Ныне здесь расположены стилистически близкие отделке зала каменные вазы и скульптурные произведения — воспроизведения античных оригиналов и несколько подлинных античных бюстов.В отделке восточного и западного кабинетов Концертного зала также использованы античные мотивы: один из них украшают четыре барельефа работы итальянского скульптора К. Альбани — аллегории архитектуры, живописи, скульптуры и науки, другой — живописные панно со сценами жертвоприношения. Полы в обоих кабинетах — из мраморных плит с орнаментальными мозаичными вставками римской работы конца I — начала II в.н. э.; перекрытия расписаны орнаментальной многоцветной росписью. Над живописным убранством интерьеров павильона работали художники Д. Скотти, Д. Валесини, Ф. Данилов, И. Крист, Д. Кадес, И. Богданов.]]></description>
+        <styleUrl>#icon-seq2-0-2-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0s-8g-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/oqo9c7ng7tmqlp7u54eb8vacg0/1645487298000/ZdSQ9cZPqsFC_tOKUjWFUKRlrZoVPn4k/08892943792363940611/5AIsG_vbwtDzCxg7Ba-t-e_x5ysWRMl1SEZWztELnyiAFyA1u-T7IusydR3VwRl4p0RWQMarHjNaLdjcSa7hIB58tRY3YTUQYGPUVu1aT-1RNCJZmSbW_qjWFIxf2lxYstEpIu3Qo9M7s20OrZesnDHm8rQH9jEmlbbYwAzqAItMrjhbV-avtVc4BfcnbvIQ8ODb1qZkp?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3886449,59.712808,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Кухня-руина</name>
+        <description><![CDATA[<img src="https://doc-04-8g-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/867ldcodeaoe3cam1ro1v2q9to/1645487298000/ZdSQ9cZPqsFC_tOKUjWFUKRlrZoVPn4k/08892943792363940611/5AIsG_vZPdnEWG7HIgRIZe47BnhZabDNQMm7A_i6o187k8_JatxdEQUyW_e1zJusIpYDgtEAhrUaciRhYxg8f_9YlihlZFJox9PoI1faSqp6NT0ZFph3GuOnIoz7SlH5MlxSKEz43Tl1NLwQ7OOLL7eVeZJaYAw1tFeKKloVVnS4kxtgIIVzm4b58RvpYXF7wDsE-pfk?session=0&fife" height="200" width="auto" /><br><br>При создании Кухни-руины Д. Кваренги воспользовался находившимися в его распоряжении фрагментами подлинных античных памятников — мраморными капителями, карнизом и фризом с высеченными гирляндами. В верхней части стен и в промежутках между колоннами установлены шесть гипсовых барельефов, отлитых скульптором К. Альбани и намеренно поврежденных с целью придания им характера глубокой древности, навевающей меланхолические размышления. В нишах на фасадах Кваренги поместил античную пластику и внутри павильона также расставил несколько скульптур, не дошедших до наших дней.]]></description>
+        <styleUrl>#icon-seq2-0-3-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-04-8g-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/867ldcodeaoe3cam1ro1v2q9to/1645487298000/ZdSQ9cZPqsFC_tOKUjWFUKRlrZoVPn4k/08892943792363940611/5AIsG_vZPdnEWG7HIgRIZe47BnhZabDNQMm7A_i6o187k8_JatxdEQUyW_e1zJusIpYDgtEAhrUaciRhYxg8f_9YlihlZFJox9PoI1faSqp6NT0ZFph3GuOnIoz7SlH5MlxSKEz43Tl1NLwQ7OOLL7eVeZJaYAw1tFeKKloVVnS4kxtgIIVzm4b58RvpYXF7wDsE-pfk?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3886154,59.713199,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Гранитная терраса</name>
+        <description><![CDATA[<img src="https://doc-04-8g-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/nnpas5p3ee799k64c758262pk0/1645487298000/ZdSQ9cZPqsFC_tOKUjWFUKRlrZoVPn4k/08892943792363940611/5AIsG_vZ4tfWpEBgX5pxSD53hkafV54pIuIy3-8t0IHJ1RG0LU-II47BAIvF3csiHaK-rSoiK8ux2m-49kQ3GJCHOe6BnsMaeBwElMzqpdR93nDxBR3vL2iwkIPCUyQp15C8BSpDnw_WENd40yMrUhdLmOjr9WnCHECk6iZKpaXAxWdBCjLROUgrCg--GcaLD2m1mLfg?session=0&fife" height="200" width="auto" /><br><br>Стены террасы декорированы мощными дорическими колоннами без баз, стволы которых, поддерживающие постаменты балюстрады, вытесаны из серого, а капители — из розового гранита. В 1850-х годах на постаментах балюстрады установили гальванопластические копии античных скульптур — «Венеры Медицейской», «Фавна с козленком», «Апоксиомена» и др.]]></description>
+        <styleUrl>#icon-seq2-0-4-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-04-8g-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/nnpas5p3ee799k64c758262pk0/1645487298000/ZdSQ9cZPqsFC_tOKUjWFUKRlrZoVPn4k/08892943792363940611/5AIsG_vZ4tfWpEBgX5pxSD53hkafV54pIuIy3-8t0IHJ1RG0LU-II47BAIvF3csiHaK-rSoiK8ux2m-49kQ3GJCHOe6BnsMaeBwElMzqpdR93nDxBR3vL2iwkIPCUyQp15C8BSpDnw_WENd40yMrUhdLmOjr9WnCHECk6iZKpaXAxWdBCjLROUgrCg--GcaLD2m1mLfg?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3915874,59.7129082,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Вечерний зал</name>
+        <description><![CDATA[<img src="https://doc-08-8g-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/eu8akc6mlik1ta1osnr66pqkg4/1645487298000/ZdSQ9cZPqsFC_tOKUjWFUKRlrZoVPn4k/08892943792363940611/5AIsG_vYHhjmnpT9kgBpN5e0OqxJEpQyPhuASA6mEcN3edN80Cxnb-O2TRdt_fqtlTHWm3PSC0pRw7dA_u18aFYY-FT4CSX4SUVWC6yzR7PwJzRSPbJNpUqyNGhMcUTIoq9eQGqG7dxsP4we1XDd5ovX1qkxEIPhp0H53VikH_0J8TO6cZZkhzKTLa_HHKVPysFmbXNc?session=0&fife" height="200" width="auto" /><br><br>Центральный ризалит главного фасада украшен портиком из четырех ионических колонн, а по сторонам окон на невысоких пьедесталах находятся кариатиды]]></description>
+        <styleUrl>#icon-seq2-0-5-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-08-8g-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/eu8akc6mlik1ta1osnr66pqkg4/1645487298000/ZdSQ9cZPqsFC_tOKUjWFUKRlrZoVPn4k/08892943792363940611/5AIsG_vYHhjmnpT9kgBpN5e0OqxJEpQyPhuASA6mEcN3edN80Cxnb-O2TRdt_fqtlTHWm3PSC0pRw7dA_u18aFYY-FT4CSX4SUVWC6yzR7PwJzRSPbJNpUqyNGhMcUTIoq9eQGqG7dxsP4we1XDd5ovX1qkxEIPhp0H53VikH_0J8TO6cZZkhzKTLa_HHKVPysFmbXNc?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3897902,59.7144489,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Холодная баня с Агатовыми комнатами</name>
+        <description><![CDATA[<img src="https://doc-10-8g-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/mnsjrs41mlaits6o8ocokk7cts/1645487298000/ZdSQ9cZPqsFC_tOKUjWFUKRlrZoVPn4k/08892943792363940611/5AIsG_vZsmPVXUVKVpttSJNxEB9oEpJ9eDu5wCpLYQy07HH4BrULbVopmIztUjPZhX1n8woVgDxb4620-Vnsr5m7hSv3p0ZBg0amTLnSEcaPEA4b9l6S5ENAyyWA2kap7UgRmzOv2ejFfYHkhROY41uaa_kadpR6lntz38CYVuaVkbcxsFWBNySPfVi8nPg63cwAUdqWf?session=0&fife" height="200" width="auto" /><br><br>Архитектурное оформление фасадов Холодной бани, как и всего комплекса, построено на контрасте отделки этажей. Нижний, цокольный этаж отделен от второго карнизом и облицован массивными блоками грубо обработанного, пористого, словно изъеденного ветрами и дождями пудостского камня, создающего иллюзию «древности», подлинности «античного» памятника. Второй этаж, напротив, легок и светел; на фоне нежножелтого тона стен выделяются ниши, окрашенные в терракотовый цвет. По верху стен размещены круглые лепные медальоны-барельефы с мифологическими композициями. В продольной северо-восточной стене прорезаны полуциркульные окна, в торцевых — прямоугольные окна-двери, помещенные в арках. В простенках расположены ниши со скульптурными фигурами различных аллегорических и мифологических персонажей.<br>Главный, юго-западный фасад Холодной бани выходит на террасу на сводах, опирающихся на массивные кирпичные столбы. Терраса служит основанием для Висячего сада и является связующим звеном между сооружениями ансамбля Камерона и Большим Царскосельским дворцом. Со стороны Висячего сада и Камероновой галереи верхний этаж Холодной бани воспринимается как совершенно самостоятельный одноэтажный парковый павильон.<br>От остальных фасадов главный фасад отличается наличием таких же, как на Камероновой галерее, колонн, чем подчеркивается единство этих сооружений.]]></description>
+        <styleUrl>#icon-seq2-0-6-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-10-8g-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/mnsjrs41mlaits6o8ocokk7cts/1645487298000/ZdSQ9cZPqsFC_tOKUjWFUKRlrZoVPn4k/08892943792363940611/5AIsG_vZsmPVXUVKVpttSJNxEB9oEpJ9eDu5wCpLYQy07HH4BrULbVopmIztUjPZhX1n8woVgDxb4620-Vnsr5m7hSv3p0ZBg0amTLnSEcaPEA4b9l6S5ENAyyWA2kap7UgRmzOv2ejFfYHkhROY41uaa_kadpR6lntz38CYVuaVkbcxsFWBNySPfVi8nPg63cwAUdqWf?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3951723,59.7149592,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Гора «Парнас»</name>
+        <description><![CDATA[<img src="https://doc-0o-8g-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/urju07itc4c4ut2ka6pclrm9ac/1645487298000/ZdSQ9cZPqsFC_tOKUjWFUKRlrZoVPn4k/08892943792363940611/5AIsG_vZK1Tq0L7GQO-7TDmU7dxZkujOCZvhbmw4iUJ85ULEMU3UTSO-q6XHTmwXfu1K2ARBmzMMXwarAyAzbcIcgqpCdSZkD-cCod7u9YJf-imNByNL3onWX_0d8_0Us9zZ-Fk00bEe9BUhdgXK139GSMFQlHOnidorpmufdXS2vQzYZLbjVJFF_qYUMeogUvuZh0RU?session=0&fife" height="200" width="auto" /><br><br>В 1749-55гг. по проекту архитектора Николы Жирара была устроена насыпная гора Парнас.<br>Название горы в Александровском парке заимствовано из греческой мифологии: древние греки считали, что на высокой горе в Фокиде обитал Аполлон, Бог искусства и покровитель муз. Гора имеет коническую форму со срезанной вершиной и пологой дорогой, спускающейся по склонам. Такие горы строились в парках в эпоху Возрождения и в XVIII веке.]]></description>
+        <styleUrl>#icon-seq2-0-7-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0o-8g-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/urju07itc4c4ut2ka6pclrm9ac/1645487298000/ZdSQ9cZPqsFC_tOKUjWFUKRlrZoVPn4k/08892943792363940611/5AIsG_vZK1Tq0L7GQO-7TDmU7dxZkujOCZvhbmw4iUJ85ULEMU3UTSO-q6XHTmwXfu1K2ARBmzMMXwarAyAzbcIcgqpCdSZkD-cCod7u9YJf-imNByNL3onWX_0d8_0Us9zZ-Fk00bEe9BUhdgXK139GSMFQlHOnidorpmufdXS2vQzYZLbjVJFF_qYUMeogUvuZh0RU?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3883982,59.7194824,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Александровский дворец</name>
+        <description><![CDATA[<img src="https://doc-00-8g-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/b7r65ifnl1n96p1nfuj7nfb8ng/1645487298000/ZdSQ9cZPqsFC_tOKUjWFUKRlrZoVPn4k/08892943792363940611/5AIsG_vZlGx5KSCgOVX4b8D976seY_y7bhCo8l4oocK-ZD-rHF-QlXq9Wos_k8JjxSlHJS6Vwm1I7XdYs199cDp4Lz7p8CDpaoHh6bMPgmvkctDngX6w5R7q_ohKgQlOXTi1VVoWTHHzdVbJBkFBnGJCcjDRpV_RJzyRFHFrDhlog4uzNvw-yj6wSMCSz05Taws5dRPY?session=0&fife" height="200" width="auto" /><br><br>Архитектурный проект Александровского дворца принадлежит знаменитому итальянскому архитектору Д. Кваренги; работы велись под наблюдением зодчего П. В. Неелова. В последующей отделке и перестройке интерьеров участвовали известные архитекторы Л. Руска, К. Макер, С. Черфолио, А. А. Тон, В. П. Стасов, Д. Е. Ефимов, А. И. Штакеншнейдер, А. Ф. Видов, С. А. Данини, Р. Ф. Мельцер.<br>Дворец представляет собой вытянутое в длину двухэтажное здание с двойными флигелями по сторонам. В центре главного северного фасада два ряда колонн составляют великолепную сквозную колоннаду коринфского ордера. Со стороны регулярной части Александровского парка фасад здания решен в виде полуротонды, перекрытой сферическим куполом.]]></description>
+        <styleUrl>#icon-seq2-0-8-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-00-8g-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/b7r65ifnl1n96p1nfuj7nfb8ng/1645487298000/ZdSQ9cZPqsFC_tOKUjWFUKRlrZoVPn4k/08892943792363940611/5AIsG_vZlGx5KSCgOVX4b8D976seY_y7bhCo8l4oocK-ZD-rHF-QlXq9Wos_k8JjxSlHJS6Vwm1I7XdYs199cDp4Lz7p8CDpaoHh6bMPgmvkctDngX6w5R7q_ohKgQlOXTi1VVoWTHHzdVbJBkFBnGJCcjDRpV_RJzyRFHFrDhlog4uzNvw-yj6wSMCSz05Taws5dRPY?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3925,59.721,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Верхние теплицы</name>
+        <description><![CDATA[<img src="https://doc-14-8g-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/o0uierppoauo4pp83iqg57ov38/1645487298000/ZdSQ9cZPqsFC_tOKUjWFUKRlrZoVPn4k/08892943792363940611/5AIsG_vY0VQoh3mMWxvEpYqc3_F25TTF1wNyRzfeoS2yIVlElH3_m9BSj3A50vcjGN4tYJPdBwCRxfNIYiciNiHF-KrDKMNGIZmMig7qxMP5a6RL5cJMnRjXZMjVpMUR17oDBVBHzFLKrH40xXDM-aMBFm68G1Be4hkv1bnLiFTDK4nmpjqYel_y67qUmpQaNZDBvdtg?session=0&fife" height="200" width="auto" /><br><br>Первая теплица на территории Царского Села была построена в 1724 г. Архитектор неизвестен. <br>Главный вход обрамлен дорическими колоннами, присутствуют архитрав, фриз и карниз, а также фронтон – характерные элементы античной архитектуры.]]></description>
+        <styleUrl>#icon-seq2-0-9-0288D1-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-14-8g-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/o0uierppoauo4pp83iqg57ov38/1645487298000/ZdSQ9cZPqsFC_tOKUjWFUKRlrZoVPn4k/08892943792363940611/5AIsG_vY0VQoh3mMWxvEpYqc3_F25TTF1wNyRzfeoS2yIVlElH3_m9BSj3A50vcjGN4tYJPdBwCRxfNIYiciNiHF-KrDKMNGIZmMig7qxMP5a6RL5cJMnRjXZMjVpMUR17oDBVBHzFLKrH40xXDM-aMBFm68G1Be4hkv1bnLiFTDK4nmpjqYel_y67qUmpQaNZDBvdtg?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.392534,59.720975,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

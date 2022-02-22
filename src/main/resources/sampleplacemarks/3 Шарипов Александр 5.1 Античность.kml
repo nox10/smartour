@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Шарипов Александр 5.1 Античность</name>
+    <description>Автор: Шарипов Александр Рустемович М3235</description>
+    <Style id="icon-1899-DB4436-nodesc-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-nodesc-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-1267FF-5000-nodesc-normal">
+      <LineStyle>
+        <color>ffff6712</color>
+        <width>5</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-1267FF-5000-nodesc-highlight">
+      <LineStyle>
+        <color>ffff6712</color>
+        <width>7.5</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-1267FF-5000-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-1267FF-5000-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-1267FF-5000-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Слой без названия</name>
+      <Placemark>
+        <name>Главное адмиралтейство</name>
+        <description><![CDATA[<img src="https://doc-0o-8s-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/ptcs5r2l107a09uijbcme08268/1645487223250/zZoUPOP0x3qes23CtFDfSEbvkPw1Tif_/08892943792363940611/5AIsG_vbPoQd7Rz1uVWtJmKNfDxSOu4oiSnm-ex48lF_qoqtprOlDwwF0qhu03JlcrgyD2kYfs5jgVfmaSW15s_oyTRwuIWlcBDMIR7kBaJ1ixOgbS9ZoRCUIGBnR-Q73fl6FpOxUPb1-yjNrxiyhWaEvsDwlyfrh6UrdRiFFP3rpfsJUeBIa-c0vPpO1B52iai2Blck?session=0&fife" height="200" width="auto" /><br><br>Зда́ние Гла́вного адмиралте́йства — комплекс адмиралтейских построек в Санкт-Петербурге на 2-м Адмиралтейском острове, расположенный на берегу реки Нева, значительный памятник архитектуры русского классицизма. Изначально построенный в качестве верфи, подвергался перестройке в XVIII—XIX веках.<br>Элементы античной архитектуры: колонны.<br>Архитектор: 	Андреян Дмитриевич Захаров<br>Первое упоминание: 1704 год]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0o-8s-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/ptcs5r2l107a09uijbcme08268/1645487223250/zZoUPOP0x3qes23CtFDfSEbvkPw1Tif_/08892943792363940611/5AIsG_vbPoQd7Rz1uVWtJmKNfDxSOu4oiSnm-ex48lF_qoqtprOlDwwF0qhu03JlcrgyD2kYfs5jgVfmaSW15s_oyTRwuIWlcBDMIR7kBaJ1ixOgbS9ZoRCUIGBnR-Q73fl6FpOxUPb1-yjNrxiyhWaEvsDwlyfrh6UrdRiFFP3rpfsJUeBIa-c0vPpO1B52iai2Blck?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3085618,59.9375135,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Мраморный дворец</name>
+        <description><![CDATA[<img src="https://doc-04-8s-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/h025lfns4mi085sjp70o6ucv0k/1645487223250/zZoUPOP0x3qes23CtFDfSEbvkPw1Tif_/08892943792363940611/5AIsG_vZGh6ROSTltO_yeAKM4r2UwvT5AlA6mQTgfRbQLFpn1bJrPAbaIOS2Gu1142-CIPTDndUGBHwg6dSGwjV70kE_NltEcojRFtVvhNok6bOm9IM8Kk2D5k4g9GWWrat-0ScT5NfbQnba8TlkeAKz4VpZtG8UhlqH-ksWou45b8hcy9F1HkhB51oWxiKweb3EN70g?session=0&fife" height="200" width="auto" /><br><br>Мраморный дворец — дворец в историческом центре Санкт-Петербурга. С 1992 года — филиал Государственного Русского музея.<br>Элементы античной архитектуры: чёткость форм и геометризм, строгая симметрия.<br>Архитектор: Антонио Ринальди<br>Открытие: 1785 г.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-04-8s-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/h025lfns4mi085sjp70o6ucv0k/1645487223250/zZoUPOP0x3qes23CtFDfSEbvkPw1Tif_/08892943792363940611/5AIsG_vZGh6ROSTltO_yeAKM4r2UwvT5AlA6mQTgfRbQLFpn1bJrPAbaIOS2Gu1142-CIPTDndUGBHwg6dSGwjV70kE_NltEcojRFtVvhNok6bOm9IM8Kk2D5k4g9GWWrat-0ScT5NfbQnba8TlkeAKz4VpZtG8UhlqH-ksWou45b8hcy9F1HkhB51oWxiKweb3EN70g?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3266928,59.9451172,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Исаакиевский собор</name>
+        <description><![CDATA[<img src="https://doc-0k-8s-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/mfc52pn2ah8mdplu7n8fekqjs8/1645487223250/zZoUPOP0x3qes23CtFDfSEbvkPw1Tif_/08892943792363940611/5AIsG_vadXglvaDtvmJAcj5R6Q20xGOIm5unE47AxCnshfUYedMBH8Vc4uwTvsTvu5AkthOXFhS6p2tIuKjfraQuYnaRr3iPqkNTriImKNFQkA4sdTHJtUhT0bVgAqePhKnMj_965I86Nf3VAiKcuqIU_2X7yZtUQvskqk3wYsbGi9vW-sjbIX8wBDc8J-fym8hoN2qc?session=0&fife" height="200" width="auto" /><br><br>Исаа́киевский собо́р — крупнейший православный храм Санкт-Петербурга. Расположен на Исаакиевской площади. Кафедральный собор Санкт-Петербургской епархии с 1858 по 1929 год. С 1928 года имеет статус музея.<br>Элементы античной архитектуры: колонны, фронтон.<br>Архитектор: Огюст Монферран<br>Открытие: 1858 г.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0k-8s-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/mfc52pn2ah8mdplu7n8fekqjs8/1645487223250/zZoUPOP0x3qes23CtFDfSEbvkPw1Tif_/08892943792363940611/5AIsG_vadXglvaDtvmJAcj5R6Q20xGOIm5unE47AxCnshfUYedMBH8Vc4uwTvsTvu5AkthOXFhS6p2tIuKjfraQuYnaRr3iPqkNTriImKNFQkA4sdTHJtUhT0bVgAqePhKnMj_965I86Nf3VAiKcuqIU_2X7yZtUQvskqk3wYsbGi9vW-sjbIX8wBDc8J-fym8hoN2qc?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.306485,59.933905,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Здание Старого Эрмитажа
+</name>
+        <description><![CDATA[<img src="https://doc-0g-8s-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/5a54tqrr23oatj116s0j4124fk/1645487223250/zZoUPOP0x3qes23CtFDfSEbvkPw1Tif_/08892943792363940611/5AIsG_vYjltGTo1c2uFLGw1r3Cit-SYRSFDVe85gEGcQkbFziFbmoXXMqiFra1dyYNivCISi9gjxeFrVp_GI2q8eYMctZn8adsWLFtlXbjxeXZwMy9y420CJ6IxKhKq53FfS4GayFLGgTvpis2IwJW7TP-jykuucowlRnotcidM3xwEoSobwrZ7VbWB09_OYm-1TyWcE?session=0&fife" height="200" width="auto" /><br><br>Большой Эрмитаж — памятник архитектуры, входящий в музейный комплекс Государственного Эрмитажа, построен в 1771—1787 годах архитектором Ю. М. Фельтеном, явился продолжением дворцовых строений, расположившихся на набережной, и предназначался для размещения дворцовых художественных коллекций.<br>Элементы античной архитектуры: чёткость форм и геометризм.<br>Архитектор: Юрий Матвеевич Фельтен<br>Строительство: 1771—1787 годы]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0g-8s-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/5a54tqrr23oatj116s0j4124fk/1645487223250/zZoUPOP0x3qes23CtFDfSEbvkPw1Tif_/08892943792363940611/5AIsG_vYjltGTo1c2uFLGw1r3Cit-SYRSFDVe85gEGcQkbFziFbmoXXMqiFra1dyYNivCISi9gjxeFrVp_GI2q8eYMctZn8adsWLFtlXbjxeXZwMy9y420CJ6IxKhKq53FfS4GayFLGgTvpis2IwJW7TP-jykuucowlRnotcidM3xwEoSobwrZ7VbWB09_OYm-1TyWcE?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.316759,59.9416466,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Казанский кафедральный собор</name>
+        <description><![CDATA[<img src="https://doc-08-8s-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/9a59ihokccu5h41lqu0laat7d0/1645487223250/zZoUPOP0x3qes23CtFDfSEbvkPw1Tif_/08892943792363940611/5AIsG_vaI4OMU4WbLudeAEjt7sFmzX4AS32ejyHZGxfkpFQbnZDUEu662vrNt8xx0a5Hs8GpBlspGJ-wduJdviFGnd5mMCgEZu6gzX4Yj_-3c7KiEm2ZtfpvEo-MFtZAwN6apg4jQTLKFarZ_Aj3ZzTyLxhym5qwD_QqkwbyNnpJIgILorkKu4Cotiee8ACbm6TSKPD02?session=0&fife" height="200" width="auto" /><br><br>Каза́нский кафедра́льный собо́р — один из крупнейших храмов Санкт-Петербурга. Построен на Невском проспекте в 1801—1811 годах архитектором Андреем Воронихиным для хранения чтимого списка чудотворной иконы Божией Матери Казанской. После Отечественной войны 1812 года приобрёл значение памятника русской воинской славы.<br>Элементы античной архитектуры: колонны, фронтон.<br>Архитекторы: Андрей Никифорович Воронихин, Иван Фёдорович Колодин<br>Открытие: 1811 г.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-08-8s-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/9a59ihokccu5h41lqu0laat7d0/1645487223250/zZoUPOP0x3qes23CtFDfSEbvkPw1Tif_/08892943792363940611/5AIsG_vaI4OMU4WbLudeAEjt7sFmzX4AS32ejyHZGxfkpFQbnZDUEu662vrNt8xx0a5Hs8GpBlspGJ-wduJdviFGnd5mMCgEZu6gzX4Yj_-3c7KiEm2ZtfpvEo-MFtZAwN6apg4jQTLKFarZ_Aj3ZzTyLxhym5qwD_QqkwbyNnpJIgILorkKu4Cotiee8ACbm6TSKPD02?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.324571,59.9342092,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Маршрут Казанский кафедральный собор – Мраморный дворец</name>
+      <Placemark>
+        <name>Маршрут Казанский кафедральный собор – Мраморный дворец</name>
+        <styleUrl>#line-1267FF-5000-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            30.32546,59.93414,0
+            30.32543,59.93402,0
+            30.3253,59.93371,0
+            30.32528,59.93362,0
+            30.32529,59.93346,0
+            30.32528,59.93345,0
+            30.32529,59.93345,0
+            30.32529,59.93344,0
+            30.32529,59.93343,0
+            30.32512,59.93298,0
+            30.32489,59.93248,0
+            30.32483,59.93238,0
+            30.32476,59.93231,0
+            30.32471,59.93228,0
+            30.32468,59.93226,0
+            30.32417,59.93212,0
+            30.32412,59.93211,0
+            30.32379,59.93201,0
+            30.32335,59.93188,0
+            30.32275,59.9317,0
+            30.32177,59.93141,0
+            30.32096,59.93116,0
+            30.31887,59.93055,0
+            30.3184,59.93088,0
+            30.31812,59.93107,0
+            30.31691,59.93188,0
+            30.31559,59.93276,0
+            30.31549,59.93283,0
+            30.31522,59.93301,0
+            30.31504,59.93314,0
+            30.31452,59.93352,0
+            30.31391,59.93396,0
+            30.31358,59.9342,0
+            30.31188,59.93531,0
+            30.31024,59.9347,0
+            30.30844,59.93403,0
+            30.30827,59.93398,0
+            30.3081,59.93393,0
+            30.3074,59.93376,0
+            30.30685,59.93359,0
+            30.30679,59.93358,0
+            30.30658,59.93355,0
+            30.30647,59.93352,0
+            30.30636,59.93349,0
+            30.30618,59.93345,0
+            30.30595,59.93343,0
+            30.30584,59.93342,0
+            30.30575,59.93343,0
+            30.30556,59.93347,0
+            30.30491,59.9338,0
+            30.30486,59.93383,0
+            30.3048,59.93386,0
+            30.30443,59.93407,0
+            30.30434,59.93419,0
+            30.30416,59.93427,0
+            30.30389,59.93439,0
+            30.30389,59.9344,0
+            30.30364,59.93454,0
+            30.30353,59.93463,0
+            30.30341,59.93473,0
+            30.30318,59.93489,0
+            30.3027,59.93528,0
+            30.30219,59.93568,0
+            30.30206,59.93577,0
+            30.30194,59.93585,0
+            30.30187,59.9359,0
+            30.30184,59.93592,0
+            30.30095,59.93654,0
+            30.30142,59.93669,0
+            30.30189,59.93686,0
+            30.303,59.93723,0
+            30.30342,59.93739,0
+            30.3035,59.93742,0
+            30.30376,59.93752,0
+            30.30384,59.93746,0
+            30.30547,59.93639,0
+            30.30558,59.93632,0
+            30.30566,59.93627,0
+            30.30573,59.93625,0
+            30.30577,59.93624,0
+            30.30584,59.93625,0
+            30.30595,59.93628,0
+            30.30613,59.93634,0
+            30.3066,59.93652,0
+            30.30876,59.93736,0
+            30.31082,59.93816,0
+            30.31169,59.9385,0
+            30.31186,59.93856,0
+            30.31209,59.93841,0
+            30.31231,59.93827,0
+            30.31235,59.93824,0
+            30.31241,59.93819,0
+            30.31246,59.9381,0
+            30.31249,59.93803,0
+            30.31249,59.93795,0
+            30.31235,59.93761,0
+            30.31223,59.93756,0
+            30.31221,59.93756,0
+            30.3122,59.93754,0
+            30.31216,59.93748,0
+            30.31214,59.93744,0
+            30.3121,59.93741,0
+            30.312,59.93735,0
+            30.31179,59.93725,0
+            30.31164,59.93719,0
+            30.31138,59.93708,0
+            30.31004,59.93648,0
+            30.30833,59.93584,0
+            30.30805,59.93572,0
+            30.30698,59.9353,0
+            30.3067,59.93518,0
+            30.3066,59.93514,0
+            30.30643,59.93507,0
+            30.30532,59.93467,0
+            30.30527,59.93465,0
+            30.30476,59.93447,0
+            30.30416,59.93427,0
+            30.30389,59.93439,0
+            30.30389,59.9344,0
+            30.30364,59.93454,0
+            30.30353,59.93463,0
+            30.30341,59.93473,0
+            30.30318,59.93489,0
+            30.3027,59.93528,0
+            30.30219,59.93568,0
+            30.30206,59.93577,0
+            30.30194,59.93585,0
+            30.30187,59.9359,0
+            30.30184,59.93592,0
+            30.30095,59.93654,0
+            30.30142,59.93669,0
+            30.30189,59.93686,0
+            30.303,59.93723,0
+            30.30342,59.93739,0
+            30.3035,59.93742,0
+            30.30376,59.93752,0
+            30.30479,59.93789,0
+            30.30607,59.93836,0
+            30.30748,59.93888,0
+            30.30803,59.93909,0
+            30.30865,59.93936,0
+            30.30875,59.9394,0
+            30.30941,59.93967,0
+            30.30951,59.93971,0
+            30.30961,59.93975,0
+            30.30989,59.93985,0
+            30.31003,59.93998,0
+            30.31013,59.94007,0
+            30.31021,59.94013,0
+            30.31024,59.94016,0
+            30.3103,59.9402,0
+            30.31034,59.94023,0
+            30.31039,59.94025,0
+            30.31051,59.94032,0
+            30.31065,59.94039,0
+            30.31076,59.94044,0
+            30.31107,59.94054,0
+            30.31509,59.94196,0
+            30.31586,59.94224,0
+            30.31622,59.94238,0
+            30.31628,59.9424,0
+            30.31649,59.94246,0
+            30.31661,59.9425,0
+            30.31679,59.94254,0
+            30.31705,59.94262,0
+            30.31834,59.9431,0
+            30.31871,59.94322,0
+            30.31889,59.94329,0
+            30.31919,59.94338,0
+            30.31974,59.94354,0
+            30.32099,59.94391,0
+            30.32556,59.94521,0
+            30.3263,59.94544,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Казанский кафедральный собор</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            30.3254605,59.9341419,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Исаакиевский собор</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            30.30685,59.9335927,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Главное адмиралтейство</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            30.3087631,59.937363,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Здание Старого Эрмитажа
+</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            30.3158581,59.942244,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Мраморный дворец</name>
+        <styleUrl>#icon-1899-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            30.3262956,59.9454386,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

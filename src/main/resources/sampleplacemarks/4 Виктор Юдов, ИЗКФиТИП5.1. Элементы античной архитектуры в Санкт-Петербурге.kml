@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Виктор Юдов, ИЗКФиТИП5.1. Элементы античной архитектуры в Санкт-Петербурге</name>
+    <description/>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Элементы античной архитектуры в Санкт-Петербурге</name>
+      <Placemark>
+        <name>Арка Главного штаба</name>
+        <description><![CDATA[<img src="https://doc-00-cc-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/gvsdc5q09039duur85c66ml9ik/1645487223250/bVdtgVCK7S9twej2sDSsa_4R1hYJ-i4-/08892943792363940611/5AIsG_vbo2UESfnQHx8r-JBpP9_gK6AHmP8PsAeO1itDcadXGiL1ydHQBa0eVlKaO_LJzyHVDMiydawjjjQIka2aWk6p3KEVK4u-iYCb1XFUUo3YWL84l4JfHfgiD_2XSHM7vZszzhBiFmUrAINOwY7KFRpmPWxfUaxk--kXUZepL7VVQ1Ck0X8RM_V3hz0ks2N2pcIQ?session=0&fife" height="200" width="auto" /><br><br>Архитектором Здания Главного штаба выступил Карл Росси. Здание построено в стиле классицизма и содержим много элементов античной архитектуры: колонны, скульптуры и барельефы с античными мотивами. Но самой знаменитой его частью является триумфальная арка, построенная в честь победы в войне 1812 года. Композиция из двух арок восходит к древнегреческим дипилонским воротам, а сверху арку венчает чугунная колесница богини Виктории, символизирующая победу.<br><br><img src="https://doc-0g-cc-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/beeoeadr98fidq0s9jsn43pkfo/1645487223250/bVdtgVCK7S9twej2sDSsa_4R1hYJ-i4-/08892943792363940611/5AIsG_vYs1DZUj62BYbVbHO7cJF6l8JlLY9Rxr2gtHSb-ED-o7UVR5u3g1EXmavXVveNE0_m_vs7MaNQeJ77QDD_dz1zlV3hSxvA91gyagBGOfhySr6LLSGJwcUMGPXxQnkyr3QXYzjvt_dF7ZtTGlzY2iVIXx1Xl40A-bOPrjdsKnm-v_X_Wj979CqsEioixEwonp6cQ?session=0&fife" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-00-cc-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/gvsdc5q09039duur85c66ml9ik/1645487223250/bVdtgVCK7S9twej2sDSsa_4R1hYJ-i4-/08892943792363940611/5AIsG_vbo2UESfnQHx8r-JBpP9_gK6AHmP8PsAeO1itDcadXGiL1ydHQBa0eVlKaO_LJzyHVDMiydawjjjQIka2aWk6p3KEVK4u-iYCb1XFUUo3YWL84l4JfHfgiD_2XSHM7vZszzhBiFmUrAINOwY7KFRpmPWxfUaxk--kXUZepL7VVQ1Ck0X8RM_V3hz0ks2N2pcIQ?session=0&fife https://doc-0g-cc-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/beeoeadr98fidq0s9jsn43pkfo/1645487223250/bVdtgVCK7S9twej2sDSsa_4R1hYJ-i4-/08892943792363940611/5AIsG_vYs1DZUj62BYbVbHO7cJF6l8JlLY9Rxr2gtHSb-ED-o7UVR5u3g1EXmavXVveNE0_m_vs7MaNQeJ77QDD_dz1zlV3hSxvA91gyagBGOfhySr6LLSGJwcUMGPXxQnkyr3QXYzjvt_dF7ZtTGlzY2iVIXx1Xl40A-bOPrjdsKnm-v_X_Wj979CqsEioixEwonp6cQ?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3172127,59.9380031,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Атланты на дворце Белосельских-Белозерских</name>
+        <description><![CDATA[<img src="https://doc-00-cc-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/vkssa5lp2uiplns92ji0opd180/1645487223250/bVdtgVCK7S9twej2sDSsa_4R1hYJ-i4-/08892943792363940611/5AIsG_va5q_TpRzAF5s-62OrdwErSzXTDd3IqU3o-rgGg1h0gn2R_aWWabUaGkSXlbTaJiYVD-e6D-rahr7Ew-OfTQPmiFQX0d8exjZun2u7jTSGssiZ8vyr8TaPT9d_RTSbvVx-CkMCeF_CFBbPW7v34Q9Nu5_Ps285KNWdrPE5lmpsBJfv2s4w3KoSz_f1T2Q7Go80?session=0&fife" height="200" width="auto" /><br><br>Здание выполнено по проекту архитектора Штакеншнейдера в стиле русского необарокко. Фасад украшен античными мотивами: колонны, барельфы и атланты, выполненные скульптором Давидом Йенсеном.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-00-cc-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/vkssa5lp2uiplns92ji0opd180/1645487223250/bVdtgVCK7S9twej2sDSsa_4R1hYJ-i4-/08892943792363940611/5AIsG_va5q_TpRzAF5s-62OrdwErSzXTDd3IqU3o-rgGg1h0gn2R_aWWabUaGkSXlbTaJiYVD-e6D-rahr7Ew-OfTQPmiFQX0d8exjZun2u7jTSGssiZ8vyr8TaPT9d_RTSbvVx-CkMCeF_CFBbPW7v34Q9Nu5_Ps285KNWdrPE5lmpsBJfv2s4w3KoSz_f1T2Q7Go80?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3444099,59.9327424,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Скульптуры на фасаде магазина купцов Елисеевых</name>
+        <description><![CDATA[<img src="https://doc-10-cc-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/jk4rvqprgk992l71d1n51mf3t4/1645487223250/bVdtgVCK7S9twej2sDSsa_4R1hYJ-i4-/08892943792363940611/5AIsG_vYT_o8sF5I5D0eXUpNTa-VcDLJxzMUV3EiQ807YARusr5cttVWAAKlyoMGXPf_6KsWqS_FpVHB60_rdUqg-F1Du0vd4h2TLOzXO8PknO_VkfYh92DwAXX8CnGFdsu8jYvBQMD4hSrUD2I9MponkFCebQVAqj-FeEO7QJlP_NtZ0ILGoLoTNWslq1L5Y7q46dXXI?session=0&fife" height="200" width="auto" /><br><br>Торговый дом сильно выделяется роскошной архитектурой на фоне классического Невского проспекта, тем не менее, в нём тоже есть античные мотивы в виде четырёх скульптур, выполненных скульптором Амандусом Адамсоном. Они изображают античных богов, символизирующих торговлю, науку, промышленность и искусство.<br><br><img src="https://doc-0k-cc-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/aqn7g7k3oe5e9omqhed09vnnro/1645487223250/bVdtgVCK7S9twej2sDSsa_4R1hYJ-i4-/08892943792363940611/5AIsG_vZ6s13bR213Xcgn3YM-FaHmoHJNfj4DRtR5d_wGxPEKZlKP9EQ0SFqToM9cZ08YlcVwfhWoz10Of5P5MBiRz3HyCEqzYf7oolrG8AvZHQbbBg138e42Ob7EVP6sb7-NijVjG_JI5SaqXX-YhrZkJ0npKQIesIBHFvGqEJZtmh3MEMaBG54Wym4o-0nXN5uHBZA?session=0&fife" height="200" width="auto" /><br><br><img src="https://doc-00-cc-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/grp1cn7sr1irmfjodmscm0f49c/1645487223250/bVdtgVCK7S9twej2sDSsa_4R1hYJ-i4-/08892943792363940611/5AIsG_vbyRWTq0VzHoBf5I1CS1inop6p10ZtMrOG1JI5DGAGH_SXfpLXTlZln4N208CoEwYf_2-TlByBYcx1Lp6EuFxftOL1LiBkTJgMJLkitchWMGJ-Ip2XLySUO3apvmBukmGFi2Zv4nRyRzGO_Q94AKLiCxd2bHS72UwJcjyRXx2n_ShKNZV36H5I_fimWPSHAz-56?session=0&fife" height="200" width="auto" /><br><br><img src="https://doc-14-cc-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/o1id39pfqg1lsai1ia1vb1m6j8/1645487223250/bVdtgVCK7S9twej2sDSsa_4R1hYJ-i4-/08892943792363940611/5AIsG_vY61JnJMBFbj6OuEK4Sp4usrKjO95HJl_kg_OUfrHbYgqcIXjOvnZbXu8TQnqDSmm_gyHqK2uf0xD4akAry6VacURKJm1FjxEHBcAp_nBPr6Ic2qt1IIZApYuI52D5fv-SceIS68-Yf9nJyjlJ4gy3dSPdqJwWgRXEn97OI9wmZdacFg56UvLZfJJIJqh9VER-S?session=0&fife" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-10-cc-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/jk4rvqprgk992l71d1n51mf3t4/1645487223250/bVdtgVCK7S9twej2sDSsa_4R1hYJ-i4-/08892943792363940611/5AIsG_vYT_o8sF5I5D0eXUpNTa-VcDLJxzMUV3EiQ807YARusr5cttVWAAKlyoMGXPf_6KsWqS_FpVHB60_rdUqg-F1Du0vd4h2TLOzXO8PknO_VkfYh92DwAXX8CnGFdsu8jYvBQMD4hSrUD2I9MponkFCebQVAqj-FeEO7QJlP_NtZ0ILGoLoTNWslq1L5Y7q46dXXI?session=0&fife https://doc-0k-cc-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/aqn7g7k3oe5e9omqhed09vnnro/1645487223250/bVdtgVCK7S9twej2sDSsa_4R1hYJ-i4-/08892943792363940611/5AIsG_vZ6s13bR213Xcgn3YM-FaHmoHJNfj4DRtR5d_wGxPEKZlKP9EQ0SFqToM9cZ08YlcVwfhWoz10Of5P5MBiRz3HyCEqzYf7oolrG8AvZHQbbBg138e42Ob7EVP6sb7-NijVjG_JI5SaqXX-YhrZkJ0npKQIesIBHFvGqEJZtmh3MEMaBG54Wym4o-0nXN5uHBZA?session=0&fife https://doc-00-cc-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/grp1cn7sr1irmfjodmscm0f49c/1645487223250/bVdtgVCK7S9twej2sDSsa_4R1hYJ-i4-/08892943792363940611/5AIsG_vbyRWTq0VzHoBf5I1CS1inop6p10ZtMrOG1JI5DGAGH_SXfpLXTlZln4N208CoEwYf_2-TlByBYcx1Lp6EuFxftOL1LiBkTJgMJLkitchWMGJ-Ip2XLySUO3apvmBukmGFi2Zv4nRyRzGO_Q94AKLiCxd2bHS72UwJcjyRXx2n_ShKNZV36H5I_fimWPSHAz-56?session=0&fife https://doc-14-cc-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/o1id39pfqg1lsai1ia1vb1m6j8/1645487223250/bVdtgVCK7S9twej2sDSsa_4R1hYJ-i4-/08892943792363940611/5AIsG_vY61JnJMBFbj6OuEK4Sp4usrKjO95HJl_kg_OUfrHbYgqcIXjOvnZbXu8TQnqDSmm_gyHqK2uf0xD4akAry6VacURKJm1FjxEHBcAp_nBPr6Ic2qt1IIZApYuI52D5fv-SceIS68-Yf9nJyjlJ4gy3dSPdqJwWgRXEn97OI9wmZdacFg56UvLZfJJIJqh9VER-S?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3375,59.934167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Российская национальная библиотека</name>
+        <description><![CDATA[<img src="https://doc-0o-cc-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/q8l8uo6ue9sap2jpkh86e56duo/1645487223250/bVdtgVCK7S9twej2sDSsa_4R1hYJ-i4-/08892943792363940611/5AIsG_vZbOgyVxRSTrkLsF-cleCRT-kbNVeV9Da3ZKOmCuIyFUw36AfXG7pUkJcy6sfKPcldgT2Mdker9_6xvsITm97bZnCBj8ohUZlig4xWewPUTL1HaD9QIsjNx9XbhHQp1AcDgqigbj63oRJykghhctSHQ-FyE0UrNphu4jjHQ7nqwllOzZRzrh4PLDqy91SRuv9M?session=0&fife" height="200" width="auto" /><br><br>Здание библиотеки выполнено в стиле классицизм архитектором Егором Соколовым. По своей архитектуре оно напоминает древнегреческих храм. Помимо колонн и барельефов фасад украшен множеством скульптур античных деятелей искусства, науки и политики: Геродот, Цицерон, Тацит, Вергилий, Демосфен, Гиппократ, Еврипид, Платон, Гомер. А венчает здание скульптура Афины.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0o-cc-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/q8l8uo6ue9sap2jpkh86e56duo/1645487223250/bVdtgVCK7S9twej2sDSsa_4R1hYJ-i4-/08892943792363940611/5AIsG_vZbOgyVxRSTrkLsF-cleCRT-kbNVeV9Da3ZKOmCuIyFUw36AfXG7pUkJcy6sfKPcldgT2Mdker9_6xvsITm97bZnCBj8ohUZlig4xWewPUTL1HaD9QIsjNx9XbhHQp1AcDgqigbj63oRJykghhctSHQ-FyE0UrNphu4jjHQ7nqwllOzZRzrh4PLDqy91SRuv9M?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3357343,59.9335441,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>улица Зодчего Росси</name>
+        <description><![CDATA[<img src="https://doc-0s-cc-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/j70n363r6b9api46fpgh5vjfpo/1645487223250/bVdtgVCK7S9twej2sDSsa_4R1hYJ-i4-/08892943792363940611/5AIsG_vbQeU617BDqaQjO6QVEzdtAbRGiT_E8J5RVTeU_ooiSkuWP98HEAyGrEi7BgcCB8OgibV5FD7ZOz8U2C4OqpDR1ZWgs3RNSO3CDYCzDtI0myeeak84MPg9Lc2cqLCSuz4QxMKKmRApt8QgBpMYDnicA9P9JnwgjhVIDLYWNc2QWhAeQYo52dk6k7cK403YLtW8?session=0&fife" height="200" width="auto" /><br><br>Эта улица выполнена по единому проекту Карла Росси. Фасады зданий украшают колонны и барельефы, а сама улица выполнена по античным канонам: её ширина равна высоте зданий, а длина ровно в 10 раз больше.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0s-cc-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/j70n363r6b9api46fpgh5vjfpo/1645487223250/bVdtgVCK7S9twej2sDSsa_4R1hYJ-i4-/08892943792363940611/5AIsG_vbQeU617BDqaQjO6QVEzdtAbRGiT_E8J5RVTeU_ooiSkuWP98HEAyGrEi7BgcCB8OgibV5FD7ZOz8U2C4OqpDR1ZWgs3RNSO3CDYCzDtI0myeeak84MPg9Lc2cqLCSuz4QxMKKmRApt8QgBpMYDnicA9P9JnwgjhVIDLYWNc2QWhAeQYo52dk6k7cK403YLtW8?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3351029,59.9293944,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Здание Сената и Синода</name>
+        <description><![CDATA[<img src="https://doc-08-cc-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/pvkc3taq68nm1j2064uk6i5jps/1645487223250/bVdtgVCK7S9twej2sDSsa_4R1hYJ-i4-/08892943792363940611/5AIsG_vaHtCBWH5Nlx8kdyriiBUBw5qHFbvLDhWljHr72q2Nnic4cU3Ry9I_b4Fr_5FJncInw4RWhLjRnAr0ZreeunJJXYnQSB6cR6rRdPuVE_0XeiE-lhf7TlMloxg4tDbmwBUZwSK13Z4wUUzKptj_BhJwjHJnO5QFQiZUD1_YsHejXXS0HuNfLAyUkSF7YiC-Xxl4?session=0&fife" height="200" width="auto" /><br><br>Здание спроектировано Карлом Росси, выполнено в стиле позднего классицизма. Как и Здание Главного штаба, украшено множеством колонн, скульптур, барельефов и горельефов с античными мотивами. Сенат и Синод — это два крыла, соединённых аркой, что символизирует единство государства и церкви. Закрепляя это, на вершине арки стоит скульптура «Правосудие и Благочестие» <br><br><img src="https://doc-0k-cc-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/lkh1b06bp4v8erloh8ipv895t0/1645487223250/bVdtgVCK7S9twej2sDSsa_4R1hYJ-i4-/08892943792363940611/5AIsG_vbsKrn0hCArDEoNFJ1KLNaq-wP0d4yQ6UWGbJ16BWDRVpVaXT6kACXPAy2zNYfH4rQN977hCrFyU5-kWDcIMo2fGKSfHZkxT4ORV_2LvWoWcuVEGlGjYSKGFy5NUpUE8VEcvfVpOmudpXeuCefHjgYnsHR5bzdCSMZ65hNAsGuZZ3Ehn5GBpBtpnPraa47V9GM?session=0&fife" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-08-cc-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/pvkc3taq68nm1j2064uk6i5jps/1645487223250/bVdtgVCK7S9twej2sDSsa_4R1hYJ-i4-/08892943792363940611/5AIsG_vaHtCBWH5Nlx8kdyriiBUBw5qHFbvLDhWljHr72q2Nnic4cU3Ry9I_b4Fr_5FJncInw4RWhLjRnAr0ZreeunJJXYnQSB6cR6rRdPuVE_0XeiE-lhf7TlMloxg4tDbmwBUZwSK13Z4wUUzKptj_BhJwjHJnO5QFQiZUD1_YsHejXXS0HuNfLAyUkSF7YiC-Xxl4?session=0&fife https://doc-0k-cc-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/lkh1b06bp4v8erloh8ipv895t0/1645487223250/bVdtgVCK7S9twej2sDSsa_4R1hYJ-i4-/08892943792363940611/5AIsG_vbsKrn0hCArDEoNFJ1KLNaq-wP0d4yQ6UWGbJ16BWDRVpVaXT6kACXPAy2zNYfH4rQN977hCrFyU5-kWDcIMo2fGKSfHZkxT4ORV_2LvWoWcuVEGlGjYSKGFy5NUpUE8VEcvfVpOmudpXeuCefHjgYnsHR5bzdCSMZ65hNAsGuZZ3Ehn5GBpBtpnPraa47V9GM?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3008839,59.9361749,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

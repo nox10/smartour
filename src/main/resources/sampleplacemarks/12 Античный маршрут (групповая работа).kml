@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Античный маршрут (групповая работа)</name>
+    <description><![CDATA[Работу выполняли:<br>1)Домаев Александрос (W3160)<br>2)Волкова Мария (W3160)<br>3)Климко Николай (W3160)]]></description>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-F57C00-normal">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-F57C00-highlight">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-F57C00">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-F57C00-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-F57C00-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Площадь искусств (Домаев Александрос)</name>
+      <Placemark>
+        <name>Александринский театр</name>
+        <description><![CDATA[<img src="https://doc-14-1g-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/nl0h9n8vq1e5akaafk9qs3gb2k/1645487372750/jRZ59Pjx3o6xS2NZuuKREigfAuFqwNYE/08892943792363940611/5AIsG_vZDuDLTAJcH_ivlog6sMlqbSNSdfgJ_dBAyMvOdoyRB-6X0e9eOv0cQf1dAUqHleBh7_KAD0uaPjbP1EX2Z4DqQK0DnjTrOFv4N1jMlN_U8y3V2cS73VNDQLhoftg-X_E-HvmN8jD5uEqYbBMecwAgbChCI-SNN16tgBZ_3KA-TT9fSOrONi-4uuTVGjlmbIGI?session=0&fife" height="200" width="auto" /><br><br>Александрийский театр, утвержденный императрицей Елизаветой Петровной 30 августа 1756 года, в день Святого Александра Невского, построен в глубине площади Островского в 1832 году на месте деревянного Малого театра. Театр построен архитектором Карлом Росси в стиле ампир. Здание представляет интерес не только с точки зрения внешнего облика, но и примененных при его строительстве новаторских технических решений.План театра прост: прямоугольный главный фасад обращен к площади и Невскому проспекту. Архитектура легкая, грациозная. Рустовые стены первого этажа служат основанием для колоннад, украшающих фасад.<br>дание в стиле русского классицизма сочетает простоту, торжественность и пропорциональность частей и деталей. В центре переднего фасада – многоколонная лоджия, прорезанная неглубокими нишами со статуями муз Терпсихоры, Клио, Мельпомены, Талии.Лоджия завершается широким фризом с античными театральными масками и лавровыми гирляндами, опоясывающими здание. Боковые фасады выполнены в виде выступающих восьмиколонных портиков. Задний фасад украшают пилястры.<br>Нижняя часть – с просто решенными входными дверями. Боковые портики образуют два крытых подъезда. В оформлении фасада использованы скульптуры. Аттик главного фасада венчает квадрига Аполлона, вычеканенная из листовой меди.<br>Аполлон, сын Зевса и покровитель искусств, облаченный в свободную одежду, стоит в нарядной колеснице, влекомой четверкой коней. В правой руке Аполлона – лавровый венок, в левой – кифара.<br><br>.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-14-1g-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/nl0h9n8vq1e5akaafk9qs3gb2k/1645487372750/jRZ59Pjx3o6xS2NZuuKREigfAuFqwNYE/08892943792363940611/5AIsG_vZDuDLTAJcH_ivlog6sMlqbSNSdfgJ_dBAyMvOdoyRB-6X0e9eOv0cQf1dAUqHleBh7_KAD0uaPjbP1EX2Z4DqQK0DnjTrOFv4N1jMlN_U8y3V2cS73VNDQLhoftg-X_E-HvmN8jD5uEqYbBMecwAgbChCI-SNN16tgBZ_3KA-TT9fSOrONi-4uuTVGjlmbIGI?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.336157,59.931785,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Российская Национальная библиотека</name>
+        <description><![CDATA[<img src="https://doc-04-1g-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/52jfstnjnb6j8aa1psfup156vc/1645487372750/jRZ59Pjx3o6xS2NZuuKREigfAuFqwNYE/08892943792363940611/5AIsG_vb-6hjh4nvJocHpsSCFd288A5G5xZYrErVUqhLd09x-ksmXcjav87A-bI3_Gtd4OQMDlaODMJer_h6O9ZRrC4uAlaKCwhL4ncapRNb7PMNTsAOhDxsT26cxZpXT0R9DpVuM5IfDG_m-NjSbISfQ3uVkFU9KDu1iPt5fSTOTxerDRMf5VI-0SAnaaPxROQshpSs?session=0&fife" height="200" width="auto" /><br><br>Российская национальная библиотека — старейшая публичная и первая национальная библиотека России, основанная в 1795 г. по указу императрицы Екатерины Великой.<br><br>Более двухсот лет библиотека — ныне одна из крупнейших в мире и вторая по величине фондов в Российской Федерации — служит российской культуре и науке, хранит национальную память, способствует просвещению населяющих Россию народов и распространению идей гуманизма. За этот период Россия пережила эпохи Екатерины Великой, Александра I, Николая I, время Великих реформ, Февральскую и Октябрьскую революции, Великую Отечественную войну, и все то, что происходило в общественной жизни страны, находило отражение в истории библиотеки.<br><br>Миссия библиотеки — собирание, сохранение и предоставление в общественное пользование универсального фонда документов, отражающих накопленные человечеством знания и имеющих отношение, прежде всего, к России и ее национальным интересам. Известная в мире как величайшая сокровищница письменности, РНБ занимает исключительное место в истории русской и мировой культуры.<br><br>Российская национальная библиотека сегодня — это привычное нам Главное здание на углу Невского проспекта и Садовой улицы, а также несколько филиалов в различных районах города.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-04-1g-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/52jfstnjnb6j8aa1psfup156vc/1645487372750/jRZ59Pjx3o6xS2NZuuKREigfAuFqwNYE/08892943792363940611/5AIsG_vb-6hjh4nvJocHpsSCFd288A5G5xZYrErVUqhLd09x-ksmXcjav87A-bI3_Gtd4OQMDlaODMJer_h6O9ZRrC4uAlaKCwhL4ncapRNb7PMNTsAOhDxsT26cxZpXT0R9DpVuM5IfDG_m-NjSbISfQ3uVkFU9KDu1iPt5fSTOTxerDRMf5VI-0SAnaaPxROQshpSs?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3356699,59.9335427,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Итальянская улица (Волкова Мария)</name>
+      <Placemark>
+        <name>Базилика Святой Екатерины Александрийской</name>
+        <description><![CDATA[<img src="https://doc-0o-1g-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/g4qnj2q9ld6rqtstln1rcirdak/1645487372750/jRZ59Pjx3o6xS2NZuuKREigfAuFqwNYE/08892943792363940611/5AIsG_vZYLKZfee5dwQeF5MMtRFf4k78EYFU9xIVH1TbA1lQm9VnV9oabdW6QgNl3KUy5vGBHw_2vJk4QPQdENEmEOabZLQmt6eC8zXrTcGTjSp6Wnt_qSs8Fo1QoHP82Fz5IKJUu-HHqp2VuuCagNylpcVK8xxN1IeQ2gh6WpmtdqwbguX2DkPEokH3Gis6FPJFbIyo1?session=0&fife" height="200" width="auto" /><br><br>Базилика святой Екатерины Александрийской — католический храм в Санкт-Петербурге, один из старейших католических храмов России. Единственный католический храм нашей страны, которому присвоен почётный титул малой базилики.<br>Здание имеет форму латинского креста, с поперечным трансептом, увенчано большим куполом.<br>Храм Св. Екатерины связан с именами многих выдающихся личностей. В 1798 году здесь был похоронен последний польский король Станислав Август Понятовский (впоследствии перезахоронен в Польше), а в 1813 году французский полководец Жан Виктор Моро. Прихожанином храма был знаменитый архитектор Монферран, строитель Исаакиевского собора. Здесь он венчался и крестил сына. Здесь же было отпето его тело после смерти, после чего его вдова увезла гроб с телом мужа во Францию.<br>Год основания: 1783<br>Адрес: Невский проспект, д. 32-34.]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0o-1g-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/g4qnj2q9ld6rqtstln1rcirdak/1645487372750/jRZ59Pjx3o6xS2NZuuKREigfAuFqwNYE/08892943792363940611/5AIsG_vZYLKZfee5dwQeF5MMtRFf4k78EYFU9xIVH1TbA1lQm9VnV9oabdW6QgNl3KUy5vGBHw_2vJk4QPQdENEmEOabZLQmt6eC8zXrTcGTjSp6Wnt_qSs8Fo1QoHP82Fz5IKJUu-HHqp2VuuCagNylpcVK8xxN1IeQ2gh6WpmtdqwbguX2DkPEokH3Gis6FPJFbIyo1?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3290097,59.9353977,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Перинная линия</name>
+        <description><![CDATA[<img src="https://doc-0k-1g-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/osdtoc2rs6iuribt38cgrhheos/1645487372750/jRZ59Pjx3o6xS2NZuuKREigfAuFqwNYE/08892943792363940611/5AIsG_vbrBTTczfKU-PsUOzdgYLxMGgJOfiUUneHtgL9L01dP4ocKWntfBaHLoGCT6PFdBUNbx3-pfg3UULUI3N0AsA676nKIObkbQKNTKHxRc6sG6ZD2inyqnKHfJdumG7oPRyAgJQIM3_WUe2QaqClZ5TGC6PbgX98G1Q5a7ju1LaUBY-VO8pJJXnfLKP-v_JULA21g?session=0&fife" height="200" width="auto" /><br><br>Пери́нная линия — улица в Центральном районе Санкт-Петербурга. Проходит от Невского проспекта до улицы Ломоносова вдоль Гостиного двора параллельно Думской улице.<br>Перинной линией также называют линию Гостиного двора, выходящую на эту улицу.<br>Возникла в 1776 году под названием Гостиная улица[2]. На рубеже 1800-х годов вдоль Думской улицы по проекту Дж. Кваренги было построено здание торговых Перинных рядов (названных так в связи с продажей в некоторых лавках птичьего пера), разделившее её на две части. В 1802—1806 годах архитектор Луиджи Руска завершил торговые ряды колонным портикам, обращённым фасадом к Невскому проспекту.<br>С 1849 года называлась Суровской, или Большой Суровской, линией (по характеру продаваемого товара), а в 1882 году получила название Перинной линии — по зданию Перинных рядов. С 1889 года по 1930-е годы называлась Перинной улицей, затем опять была переименована в Перинную линию.]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0k-1g-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/osdtoc2rs6iuribt38cgrhheos/1645487372750/jRZ59Pjx3o6xS2NZuuKREigfAuFqwNYE/08892943792363940611/5AIsG_vbrBTTczfKU-PsUOzdgYLxMGgJOfiUUneHtgL9L01dP4ocKWntfBaHLoGCT6PFdBUNbx3-pfg3UULUI3N0AsA676nKIObkbQKNTKHxRc6sG6ZD2inyqnKHfJdumG7oPRyAgJQIM3_WUe2QaqClZ5TGC6PbgX98G1Q5a7ju1LaUBY-VO8pJJXnfLKP-v_JULA21g?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3293829,59.933813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Слой без названия</name>
+      <Placemark>
+        <name>Российский этнографический музей</name>
+        <description><![CDATA[<img src="https://doc-04-1g-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/4b277fs9aeufvm2qnravl29s94/1645487372750/jRZ59Pjx3o6xS2NZuuKREigfAuFqwNYE/08892943792363940611/5AIsG_vbJbYZnCR1EuAa6Om5ATi_oxIrE_RRV1I-WKRz9afZe8ajeTnWmsYt7eq0Rs9BwlUhlKAzkQP4EJOHYuTYJy8gSI3-WR94P5PbQN9Vy191N558wyQRs-fPMbcc92p05C_cCB-18lArcRWnfm1GWuIIuEYzXwGV4VUKsW7m9JAtl78tby9NPY91kB4tEruFBwbs?session=0&fife" height="200" width="auto" /><br><br>Российский этнографический музей (РЭМ) рассказывает о простых и близких каждому человеку вещах: как люди трудились, порой достигая высочайшего мастерства; как строили и обустраивали свое жилье; отдыхали; воспитывали детей; одевались; во что верили. Однако каждый из музейных комплексов имеет неповторимый облик, национальный колорит, свойственный только данному народу. <br> <br>Этнографы изучают народы (этносы) во времени и пространстве, в их общности и культурном своеобразии. Все вещи музея подлинные, собранные в среде самих народов многими поколениями музейных сотрудников. Этнографический предмет может многое рассказать о разных сторонах жизни целого народа, его вековых традициях. К примеру, старинное вышитое полотенце русских крестьян использовалось не только по прямому назначению, то есть служило «утиральником», им также покрывали иконы в красном углу. Оно обязательно входило в состав приданого, полотенцами невеста на свадьбе одаривала жениха и его родню, по старинному обычаю на нем подносили хлеб-соль дорогим гостям; на полотенцах опускали гроб в могилу, провожая покойного в последний путь. А сколько труда, мастерства, терпения и вкуса вкладывала женщина в тканье холста и украшение полотенца узором! <br> <br>В Музее воочию убеждаешься, насколько многолика и красочна традиционная культура разных народов, как каждый из них создавал свой этнический облик в разных условиях проживания и на основе веками отточенного представления о красоте и достоинстве.  ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-04-1g-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/4b277fs9aeufvm2qnravl29s94/1645487372750/jRZ59Pjx3o6xS2NZuuKREigfAuFqwNYE/08892943792363940611/5AIsG_vbJbYZnCR1EuAa6Om5ATi_oxIrE_RRV1I-WKRz9afZe8ajeTnWmsYt7eq0Rs9BwlUhlKAzkQP4EJOHYuTYJy8gSI3-WR94P5PbQN9Vy191N558wyQRs-fPMbcc92p05C_cCB-18lArcRWnfm1GWuIIuEYzXwGV4VUKsW7m9JAtl78tby9NPY91kB4tEruFBwbs?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3343244,59.9377236,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Михайловский дворец</name>
+        <description><![CDATA[<img src="https://doc-0g-1g-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/ld9kkktgt2sb50l7gfravnh4bg/1645487372750/jRZ59Pjx3o6xS2NZuuKREigfAuFqwNYE/08892943792363940611/5AIsG_va_cCWEqux2pknFeNNPOeB3928L_CLgg5Wgk1vVBNQ8XcMceDm8oejxu_C1bw3I3EBf_-tBZivoqJyzHY_43g2Swvzsg283OOO3xdm0MFAiJFwjnCqExAc7DmRqgLpQKj53S_B-yn5uQ91h3coUuRd6NoK4AhtijPzlIkLfhO5uelS5vz9UMtBgwd1BzFLP-l8?session=0&fife" height="200" width="auto" /><br><br>Михайловский дворец в Санкт-Петербурге – архитектурный шедевр, созданный в Российской империи русским архитектором итальянского происхождения Карлом Росси, главное здание Русского музея. Полюбоваться сооружением прибывали знаменитые иностранцы, признавшие Михайловский дворец лучшим зданием Европы. Император наградил архитектора за работу орденом Святого Владимира Ш степени и участком земли для строительства собственного дома в Санкт-Петербурге за казенный счет.Строить дворец начали в 1819 году на пустыре у реки Мойки. Зодчий скрупулезно продумал закладку фундамента и декорирование здания. Дикий лес около Мойки превратили в ухоженный сад в английском стиле. Рядом с резиденцией Михаила архитектор создал площадь и новые улицы. Для надежности строительства работы велись только в теплое время года. В 1825 году стройка завершилась. Михайловский дворец построен в стиле ампир, высокого классицизма. Стиль отражает римскую классику в сочетании с египетскими мотивами: торжественность и парадность в архитектуре, театральность в оформлении построек и интерьеров. Обязательное наличие колонн, пилястров, лепных карнизов.Античные скульптуры (сфинксы, львы) располагаются упорядоченно с соблюдением равновесия и симметрии. Стиль с массивными формами, элементами военной символики подчеркивает могущество власти и государства.<br> <br>К главному корпусу двухэтажного здания по бокам примыкают два служебных – для кухни, манежа и конюшен Флигеля связаны со зданием металлической изгородью с несколькими воротами.Фасад изумляет изысканностью и утонченностью убранства. В центральной части – элегантный портик: выступающая вперед часть с семью арками, которую поддерживают восемь колонн. По обе стороны от портика на главном фасаде размещены по шесть колонн. Строение украшено белоснежной лепниной.<br><br>Первый этаж декорирован рустами – камнями оригинальной фактуры, тщательно подогнанными друг к другу, которые придают зданию неповторимость и уникальность. Ко входу во дворец ведет гранитная лестница, украшенная двумя статуями львов, отлитыми специально для Михайловского дворца. Величественные хищники к центру обращены боком, под лапами держат каменные шары – символ солнца.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0g-1g-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/ld9kkktgt2sb50l7gfravnh4bg/1645487372750/jRZ59Pjx3o6xS2NZuuKREigfAuFqwNYE/08892943792363940611/5AIsG_va_cCWEqux2pknFeNNPOeB3928L_CLgg5Wgk1vVBNQ8XcMceDm8oejxu_C1bw3I3EBf_-tBZivoqJyzHY_43g2Swvzsg283OOO3xdm0MFAiJFwjnCqExAc7DmRqgLpQKj53S_B-yn5uQ91h3coUuRd6NoK4AhtijPzlIkLfhO5uelS5vz9UMtBgwd1BzFLP-l8?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3322617,59.9386435,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

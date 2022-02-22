@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Античный маршрут </name>
+    <description/>
+    <Style id="icon-1899-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Архитектура Елагина острова</name>
+      <Placemark>
+        <name>Павильон под флагом</name>
+        <description><![CDATA[<img src="https://doc-00-9k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/o38lor6fopp2gli6emvosn31nk/1645487372750/mtQ4sC4ecB9jbaJeAzGws1j2qERReolZ/08892943792363940611/5AIsG_vbiGF1SPUNmDnGNeKdhwzvdcg47ZLzm_kLnbZjrpqUXfQzYIvEZbVNNrCChr7b6b_A_BHvPFmpKaMsOSeDrce8Boa4xi3LeH8QmlmnIpfqM1a2O-ZsIgXhsvomvhGEnNox7yegg6mpCv_OKuz09Z_jKbj4s8Ryw9irwwAo05-SqC0G1e9l37k8NeQBE5jYeVvCU?session=0&fife" height="200" width="auto" /><br><br>Павильон под флагом входит в дворцово-парковый ансамбль, который был возведен по проекту Карла Росси в 1812-1822 после распоряжения императора Александра I. <br><br>   Павильон представляет собой прямоугольный объем с вписанной в него открытой ротондой из 10-ти дорических колонн, которые построены на основе "античной" классики. Стены павильона украшены барельефными панно. У входа - чугунные вазы-жертвенники.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-00-9k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/o38lor6fopp2gli6emvosn31nk/1645487372750/mtQ4sC4ecB9jbaJeAzGws1j2qERReolZ/08892943792363940611/5AIsG_vbiGF1SPUNmDnGNeKdhwzvdcg47ZLzm_kLnbZjrpqUXfQzYIvEZbVNNrCChr7b6b_A_BHvPFmpKaMsOSeDrce8Boa4xi3LeH8QmlmnIpfqM1a2O-ZsIgXhsvomvhGEnNox7yegg6mpCv_OKuz09Z_jKbj4s8Ryw9irwwAo05-SqC0G1e9l37k8NeQBE5jYeVvCU?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.2732105,59.9806883,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Елагиноостровский дворец-музей</name>
+        <description><![CDATA[<img src="https://doc-0k-9k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/glnp4ls18but3dtnuto1suael4/1645487372750/mtQ4sC4ecB9jbaJeAzGws1j2qERReolZ/08892943792363940611/5AIsG_vboYHgqwqGKS51B4x_nMICAXzaGl9fxOut4M3m-D6ixT5IFesezREwVDKlVrcalJ9lNiV-y4nJR3A1lBRtlRcPmGyDcyYRhbpdalrXOEhX57c_RnZswA7H1rq7NmwaaUgEhmO5yA5MIltMve_JCP6bvso-br9ymeXpkHWOCEej5BWbcJmDbNB9NIm-xUxkoRsAS?session=0&fife" height="200" width="auto" /><br><br>Елагиноостровский дворец (называемый также Елагинским или Елагиным) был построен архитектором Карлом Росси в 1818-1822 годах по заказу императора Александра I.<br><br>   Двухэтажное здание дворца, увенчанное куполом, стоит на высокой каменной террасе. Один его фасад смотрит на реку, а с другой стороны в парк спускается широкая многоступенчатая лестница, которую стерегут чугунные львы. При построении дворца архитектор стремился к античным греческим формам.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0k-9k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/glnp4ls18but3dtnuto1suael4/1645487372750/mtQ4sC4ecB9jbaJeAzGws1j2qERReolZ/08892943792363940611/5AIsG_vboYHgqwqGKS51B4x_nMICAXzaGl9fxOut4M3m-D6ixT5IFesezREwVDKlVrcalJ9lNiV-y4nJR3A1lBRtlRcPmGyDcyYRhbpdalrXOEhX57c_RnZswA7H1rq7NmwaaUgEhmO5yA5MIltMve_JCP6bvso-br9ymeXpkHWOCEej5BWbcJmDbNB9NIm-xUxkoRsAS?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.270039,59.9793377,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Кухонный корпус</name>
+        <description><![CDATA[<img src="https://doc-0s-9k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/mouof4m92s254bhqb1m5hcq34o/1645487372750/mtQ4sC4ecB9jbaJeAzGws1j2qERReolZ/08892943792363940611/5AIsG_vZVlYq3wsH4QuzLLCCFDZ003kt3TpNhCQRk6nm4t_xRjSNpE98UcSCyCIbq0HyaV4HyQ9XGkblWIJcrD0CFRN5vE-MBp_1eYcuMY2PH_uvaxb30gabWdBGZnTezxKm78tRgiXwSyoDFlY9qO-tqv6zasVcogfe1V2D1OlJAlGGtnEdMRj92z7JOlrzbYoYmpts7?session=0&fife" height="200" width="auto" /><br><br>Кухонный корпус создан архитектором Карло Росси одновременно с дворцом, в 1822 году. Расположен вдоль северной границы Масляного луга. Это двухэтажное в плане здание имеет форму полукруга. Восточный фасад оформлен портиком с декоративными вазами в нишах. Южный фасад декорирован четырнадцатью скульптурами, изображающими античных богов и героев, выполненными из пудожского камня скульптором С. Пименовым. В центральной части фасада расположен шестиколонный портик дорического ордера с массивными воротами, закрывающими вход во внутреннюю часть здания. Снаружи Кухонный корпус не имеет ни одного окна. Все окна выходят во внутренний дворик, который в XIX веке был вымощен булыжником.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0s-9k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/mouof4m92s254bhqb1m5hcq34o/1645487372750/mtQ4sC4ecB9jbaJeAzGws1j2qERReolZ/08892943792363940611/5AIsG_vZVlYq3wsH4QuzLLCCFDZ003kt3TpNhCQRk6nm4t_xRjSNpE98UcSCyCIbq0HyaV4HyQ9XGkblWIJcrD0CFRN5vE-MBp_1eYcuMY2PH_uvaxb30gabWdBGZnTezxKm78tRgiXwSyoDFlY9qO-tqv6zasVcogfe1V2D1OlJAlGGtnEdMRj92z7JOlrzbYoYmpts7?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.2684876,59.9797167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Павильон на острове (Беседка графа Н.И.Панина)</name>
+        <description><![CDATA[<img src="https://doc-08-9k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/6k40o0g2c6r4afg1fqlgqi3qes/1645487372750/mtQ4sC4ecB9jbaJeAzGws1j2qERReolZ/08892943792363940611/5AIsG_vZaO2bgFc-xLA101iSgcvZ0CXoV9sfXJlXv0DyRn4crWaoTugHvrWsHtrs2F2WuGW0wdMtAHnN_wIV6AD0i5LLxcmBQkMns6-eyBj1vHZGT5HW-pc-AkrvStMdHTklNZEAcnLO8NklCBXAYqxHnNlsvOfjXZADP__-wO7tGtqhUQg_I2EWhMaIQ-aGyZvaWXJQ?session=0&fife" height="200" width="auto" /><br><br>В Старом английском саду, на острове третьего южного пруда находится беседка «о четырёх каменных столбах». Этот павильон был построен И.П. Елагиным в XVIII веке, который установил там памятник в честь вице-канцлера графа Н.И. Панина, ближайшего друга Елагина, неоднократно гостившего на острове. Позже постройка была переделана К.И. Росси, который внёс в нее элементы позднего классицизма и покрасил в общий для всего ансамбля серый цвет, а архитектурные детали в белый.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-08-9k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/6k40o0g2c6r4afg1fqlgqi3qes/1645487372750/mtQ4sC4ecB9jbaJeAzGws1j2qERReolZ/08892943792363940611/5AIsG_vZaO2bgFc-xLA101iSgcvZ0CXoV9sfXJlXv0DyRn4crWaoTugHvrWsHtrs2F2WuGW0wdMtAHnN_wIV6AD0i5LLxcmBQkMns6-eyBj1vHZGT5HW-pc-AkrvStMdHTklNZEAcnLO8NklCBXAYqxHnNlsvOfjXZADP__-wO7tGtqhUQg_I2EWhMaIQ-aGyZvaWXJQ?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.2554049,59.9783475,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Западная Стрелка Елагина острова</name>
+        <description><![CDATA[<img src="https://doc-14-9k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/1q9mu6bamqb6pceokl72pbfbuk/1645487372750/mtQ4sC4ecB9jbaJeAzGws1j2qERReolZ/08892943792363940611/5AIsG_vaDKr42wpgm9pu4JBqqdc3WukFAGvd_gpw7sMIfUFUBFxoa8GMhbSYFJwQuYOFheobdrWP5NtNBscbiBUblvaJkS1xPOfJ6rUPkuIzwumN7jzApiWERPUqZ5iNW0Kd5tJk_qlTkJUrQX4wVWESB279l-BYGxtAcntVFbW7uBC2qu9KT5UbCPqDB7pB7tbIm5aw?session=0&fife" height="200" width="auto" /><br><br>На Стрелке мы можем встретить двух львов, созданные из пудожского камня в конце XVIII века для дачи Строганова на Каменном острове. Фигуры животных на западной стрелке появились в 1927 году. <br>Автор скульптур точно не установлен, по одной из версий, их вытесал Андрей Воронихин. Есть предположение, что первоначально львы находились в усадьбе Марьино и лишь потом переехали на дачу Строганова.Рядом со львами есть лесенка, по которой можно спуститься к воде и полюбоваться вечерним закатом. Часто здесь на ступеньках сидят влюбленные парочки, а рядом с берегом плавают уточки, выпрашивающие у них пропитание.<br><br><img src="https://doc-04-9k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/qvplhc48n5ai86e7ah3ils86gs/1645487372750/mtQ4sC4ecB9jbaJeAzGws1j2qERReolZ/08892943792363940611/5AIsG_vYLAHWhfXkm21QEhPR4IIwRoSfPbN64_74C2vvpKxpfdqeLL2LRfs3sid1kw4clN2f3T3TCovuGVPYM_WDCk72VaYWInYvi1kfqGqwvW3Had_u4ap3DmldhHzxbj6RneyxFuMUycVXH40trXYJJ_64L52lurUWrexxziI1uRSt1m88ErTZ7l5HJTxM_rIYM8NQ?session=0&fife" height="200" width="auto" /><br><br><img src="https://doc-10-9k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/511k7hnukp6htjncm5hfvl1ce4/1645487372750/mtQ4sC4ecB9jbaJeAzGws1j2qERReolZ/08892943792363940611/5AIsG_vYTSxWU8UY-VU6wSu7f9qu8Jp8rZmzppna7ESD-KAQi4dCEIF14v1L_aMHKs7CoxnJZ_Hkc16iGJCxArod3wc5kz0RWqimPfG87GfgeKFAVnaOgeywfoL1waDxsld9RUx3v18ewkZ_xb6BMnSIUySt23cFqKN5kvuu8RPteAuxCIZoB5HHVBhULM1ySkT2MQOA?session=0&fife" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-14-9k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/1q9mu6bamqb6pceokl72pbfbuk/1645487372750/mtQ4sC4ecB9jbaJeAzGws1j2qERReolZ/08892943792363940611/5AIsG_vaDKr42wpgm9pu4JBqqdc3WukFAGvd_gpw7sMIfUFUBFxoa8GMhbSYFJwQuYOFheobdrWP5NtNBscbiBUblvaJkS1xPOfJ6rUPkuIzwumN7jzApiWERPUqZ5iNW0Kd5tJk_qlTkJUrQX4wVWESB279l-BYGxtAcntVFbW7uBC2qu9KT5UbCPqDB7pB7tbIm5aw?session=0&fife https://doc-04-9k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/qvplhc48n5ai86e7ah3ils86gs/1645487372750/mtQ4sC4ecB9jbaJeAzGws1j2qERReolZ/08892943792363940611/5AIsG_vYLAHWhfXkm21QEhPR4IIwRoSfPbN64_74C2vvpKxpfdqeLL2LRfs3sid1kw4clN2f3T3TCovuGVPYM_WDCk72VaYWInYvi1kfqGqwvW3Had_u4ap3DmldhHzxbj6RneyxFuMUycVXH40trXYJJ_64L52lurUWrexxziI1uRSt1m88ErTZ7l5HJTxM_rIYM8NQ?session=0&fife https://doc-10-9k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/511k7hnukp6htjncm5hfvl1ce4/1645487372750/mtQ4sC4ecB9jbaJeAzGws1j2qERReolZ/08892943792363940611/5AIsG_vYTSxWU8UY-VU6wSu7f9qu8Jp8rZmzppna7ESD-KAQi4dCEIF14v1L_aMHKs7CoxnJZ_Hkc16iGJCxArod3wc5kz0RWqimPfG87GfgeKFAVnaOgeywfoL1waDxsld9RUx3v18ewkZ_xb6BMnSIUySt23cFqKN5kvuu8RPteAuxCIZoB5HHVBhULM1ySkT2MQOA?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.2367196,59.9803515,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Кавалерский корпус</name>
+        <description><![CDATA[<img src="https://doc-0k-9k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/drbgo03n1ubg4c5gc6rnlnjnk4/1645487372750/mtQ4sC4ecB9jbaJeAzGws1j2qERReolZ/08892943792363940611/5AIsG_vYozQ7YSKP2AVL3emM77In6hQQWt-hA2ez-V6V1hHQqPjpDCAOLVUreXARWf4Ndg5e0Gcw_f9n142MNR4u1ZlS2km3-4z98FldXtIfhj4f88AdNNMgkaxvkuMRWOFG3ER6A9QOGtA0skKjqPVoY7j7f7Ov6sq2eochlkAgyhKC7cf4JQhAyFvOnPaI6W9iKGPec?session=0&fife" height="200" width="auto" /><br><br>Кроме зданий дворцово-паркового ансамбля, на Елагином острове были возведены постройки, назначение которых не было связано непосредственно с обслуживанием императорской семьи. Ими являются Кавалерский и Фрейлинский корпуса.<br>Постройка Кавалерского корпуса создавалась из дерева с каменным первым этажом. В 1834 году архитектору Шарлеманю было приказано составить план для постройки «Дома для смотрителя Елагиноостровского дворца и Гоф-фурьера». Завершено строительство двухэтажного здания по проекту Шарлеманя было в 1836 году. По всему периметру крыши здания располагается венчающий карниз.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0k-9k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/drbgo03n1ubg4c5gc6rnlnjnk4/1645487372750/mtQ4sC4ecB9jbaJeAzGws1j2qERReolZ/08892943792363940611/5AIsG_vYozQ7YSKP2AVL3emM77In6hQQWt-hA2ez-V6V1hHQqPjpDCAOLVUreXARWf4Ndg5e0Gcw_f9n142MNR4u1ZlS2km3-4z98FldXtIfhj4f88AdNNMgkaxvkuMRWOFG3ER6A9QOGtA0skKjqPVoY7j7f7Ov6sq2eochlkAgyhKC7cf4JQhAyFvOnPaI6W9iKGPec?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.2635885,59.9806169,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Статуя Геркулес Фарнезский</name>
+        <description><![CDATA[<img src="https://doc-10-9k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/om1v0c816mqd6rp0b0g1taj6tk/1645487372750/mtQ4sC4ecB9jbaJeAzGws1j2qERReolZ/08892943792363940611/5AIsG_vbg0MQ0f_nrR7zS5URIMBBxIlx3p84iDmBlE7oJzgukheyKtjDfJPvUWR2nMSBC8acjua5XM8a8nb5Knk5rYx9G-9fDwPEZbr5HPAkSlLb9TF53ukUwHFLtgD9LmguHuRTjLz6jnxHKrtA31GlGnQNzhrhasSQoDFyrF6fk6hjq88vQoXdS5zylqpb6Spn1nvkq?session=0&fife" height="200" width="auto" /><br><br>Между берегами южных прудов и берегом Средней Невки расположен Старый английский сад. Один из самых живописных его пейзажей — мыс Геракла. Здесь на возвышенном берегу на фоне густолиственных деревьев, на гранитном постаменте установлена статуя Геракла Фарнезского, одна из мраморных копий античной скульптуры, созданных в мастерской Паоло Трискорни в первой трети XIX века.<br>Особенно эффектно смотрится сочетание белого мрамора статуи, розоватого гранита постамента и зеленого пейзажа, проглядывающее через мерцающую гладь пруда.<br>Статуя изображает утомленного Геракла, опирающегося на знаменитую, выполненную из дуба Киферонских садов палицу, на которую наброшена шкура Немейского льва. За спиной в правой руке Геракл держит три золотых яблока вечной молодости из заповедного сада Гесперид.<br>Скульптура была здесь установлена в 1936 году. Полагают, что ее привезли сюда с одной из дач соседнего Каменного острова.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-10-9k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/om1v0c816mqd6rp0b0g1taj6tk/1645487372750/mtQ4sC4ecB9jbaJeAzGws1j2qERReolZ/08892943792363940611/5AIsG_vbg0MQ0f_nrR7zS5URIMBBxIlx3p84iDmBlE7oJzgukheyKtjDfJPvUWR2nMSBC8acjua5XM8a8nb5Knk5rYx9G-9fDwPEZbr5HPAkSlLb9TF53ukUwHFLtgD9LmguHuRTjLz6jnxHKrtA31GlGnQNzhrhasSQoDFyrF6fk6hjq88vQoXdS5zylqpb6Spn1nvkq?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.2520989,59.97836,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Музыкальный павильон</name>
+        <description><![CDATA[<img src="https://doc-14-9k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/qnj54fu18ehb0uranastt5lm74/1645487372750/mtQ4sC4ecB9jbaJeAzGws1j2qERReolZ/08892943792363940611/5AIsG_vZ0rdnBALqE_itHNrGQOixsOn5MgQDxNnRMEoAoY9ygEUEEWzcbdiaxCZU9sOiAo83gPX_6piHybzoYVW2A9Uf75gk_2mG7G-6wnE0_h6hiG8PckizTHzAkoQJJUZ_Fp3AIDgrsUzSdZuwsYii2VIPbS40fMeCzaHLqG7Kt4n1bs9B7HzB0iqKR_p3ecTiEoy4?session=0&fife" height="200" width="auto" /><br><br>Музыкальный павильон расположен на береговой аллее Елагина острова, вдоль набережной Средней Невки, в Петербурге. Он построен по проекту Карла Ивановича Росси. В середине павильон находится изящная лоджия с шестью колоннами из серого натурального сибирского мрамора, которые обращены в сторону реки.<br>Начало строительства павильона относится к 1824 году, а в 1826 году оно было уже завершено. Изначально предполагалось использовать его в качестве жилых комнат для дежурных офицеров.<br>С обратной стороны павильона Карл Росси спроектировал полуротонду, за которой открывается живописный вид на Старый английский сад.<br>В течение XIX века здание неоднократно перестраивалось. После реставрации в 80-х годах павильон был восстановлен практически в первоначальном виде.<br>С 2001 года Музыкальный павильон на Елагином острове в Петербурге, входит в перечень объектов исторического и культурного наследия федерального (общероссийского) значения.<br>Глядя на этот павильон можно увидеть такие архитектурные элементы, как:<br>Портик (лат. porticus, от porta — проход, навес) — в классической архитектуре — выступающая часть здания, крытая галерея, образованная колоннадой или аркадой, имеющей собственное перекрытие: антаблемент, увенчанный аттиком или треугольным фронтоном. Такая композиция, в отличие от пропилей, открыта с трёх сторон наподобие лоджии;<br>Колонны дорического ордера со стволом, каннелюрами, капителем, эхином и абакком;<br>Фронтон - завершение (обычно треугольное, реже — полуциркульное) фасада здания, портика, колоннады, ограниченное двумя скатами крыши по бокам и карнизом у основания.<br><br><img src="https://doc-04-9k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/ekavasetqqtlf5dgjcf7q46kac/1645487372750/mtQ4sC4ecB9jbaJeAzGws1j2qERReolZ/08892943792363940611/5AIsG_vakj_gEyhVGX2wrVLECQFDTQxgsneC3iBg4vST7XjNLeaCviShv7hXd2k8crahzxFZR8wE0N63p_hfjr4sj10MTmxPfXRQLElvSnKvbZHmWPk-w8usVPSZk9BWmsLy6iO9YBNuu8fHuvl58W3m5IvagRZsN8wrMrNS9xr0_jzMf_lWPGbvkd-rYPDqiYRynuf3N?session=0&fife" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-14-9k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/qnj54fu18ehb0uranastt5lm74/1645487372750/mtQ4sC4ecB9jbaJeAzGws1j2qERReolZ/08892943792363940611/5AIsG_vZ0rdnBALqE_itHNrGQOixsOn5MgQDxNnRMEoAoY9ygEUEEWzcbdiaxCZU9sOiAo83gPX_6piHybzoYVW2A9Uf75gk_2mG7G-6wnE0_h6hiG8PckizTHzAkoQJJUZ_Fp3AIDgrsUzSdZuwsYii2VIPbS40fMeCzaHLqG7Kt4n1bs9B7HzB0iqKR_p3ecTiEoy4?session=0&fife https://doc-04-9k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/ekavasetqqtlf5dgjcf7q46kac/1645487372750/mtQ4sC4ecB9jbaJeAzGws1j2qERReolZ/08892943792363940611/5AIsG_vakj_gEyhVGX2wrVLECQFDTQxgsneC3iBg4vST7XjNLeaCviShv7hXd2k8crahzxFZR8wE0N63p_hfjr4sj10MTmxPfXRQLElvSnKvbZHmWPk-w8usVPSZk9BWmsLy6iO9YBNuu8fHuvl58W3m5IvagRZsN8wrMrNS9xr0_jzMf_lWPGbvkd-rYPDqiYRynuf3N?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.2685786,59.9766757,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Конюшенный корпус</name>
+        <description><![CDATA[<img src="https://doc-08-9k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/ad8st3nbnoisfb9eqmgq0obapg/1645487372750/mtQ4sC4ecB9jbaJeAzGws1j2qERReolZ/08892943792363940611/5AIsG_vZChmF0fyRF9ph7fGL-ZWjCw4Q4CVjrcZla_Jj8hbVS7KIS0jdhB3ZkUhyN3fDRBT0YVlhf_s86yLc1sOpkN6s-XAU7ZUZfrkk1kFx5crU-jV7BFfsMecSa8bMbMGOOMLRhh7ahRG12jFgwaUpCgMjB2wHtvdJXjudJSGRjX7UOhfVM8qUEPF-iVa9EMZu1FZs?session=0&fife" height="200" width="auto" /><br><br>Конюшенный корпус расположен в западной части Масляного луга. Это двухэтажное здание имеет подковообразный план. Оно состоит из главного фасада с пропилеями, соединяющими два симметричных флигеля. В них размещались флигель-адъютанты и свита императрицы. В остальной части здания квартировали конюшенные офицеры, камер-казаки и конюхи. В полуциркульной части здания хранились зерно, сено, находились кареты и стойла для лошадей. Таким образом, Конюшенный корпус состоял из жилых и хозяйственных помещений, и был построен в виде красивой декорации, не отвечавшей ее прямому назначению. Оба дворика Конюшенного корпуса вымощены булыжником, вдоль стен внутри стоят фонари, выполненные по эскизам К.И. Росси. С южной стороны здания можно увидеть портик - элемент античной архитектуры.]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-08-9k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/ad8st3nbnoisfb9eqmgq0obapg/1645487372750/mtQ4sC4ecB9jbaJeAzGws1j2qERReolZ/08892943792363940611/5AIsG_vZChmF0fyRF9ph7fGL-ZWjCw4Q4CVjrcZla_Jj8hbVS7KIS0jdhB3ZkUhyN3fDRBT0YVlhf_s86yLc1sOpkN6s-XAU7ZUZfrkk1kFx5crU-jV7BFfsMecSa8bMbMGOOMLRhh7ahRG12jFgwaUpCgMjB2wHtvdJXjudJSGRjX7UOhfVM8qUEPF-iVa9EMZu1FZs?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.2651228,59.9798064,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Музей художественного стекла. Оранжерейный корпус</name>
+        <description><![CDATA[<img src="https://doc-0o-9k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/3kdhinautpl3b3523fg9lo980g/1645487372750/mtQ4sC4ecB9jbaJeAzGws1j2qERReolZ/08892943792363940611/5AIsG_vZ-azOy6oLzxyff8Ai_VmiaCOKxd6WYkEvWYHW5TiN1owjwN_b-n-i-78efef4d2jgr5rq-VtTQFk8KBAqYpjC53HJV4f86pMc6YY0uWOcXIphsuMk9chm1ayrJtn5JtcuPG7RdhCuMgLv1IfX7GN278rFLm6OdNt4LmYhbyQ5KeqGhdj70p30Etlvw8OMQFto?session=0&fife" height="200" width="auto" /><br><br>Главное здание большого оранжерейного хозяйства Елагина острова, в котором размещалась уникальная коллекция экзотических растений. Оранжерею построили еще при И.П. Елагине в1819-1821 годах архитектором Росси К. И. в стиле классицизм<br><br>В центральном зале оранжерейного корпуса была коллекция редких растений. К залу примыкали собственно оранжерея и два двухэтажных флигеля, пристроенных с западной и восточной сторон. Восточный флигель, где находились жилые комнаты наследника, назывался «наследницким», западный – «великокняжским»: там располагались великие князья. Эти помещения отличались особой комфортностью, были обставлены мебелью из красного дерева. Стены южного фасада оранжерейного корпуса застеклены. Вдоль северного фасада – комнаты камер-юнгфера и камердинера, там же была парикмахерская. В декоративном оформлении фасадов использованы чугунные гермы, выполненные по эскизам К.И. Росси скульптором С. Пименовым и отлитые на Санкт-Петербургском литейном заводе. Интерьеры Оранжерей расписал гризалью академик Б. Медичи. Эти помещения напоминали дворцовые, но были менее парадными.<br><br>Над каждым крыльцом здания в 1852-1853 гг. установлены чугунные зонтики, отлитые по проекту архитектора Мартынова.<br><br>Здание Оранжереи в настоящее время занимает Музей художественного стекла.<br><br>Касательно архитектурных элементов, связанных с античностью: на фасаде этого здания можно увидеть<br>Портик - выступающая часть здания, крытая галерея, образованная колоннадой или аркадой, имеющей собственное перекрытие: антаблемент, увенчанный аттиком или треугольным фронтоном;<br>Аттик - декоративная стенка, возведённая над венчающим сооружение карнизом;<br>Пилястры -плоские вертикальные выступы прямоугольного сечения, обычно имеющие (в отличие от лопатки или лизены) базу и капитель; тем самым пилястра схожа с колонной, но отличается от круглой колонны или полуколонны прямоугольным сечением. Подобно колонне пилястра с капителью и базой связана с антаблементом и в этом качестве является частью архитектурного ордера. В подобных случаях пилястры, подобно колоннам, отражают пропорциональные и стилевые особенности различных архитектурных ордеров, имеют каннелюры и сложнопрофилированные базы. Пилястра не является конструктивным элементом, её функция метафорична и декоративна: она лишь изображает опору на поверхности стены;<br>Маскароны-декоративный элемент, в отличие от обычного понятия «маска» означающий изображение, включённое в архитектурную или иную пространственную среду. Как правило, это горельефное изображение маски мифологического персонажа или мифического существа]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0o-9k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/3kdhinautpl3b3523fg9lo980g/1645487372750/mtQ4sC4ecB9jbaJeAzGws1j2qERReolZ/08892943792363940611/5AIsG_vZ-azOy6oLzxyff8Ai_VmiaCOKxd6WYkEvWYHW5TiN1owjwN_b-n-i-78efef4d2jgr5rq-VtTQFk8KBAqYpjC53HJV4f86pMc6YY0uWOcXIphsuMk9chm1ayrJtn5JtcuPG7RdhCuMgLv1IfX7GN278rFLm6OdNt4LmYhbyQ5KeqGhdj70p30Etlvw8OMQFto?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.2682931,59.9802591,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Слой без названия</name>
+    </Folder>
+    <Folder>
+      <name>Слой без названия</name>
+    </Folder>
+  </Document>
+</kml>
