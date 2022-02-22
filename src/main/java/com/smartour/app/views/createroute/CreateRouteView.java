@@ -8,7 +8,6 @@ import com.smartour.app.data.service.PlacemarkService;
 import com.smartour.app.views.MainLayout;
 import com.vaadin.flow.component.button.Button;
 import com.vaadin.flow.component.notification.Notification;
-import com.vaadin.flow.component.orderedlayout.FlexLayout;
 import com.vaadin.flow.component.orderedlayout.HorizontalLayout;
 import com.vaadin.flow.component.orderedlayout.VerticalLayout;
 import com.vaadin.flow.component.textfield.TextField;
@@ -30,7 +29,6 @@ public class CreateRouteView extends VerticalLayout {
     private GoogleMap gmaps;
     private TextField searchQueryField;
     private Button searchButton;
-    private Button showAllButton;
     private List<GoogleMapMarker> markers = new ArrayList<>();
 
     public CreateRouteView(@Autowired PlacemarkService placemarkService) {
@@ -49,44 +47,21 @@ public class CreateRouteView extends VerticalLayout {
         searchQueryField = new TextField("Route topic");
         searchQueryField.setAutofocus(true);
 
-        searchButton = new Button("Create route");
+        searchButton = new Button("Search");
         searchButton.addClickListener(e -> {
+            for (GoogleMapMarker marker : markers) {
+                gmaps.removeMarker(marker);
+            }
+            markers = new ArrayList<>();
+
+            List<Placemark> placemarks;
             if (searchQueryField.getValue().isBlank()) {
-                Notification.show("Search query cannot be empty");
-                return;
+                Notification.show("Loading all placemarks...");
+                placemarks = placemarkService.findAll();
+            } else {
+                Notification.show("Loading route \"" + searchQueryField.getValue() + "\"...");
+                placemarks = placemarkService.findByPhrase(searchQueryField.getValue());
             }
-
-            for (GoogleMapMarker marker : markers) {
-                gmaps.removeMarker(marker);
-            }
-            markers = new ArrayList<>();
-
-            Notification.show("Loading route \"" + searchQueryField.getValue() + "\"...");
-
-            List<Placemark> placemarks = placemarkService.findByPhrase(searchQueryField.getValue());
-
-            placemarks.forEach(p -> {
-                GoogleMapMarker marker = gmaps.addMarker(
-                        p.getName(),
-                        new LatLon(p.getLatitude(), p.getLongitude()),
-                        false,
-                        null
-                );
-                marker.addInfoWindow("<h1>" + p.getName() + "</h1>\n\n" + p.getDescription());
-                markers.add(marker);
-            });
-        });
-
-        showAllButton = new Button("Show all placemarks");
-        showAllButton.addClickListener(e -> {
-            for (GoogleMapMarker marker : markers) {
-                gmaps.removeMarker(marker);
-            }
-            markers = new ArrayList<>();
-
-            Notification.show("Loading all placemarks...");
-
-            List<Placemark> placemarks = placemarkService.findAll();
 
             placemarks.forEach(p -> {
                 GoogleMapMarker marker = gmaps.addMarker(
@@ -102,13 +77,8 @@ public class CreateRouteView extends VerticalLayout {
             Notification.show("Loaded " + placemarks.size() + " placemarks");
         });
 
-        FlexLayout showAllButtonWrapper = new FlexLayout(showAllButton);
-        showAllButtonWrapper.setJustifyContentMode(JustifyContentMode.END);
-
-        HorizontalLayout searchLayout = new HorizontalLayout(searchQueryField, searchButton, showAllButtonWrapper);
-        searchLayout.setWidth("100%");
-        searchLayout.setVerticalComponentAlignment(Alignment.BASELINE, searchQueryField, searchButton, showAllButtonWrapper);
-        searchLayout.expand(showAllButtonWrapper);
+        HorizontalLayout searchLayout = new HorizontalLayout(searchQueryField, searchButton);
+        searchLayout.setVerticalComponentAlignment(Alignment.BASELINE, searchQueryField, searchButton);
 
         add(searchLayout, gmaps);
     }
