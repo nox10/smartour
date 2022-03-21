@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Античный маршрут</name>
+    <description/>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Слой без названия</name>
+      <Placemark>
+        <name>Атланты Кантемировский дворец</name>
+        <description><![CDATA[<img src="https://doc-08-6k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/7kk5cj6ffdpic1letkem8ou25s/1647898508750/VBulxs0TBykvGf_XT1UwtHoqBJPV85Zm/08892943792363940611/5AIsG_vbOfKNQbsRKriOlAIegHuonbNvVnKFd20FmoJNOF_v0ORL1-qLHDyQQ_Tp-m7BoEG1azz9r9LrxFgMDTrqllWHdGERg7HwEHI1u1iv1dSJGZNlAjYHkN5C0xgpxHEHedkE4Us23aICj46HQhJtuDY4_yzre_1o69WRpLpnY6VsvwSebFhrL8sMaUmf9Msi4SgM?session=0&fife" height="200" width="auto" /><br><br>Четверо безбородых египетских атлантов находятся на фасаде особняка И. Ф. Громова.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-08-6k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/7kk5cj6ffdpic1letkem8ou25s/1647898508750/VBulxs0TBykvGf_XT1UwtHoqBJPV85Zm/08892943792363940611/5AIsG_vbOfKNQbsRKriOlAIegHuonbNvVnKFd20FmoJNOF_v0ORL1-qLHDyQQ_Tp-m7BoEG1azz9r9LrxFgMDTrqllWHdGERg7HwEHI1u1iv1dSJGZNlAjYHkN5C0xgpxHEHedkE4Us23aICj46HQhJtuDY4_yzre_1o69WRpLpnY6VsvwSebFhrL8sMaUmf9Msi4SgM?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3247329,59.9449681,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Атланты здание М. Б. Трофимова</name>
+        <description><![CDATA[<img src="https://doc-14-6k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/qvihv2jmdd2q6si25cb8l1cfbo/1647898508750/VBulxs0TBykvGf_XT1UwtHoqBJPV85Zm/08892943792363940611/5AIsG_vaOw7egbkudYZqn_N5sGo2LmfToxfM0Od5vqFgjrDbAekZlsWFdtyBLq8APypLqJdcEfvtkSaamEhhu3N7epVdLOGVjHE6169KSKl8g1Z8td_J5iUMSbQ4ez6FimAvtDDknHiWAU3MVEtsa62QfgOCllzP0SWShdg91fHwE1o63oDR1a76ltczYCZrORdbhRXZD?session=0&fife" height="200" width="auto" /><br><br>Вход здания украшают чередующиеся скульптуры – два атланта и две кариатиды. При этом атланты выглядят странно: они обращены лицом к стене, а их спины противоестественно выгнуты назад.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-14-6k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/qvihv2jmdd2q6si25cb8l1cfbo/1647898508750/VBulxs0TBykvGf_XT1UwtHoqBJPV85Zm/08892943792363940611/5AIsG_vaOw7egbkudYZqn_N5sGo2LmfToxfM0Od5vqFgjrDbAekZlsWFdtyBLq8APypLqJdcEfvtkSaamEhhu3N7epVdLOGVjHE6169KSKl8g1Z8td_J5iUMSbQ4ez6FimAvtDDknHiWAU3MVEtsa62QfgOCllzP0SWShdg91fHwE1o63oDR1a76ltczYCZrORdbhRXZD?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3476392,59.9460477,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Атланты доходный дом П. П. Вейнера</name>
+        <description><![CDATA[<img src="https://doc-0c-6k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/ogdg7u68t0toima9jshhi3u6io/1647898508750/VBulxs0TBykvGf_XT1UwtHoqBJPV85Zm/08892943792363940611/5AIsG_vYhJNcQo-SG20gx-tuqWQBEhRJ6AAqtdi5xXP5MRF5GpvL1z8uw3_BWC5Vq_evYA0De1dBLtjldslT6NkzFCbc_TJ_Jc2UjM0GcCd6CayAVCvDJxQROJXj-VtmsCfAFTBfBCEFkpIwgBFMj8mQ7KWavzLU3CZBIPkIscFPjsqIr96NtHq-NhxmrIr-jcGHIMe4?session=0&fife" height="200" width="auto" /><br><br>На уровне третьего этажа устроены балконы, которые поддерживают атланты. Черты лиц обоих атлантов чем-то напоминают лица владельцев. ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0c-6k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/ogdg7u68t0toima9jshhi3u6io/1647898508750/VBulxs0TBykvGf_XT1UwtHoqBJPV85Zm/08892943792363940611/5AIsG_vYhJNcQo-SG20gx-tuqWQBEhRJ6AAqtdi5xXP5MRF5GpvL1z8uw3_BWC5Vq_evYA0De1dBLtjldslT6NkzFCbc_TJ_Jc2UjM0GcCd6CayAVCvDJxQROJXj-VtmsCfAFTBfBCEFkpIwgBFMj8mQ7KWavzLU3CZBIPkIscFPjsqIr96NtHq-NhxmrIr-jcGHIMe4?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.358464,59.946658,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Атланты доходный дом С. Ф. Англареса</name>
+        <description><![CDATA[<img src="https://doc-14-6k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/epnklvji4kgvmjaietrgdakv4s/1647898508750/VBulxs0TBykvGf_XT1UwtHoqBJPV85Zm/08892943792363940611/5AIsG_vZTIThF2_4XIYE_Wk_5Fv0ff8_S4hs90PVFMEj_t_WzCaE3Y3djCvDxFkAwTg8AdQdRc57r7TSw-E3cjPolgPXkuOveWpzbTxZ-KVTtgeCpw6n58vqOMwDyH5VFd0PqRQQvAtY2vSIFBiT98LoleJ9DOFtOudb7Kq7smfJ2ZBJfJTS-Q_jDaRaZHQMR8NU5kmw?session=0&fife" height="200" width="auto" /><br><br>В самом центре Петербурга находится здание, которое охраняют и поддерживают на своих плечах два атланта-дикаря, облачённые в одежды древнего человека. Всего у дома Англареса 4 атланта. При этом они не выглядят напряжёнными, наоборот – эркеры не кажутся им тяжелой ношей, они просто опирают их на свои плечи, слегка придерживая опоры эркеров одной рукой.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-14-6k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/epnklvji4kgvmjaietrgdakv4s/1647898508750/VBulxs0TBykvGf_XT1UwtHoqBJPV85Zm/08892943792363940611/5AIsG_vZTIThF2_4XIYE_Wk_5Fv0ff8_S4hs90PVFMEj_t_WzCaE3Y3djCvDxFkAwTg8AdQdRc57r7TSw-E3cjPolgPXkuOveWpzbTxZ-KVTtgeCpw6n58vqOMwDyH5VFd0PqRQQvAtY2vSIFBiT98LoleJ9DOFtOudb7Kq7smfJ2ZBJfJTS-Q_jDaRaZHQMR8NU5kmw?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3592462,59.9408011,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Атланты доходный дом А. Е. Бурцева</name>
+        <description><![CDATA[<img src="https://doc-0s-6k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/hbis2kpp5f074jss5recsjg87o/1647898508750/VBulxs0TBykvGf_XT1UwtHoqBJPV85Zm/08892943792363940611/5AIsG_vaHJftFob0wKqLMnKnt62SsFGv-YvVz_eJ5zE1_nOVMsh_JnxrTOcW77X1_qIdecxVFoBdlgBQTPdYUCg55a7Avcpc7Cas-40AVk1JVJT85mOtvSIvVkT0gGSH7HdK6PYM6B5RS1dGOaftV50vMRaL2nMi8ntTegQVxeOUCisK-ZA4zMXr3oYvTfPjXA2ChKuc?session=0&fife" height="200" width="auto" /><br><br>По воле архитектора Володихина атланты прикованы цепями к основанию здания. Таким необычным приёмом автор «срастил» атлантов с фасадом, сделав их единым целым, превратив обычную архитектурную деталь в необычный и интересный сюжет. Интересно и то, что атланты врастают головой в основание эркера.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0s-6k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/hbis2kpp5f074jss5recsjg87o/1647898508750/VBulxs0TBykvGf_XT1UwtHoqBJPV85Zm/08892943792363940611/5AIsG_vaHJftFob0wKqLMnKnt62SsFGv-YvVz_eJ5zE1_nOVMsh_JnxrTOcW77X1_qIdecxVFoBdlgBQTPdYUCg55a7Avcpc7Cas-40AVk1JVJT85mOtvSIvVkT0gGSH7HdK6PYM6B5RS1dGOaftV50vMRaL2nMi8ntTegQVxeOUCisK-ZA4zMXr3oYvTfPjXA2ChKuc?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.351993,59.939091,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Кариатиды дом И. В. Пашкова</name>
+        <description><![CDATA[<img src="https://doc-0s-6k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/q49c65rs5epurdjggsv073k1q0/1647898508750/VBulxs0TBykvGf_XT1UwtHoqBJPV85Zm/08892943792363940611/5AIsG_vYBn4Lmsd7ZOnbpCGg_ZaNMU9nMjJZaX-Q1sQD_Il_1MG63b4e9eEptISQL8PazA-2F6Q7MvJhETx_VjyQUR3KcWIv2Xb2A7ui-IpBD27TnAJ9Xkx43Pls9xi0TdOsTwygHOU0UOd7SiSwUlo_M8Xj9jafY_F2_MxvZpUnnGaZb_7SvVWpR2eRLN2GYLaEQObs?session=0&fife" height="200" width="auto" /><br><br>Невысокий нарядный особняк, парадный подъезд которого украшен четырьмя прямоугольными столбами с фигурами кариатид, поддерживающими балкон с ажурной решеткой. Здание известно тем, что именно про него писал Н. А. Некрасов в «Размышлениях у парадного подъезда».]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0s-6k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/q49c65rs5epurdjggsv073k1q0/1647898508750/VBulxs0TBykvGf_XT1UwtHoqBJPV85Zm/08892943792363940611/5AIsG_vYBn4Lmsd7ZOnbpCGg_ZaNMU9nMjJZaX-Q1sQD_Il_1MG63b4e9eEptISQL8PazA-2F6Q7MvJhETx_VjyQUR3KcWIv2Xb2A7ui-IpBD27TnAJ9Xkx43Pls9xi0TdOsTwygHOU0UOd7SiSwUlo_M8Xj9jafY_F2_MxvZpUnnGaZb_7SvVWpR2eRLN2GYLaEQObs?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.347706,59.9397331,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Атланты Михайловский замок</name>
+        <description><![CDATA[<img src="https://doc-0s-6k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/veupbdnb1l6o77haav910jb8sg/1647898508750/VBulxs0TBykvGf_XT1UwtHoqBJPV85Zm/08892943792363940611/5AIsG_vZojoEouV8LRh83BYy6-GzS5ZnfYs7DvEs170GwJh1s8wE_LF2xJG9LTOfxHQgMRxSf4evZT0z17l4EoF1CS3A1jy3z-SNpMVJQrVs7H_PQFfu93FAU8pxYQbB4udBulotDLk8d7JuFq3oUeXWKIW4i1LDluAGjqA5wL2t1qobdK3BZh8xTXpQTaLZwOLNw8bwt?session=0&fife" height="200" width="auto" /><br><br>Шесть герм-атлантов и скульптура Геракла расположились на Михайловском замке.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0s-6k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/veupbdnb1l6o77haav910jb8sg/1647898508750/VBulxs0TBykvGf_XT1UwtHoqBJPV85Zm/08892943792363940611/5AIsG_vZojoEouV8LRh83BYy6-GzS5ZnfYs7DvEs170GwJh1s8wE_LF2xJG9LTOfxHQgMRxSf4evZT0z17l4EoF1CS3A1jy3z-SNpMVJQrVs7H_PQFfu93FAU8pxYQbB4udBulotDLk8d7JuFq3oUeXWKIW4i1LDluAGjqA5wL2t1qobdK3BZh8xTXpQTaLZwOLNw8bwt?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3380463,59.9399937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Атланты дворец Белосельских-Белозерских</name>
+        <description><![CDATA[<img src="https://doc-0k-6k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/ea7m43ucuo8sascqbfgrv6ave8/1647898508750/VBulxs0TBykvGf_XT1UwtHoqBJPV85Zm/08892943792363940611/5AIsG_vYSFy73AO91AYGMByO8_PVkbnJnhpvtxt4_6k1stRtm7CRUhXv5JT9TbcVOZfOAXElZ664pq5Jz7OIVHOKxpTT4Z7VTgBSZCdnaZ9ojbLXzhHUZb542Lr6JjdTmz0QnWyEtUe3Zc7HiWpZH9_rmdfBXfgug99NILmCtAXfzrzYrv6CzKyRnwT63t5ks-ULhY3qq?session=0&fife" height="200" width="auto" /><br><br>На прохожих Невского проспекта с фасада дворца Белосельских-Белозерских смотрят 16 мужских фигур атлантов.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0k-6k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/ea7m43ucuo8sascqbfgrv6ave8/1647898508750/VBulxs0TBykvGf_XT1UwtHoqBJPV85Zm/08892943792363940611/5AIsG_vYSFy73AO91AYGMByO8_PVkbnJnhpvtxt4_6k1stRtm7CRUhXv5JT9TbcVOZfOAXElZ664pq5Jz7OIVHOKxpTT4Z7VTgBSZCdnaZ9ojbLXzhHUZb542Lr6JjdTmz0QnWyEtUe3Zc7HiWpZH9_rmdfBXfgug99NILmCtAXfzrzYrv6CzKyRnwT63t5ks-ULhY3qq?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3439217,59.932738,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Кариатиды доходный дом М. С. Мальцевой</name>
+        <description><![CDATA[<img src="https://doc-0o-6k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/j74fcqcgr4hb8qtjlkke7a4dng/1647898508750/VBulxs0TBykvGf_XT1UwtHoqBJPV85Zm/08892943792363940611/5AIsG_vYRcu0Hk2HnE0QNAQCrWIV9KEcmgCFIo2EIlmfxRF7Ss9Wak9hltx5diXFDerGIwY9Lvb8jJeVQhJ46jNqbN8TTItMmi8GcKoRQxWiEh5ZLKJlGaRvZtPd90ASjfH90b2wxyjdK2fssXhCPOqJNeYm0GN2fM_oVdJ7mPrf2vfkTLXl4WO2_G1n-DnTDcs7zClY?session=0&fife" height="200" width="auto" /><br><br>На фасадах доходного дома выделяются массивные прямоугольные эркеры, поддерживаемые кариатидами.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0o-6k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/j74fcqcgr4hb8qtjlkke7a4dng/1647898508750/VBulxs0TBykvGf_XT1UwtHoqBJPV85Zm/08892943792363940611/5AIsG_vYRcu0Hk2HnE0QNAQCrWIV9KEcmgCFIo2EIlmfxRF7Ss9Wak9hltx5diXFDerGIwY9Lvb8jJeVQhJ46jNqbN8TTItMmi8GcKoRQxWiEh5ZLKJlGaRvZtPd90ASjfH90b2wxyjdK2fssXhCPOqJNeYm0GN2fM_oVdJ7mPrf2vfkTLXl4WO2_G1n-DnTDcs7zClY?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.357261,59.93125,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Атланты особняк И. К. Мясникова</name>
+        <description><![CDATA[<img src="https://doc-10-6k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/hnr8bsgm4e0o78lrh8t5pil6ms/1647898508750/VBulxs0TBykvGf_XT1UwtHoqBJPV85Zm/08892943792363940611/5AIsG_vY25O_j2q2m8NPeHi32yzYxuB1igkqwRHi7k5RiC23FYaDcNE430K_64uZKoT_qQDWF5i7M0MDzBcEvmrYjypOsxXKe8NA1Td77skOEqhFe_tswFsqK0_s7LKZaSuTd4HjrKYMn-0o6B2iOtRhvHqMk10z8qKRr1CXQWKFkXAGkdY8Aq9ET8Mw2odC96oDcGHPV?session=0&fife" height="200" width="auto" /><br><br>Барочный фасад особняка Мясникова сложно не заметить: на уровне первого этажа установлены две поясные фигуры атлантов, поддерживающих балкон.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-10-6k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/hnr8bsgm4e0o78lrh8t5pil6ms/1647898508750/VBulxs0TBykvGf_XT1UwtHoqBJPV85Zm/08892943792363940611/5AIsG_vY25O_j2q2m8NPeHi32yzYxuB1igkqwRHi7k5RiC23FYaDcNE430K_64uZKoT_qQDWF5i7M0MDzBcEvmrYjypOsxXKe8NA1Td77skOEqhFe_tswFsqK0_s7LKZaSuTd4HjrKYMn-0o6B2iOtRhvHqMk10z8qKRr1CXQWKFkXAGkdY8Aq9ET8Mw2odC96oDcGHPV?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3600201,59.9326319,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

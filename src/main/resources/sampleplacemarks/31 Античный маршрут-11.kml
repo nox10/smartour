@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Античный маршрут</name>
+    <description><![CDATA[ИЗРК 1.3<br>Брусинец, Гапеев, Потапова, Севальнева]]></description>
+    <Style id="icon-1502-006064-normal">
+      <IconStyle>
+        <color>ff646000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1502-006064-highlight">
+      <IconStyle>
+        <color>ff646000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1502-006064">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1502-006064-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1502-006064-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Классицизм как подражание античности </name>
+      <Placemark>
+        <name>Российский государственный музей Арктики и Антарктики</name>
+        <description><![CDATA[<img src="https://doc-0c-as-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/3r5ece306igp8b97u2d0qlliao/1647898583500/YR7X717ENW_Q9L2FweMwD3HEsXNsChsH/08892943792363940611/5AIsG_vYZ57IJm5fa4IUIX2OqWZlukzXrw_oqwAucTaZUSzTkqWbhxXcMnoKgJhTUcZo5dImjnX1gikZXMu2OGFBoFRSkznkggtMogZOaq05SfU3C4Y6LALFwdm2myQZdEKbnII57kpM7Te4V7qZFRmbYia-wG1xpkxZcn5KX-3Vd4Nzud00K8Ya4-f1_MALr-6cYTOk?session=0&fife" height="200" width="auto" /><br><br>Архитектор: А.И. Мельников<br>Дата создания: 1838г<br>Здание симметрично. Подчинено строгим законам. Присутствуют все основные элементы дорического ордера (Состоит из трёхступенчатого основания – стереобата, колонны, увенчанной капителью, и антаблемента. Есть переход от ствола к капители. Антаблемент членится на архитрав, фриз с чередующимися триглифами и метопами и карниз.)]]></description>
+        <styleUrl>#icon-1502-006064</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0c-as-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/3r5ece306igp8b97u2d0qlliao/1647898583500/YR7X717ENW_Q9L2FweMwD3HEsXNsChsH/08892943792363940611/5AIsG_vYZ57IJm5fa4IUIX2OqWZlukzXrw_oqwAucTaZUSzTkqWbhxXcMnoKgJhTUcZo5dImjnX1gikZXMu2OGFBoFRSkznkggtMogZOaq05SfU3C4Y6LALFwdm2myQZdEKbnII57kpM7Te4V7qZFRmbYia-wG1xpkxZcn5KX-3Vd4Nzud00K8Ya4-f1_MALr-6cYTOk?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.353752,59.92746,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Александринский театр</name>
+        <description><![CDATA[<img src="https://doc-10-as-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/5bk1f1tugejdsc9379k7fjhqbg/1647898583500/YR7X717ENW_Q9L2FweMwD3HEsXNsChsH/08892943792363940611/5AIsG_vaNCga8DbWdDfRKl7vFbO6nOwyUgY7A440yo5hg64G8IhZravnt7Mto1LzUMYM0U2NhVb71cqpznbI-Qkpkf4z3vXWxW1JG7BJzCGCikV1pRio6VSm-6Q1xNyWLP8WaAivgI2NW2tKk5iaVid2wwVzhFAlbi27Q75ScOmex_XASs-_afPQwYAxGuVAvEJ0-C4M?session=0&fife" height="200" width="auto" /><br><br>Архитектор: К. И. Росси<br>Дата создания: 1756г<br>Симметричность, строгость, монументальность Коринфский ордер (Рельефный орнамент, каннелюры ствола колонны разделены дорожками, ярко выраженная рельефная капитель, фриз гладкий, карниз украшен модульонами, поддерживающими выносную плиту)]]></description>
+        <styleUrl>#icon-1502-006064</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-10-as-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/5bk1f1tugejdsc9379k7fjhqbg/1647898583500/YR7X717ENW_Q9L2FweMwD3HEsXNsChsH/08892943792363940611/5AIsG_vaNCga8DbWdDfRKl7vFbO6nOwyUgY7A440yo5hg64G8IhZravnt7Mto1LzUMYM0U2NhVb71cqpznbI-Qkpkf4z3vXWxW1JG7BJzCGCikV1pRio6VSm-6Q1xNyWLP8WaAivgI2NW2tKk5iaVid2wwVzhFAlbi27Q75ScOmex_XASs-_afPQwYAxGuVAvEJ0-C4M?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3361682,59.9317873,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Мраморный Дворец</name>
+        <description><![CDATA[<img src="https://doc-0s-as-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/jfv33t2ev38t72idcghnsdnml4/1647898583500/YR7X717ENW_Q9L2FweMwD3HEsXNsChsH/08892943792363940611/5AIsG_vbEobtlwjtyeTHCbvYjG0-5CcGPIACw2F96axS1sAUMaMMqou75l7n03wQG0F7pChJpBBIGtpq4iSKkb8MhvJiVTM_EQiZZtvNmW6-FwJ7a7wIoDiZh4c3DT-cQtVFyjxdRp-ZueZZxfpu2w7iGI61_SrgsHnoFaSM8iRqDVJrIAQnPnBNbDL11R6Q5cPNsvI4?session=0&fife" height="200" width="auto" /><br><br>Архитектор: Антонио Ринальди<br>Дата создания: 1768-1785 гг<br>Четкость композиции и пропорций, симметрия, равномерное расположение колонн и прямоугольных окон, входная дверь расположена строго по центру. Здание облицовано гранитом и мрамором. Имеет коринфский ордер с характерной для него капителью в форме колокола или корзины — калафа, украшенной стилизованными листьями аканта.]]></description>
+        <styleUrl>#icon-1502-006064</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0s-as-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/jfv33t2ev38t72idcghnsdnml4/1647898583500/YR7X717ENW_Q9L2FweMwD3HEsXNsChsH/08892943792363940611/5AIsG_vbEobtlwjtyeTHCbvYjG0-5CcGPIACw2F96axS1sAUMaMMqou75l7n03wQG0F7pChJpBBIGtpq4iSKkb8MhvJiVTM_EQiZZtvNmW6-FwJ7a7wIoDiZh4c3DT-cQtVFyjxdRp-ZueZZxfpu2w7iGI61_SrgsHnoFaSM8iRqDVJrIAQnPnBNbDL11R6Q5cPNsvI4?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3268244,59.9451217,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Горный музей</name>
+        <description><![CDATA[<img src="https://doc-0c-as-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/b4trhdg837cqf302olgip74rng/1647898583500/YR7X717ENW_Q9L2FweMwD3HEsXNsChsH/08892943792363940611/5AIsG_vbALkw6zuRZpxRNg3ZkKvlDGm_f8qNPypw6Pj_niSnLl52Q5kpVBwx9uk9tfs_yGHuzVplXhaEm0rV9JqFceKjOwazc8R4cKaFWJybbbTlW8j9A5NkGrxQngnY-s8WrxmChsvRu992VaTnRvKhlFkbBGMOKIwnvdxER5xZ8eU69FCpcpoOBzR39qcPpXA85n7A?session=0&fife" height="200" width="auto" /><br><br>Архитектор: Андрей Никифорович Воронихин<br>Дата создания: 1806-1811 гг<br>Четкость композиции и пропорций, симметрия. Здание выполнено в светлых тонах. Имеет портик дорического ордера – 12 колонн, на которые опирается антаблемент с завершающим конструкцию фронтоном, входная дверь расположена строго по центру.]]></description>
+        <styleUrl>#icon-1502-006064</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0c-as-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/b4trhdg837cqf302olgip74rng/1647898583500/YR7X717ENW_Q9L2FweMwD3HEsXNsChsH/08892943792363940611/5AIsG_vbALkw6zuRZpxRNg3ZkKvlDGm_f8qNPypw6Pj_niSnLl52Q5kpVBwx9uk9tfs_yGHuzVplXhaEm0rV9JqFceKjOwazc8R4cKaFWJybbbTlW8j9A5NkGrxQngnY-s8WrxmChsvRu992VaTnRvKhlFkbBGMOKIwnvdxER5xZ8eU69FCpcpoOBzR39qcPpXA85n7A?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.2694749,59.9292556,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Таврический дворец</name>
+        <description><![CDATA[<img src="https://doc-08-as-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/cabelrrk8pi6tp5vdmjlgl19c8/1647898583500/YR7X717ENW_Q9L2FweMwD3HEsXNsChsH/08892943792363940611/5AIsG_vbrB-hTVW1YkyBPWSrZ-HEL_Z4RpASZmqpkFQA70PoaOEh2Aea3mmsMNKIvPHsOmRmbHNzcEJSF6HKe4p8ydJT-3T1pLkX9YQZ4f2jWlHC_gTb826CkKDkVoS9EoyQ2qs0WErkB11gGUGId9Tjfkw-5iBZ_U-LYkTAJcsZRu0gWmxDdlyLhfuxATkwRdv_Rh40?session=0&fife" height="200" width="auto" /><br><br>Архитектор: Иван Егорович Старов<br>Дата создания: 1783-1789 гг<br>Гармония вертикалей и горизонталей. Строгий фронтон. Главный фасад отмечен дорическим шестиколонным портиком; стены прорезаны высокими окнами и завершены антаблементом строгого рисунка с фризом из триглифов. Садовый фасад — полуротондой с круглым в плане балконом. За главным вестибюлем — богато украшенная лепниной ротонда. ]]></description>
+        <styleUrl>#icon-1502-006064</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-08-as-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/cabelrrk8pi6tp5vdmjlgl19c8/1647898583500/YR7X717ENW_Q9L2FweMwD3HEsXNsChsH/08892943792363940611/5AIsG_vbrB-hTVW1YkyBPWSrZ-HEL_Z4RpASZmqpkFQA70PoaOEh2Aea3mmsMNKIvPHsOmRmbHNzcEJSF6HKe4p8ydJT-3T1pLkX9YQZ4f2jWlHC_gTb826CkKDkVoS9EoyQ2qs0WErkB11gGUGId9Tjfkw-5iBZ_U-LYkTAJcsZRu0gWmxDdlyLhfuxATkwRdv_Rh40?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3759415,59.947847,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Конногвардейский манеж</name>
+        <description><![CDATA[<img src="https://doc-0o-as-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/8c3acpjs17i436gi9rbdvq50co/1647898583500/YR7X717ENW_Q9L2FweMwD3HEsXNsChsH/08892943792363940611/5AIsG_vbn5n4d1Z3CfQWlKrM4ddc1Gzg3fULOVOP696RlpjOgFmuIxiHQCwyY9q8W7F8tom89Z-z9BwgvbDfN5Go-rMMVUYkrWVJRV8EfjjuJujzcThBQZv7snRZX2ol8FVI4v8VycGszuk-7p8EqqKbIK81F_urIz4eQ8dkjNOYfiuGxAFNxkH10CRqtaviKTcgFaVU?session=0&fife" height="200" width="auto" /><br><br>Архитектор: Джакомо Кваренги<br>Дата создания: 1804–1807 гг<br>Здание — двухэтажное (после надстройки 1931 года), по углам оформлено пилястрами, завершено антаблементом. Стены и колонны кирпичные, но отштукатуренные. <br>Основной фасад искусно оформлен портиком, представляющим собой лоджию, ограниченную дорическим ордером и состоящим из 8 колонн, фриза и треугольного фронтона. ]]></description>
+        <styleUrl>#icon-1502-006064</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0o-as-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/8c3acpjs17i436gi9rbdvq50co/1647898583500/YR7X717ENW_Q9L2FweMwD3HEsXNsChsH/08892943792363940611/5AIsG_vbn5n4d1Z3CfQWlKrM4ddc1Gzg3fULOVOP696RlpjOgFmuIxiHQCwyY9q8W7F8tom89Z-z9BwgvbDfN5Go-rMMVUYkrWVJRV8EfjjuJujzcThBQZv7snRZX2ol8FVI4v8VycGszuk-7p8EqqKbIK81F_urIz4eQ8dkjNOYfiuGxAFNxkH10CRqtaviKTcgFaVU?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3030597,59.9341546,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Кафедральный собор
+Исаакия Далматского
+</name>
+        <description><![CDATA[<img src="https://doc-0o-as-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/ort0bfskj7b7c1tqntc0p8798s/1647898583500/YR7X717ENW_Q9L2FweMwD3HEsXNsChsH/08892943792363940611/5AIsG_vYD3wY3kXGsE9PK5h8kuU7MYRY67EAQn7yP-gVXHEA6M1b6_yII67iqFvw6ISlIPCMZA7kTa-Q8TikxeiJGm_ls1zOPPmhUMGlbPOOGqgFDc5KRaRllHDKgpnqaKD18Bo4cnt4ZZuGZOJLMzPyyfFOnQ9bm6-_P-pVi9WwkKUoqFO-3dJ9ce0fXhQTQIPFqJrY?session=0&fife" height="200" width="auto" /><br><br>Архитектор: Огюст Монферран<br>Дата создания: 1858 г.<br>Строгость и торжественность. 4 классических колонных портика коринфского ордера. Треть всей плоскости стены занимает колоссальный по размерам аттик, который преобладает над основным ордером. Пилястры, расположенные на углах. В наружной отделке использованы полированные гранитные колонны и мрамор.]]></description>
+        <styleUrl>#icon-1502-006064</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0o-as-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/ort0bfskj7b7c1tqntc0p8798s/1647898583500/YR7X717ENW_Q9L2FweMwD3HEsXNsChsH/08892943792363940611/5AIsG_vYD3wY3kXGsE9PK5h8kuU7MYRY67EAQn7yP-gVXHEA6M1b6_yII67iqFvw6ISlIPCMZA7kTa-Q8TikxeiJGm_ls1zOPPmhUMGlbPOOGqgFDc5KRaRllHDKgpnqaKD18Bo4cnt4ZZuGZOJLMzPyyfFOnQ9bm6-_P-pVi9WwkKUoqFO-3dJ9ce0fXhQTQIPFqJrY?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3061028,59.934111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Санкт-Петербургский государственный академический театр им. Ленсовета</name>
+        <description><![CDATA[<img src="https://doc-14-as-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/fjg2m7r5lo2bqch3avhc1c196k/1647898583500/YR7X717ENW_Q9L2FweMwD3HEsXNsChsH/08892943792363940611/5AIsG_vbcYhQzDr21hAV8NCnWBQQcJqrkel-YdlHVG_HOQI1Qvb9wB6hNqIB-MwiJlFcKZBICHAQPUkLhN0c-6RAfNWy_CuMDjJL7zf4M6l2w3MRUAczZ94jMssqGgCP3f8PON4MnlcTfj4bKX3zbQsG03UZAjb7S_OKaNrjCx3heqwHDGMDLeLti10fz8CNkM_wcrv4?session=0&fife" height="200" width="auto" /><br><br>Архитектор: А. А. Михайлов 2-й<br>Дата создания: 1828 г<br>Симметричность, строгость. Центральная часть фасада украшена колоннадой из трёхчетвертных колонн с капителями композитного ордера. Завершает колоннаду аттик. Угловые пилястры оформляют прилегающие к колоннаде участки стены. Увеличивая протяжённость ордерной композиции, они придают зданию горизонтальный характер. ]]></description>
+        <styleUrl>#icon-1502-006064</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-14-as-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/fjg2m7r5lo2bqch3avhc1c196k/1647898583500/YR7X717ENW_Q9L2FweMwD3HEsXNsChsH/08892943792363940611/5AIsG_vbcYhQzDr21hAV8NCnWBQQcJqrkel-YdlHVG_HOQI1Qvb9wB6hNqIB-MwiJlFcKZBICHAQPUkLhN0c-6RAfNWy_CuMDjJL7zf4M6l2w3MRUAczZ94jMssqGgCP3f8PON4MnlcTfj4bKX3zbQsG03UZAjb7S_OKaNrjCx3heqwHDGMDLeLti10fz8CNkM_wcrv4?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3483651,59.930134,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

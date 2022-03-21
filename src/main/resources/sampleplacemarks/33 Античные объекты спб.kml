@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Античные объекты спб</name>
+    <description/>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Слой без названия</name>
+      <Placemark>
+        <name>Российская национальная библиотека</name>
+        <description><![CDATA[<img src="https://doc-0k-6k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/8dlobvjtulloodpmqnu52fqmts/1647898359250/btYjVK9PXkLcLE_uFzl3kuk0GqaR1d0d/08892943792363940611/5AIsG_vZJKKtT_2JEcfmNLr2efkIlKNY4LmY3PruJSV8tpiTiBmLaa1bUcrA4lNRCQVYaIFLrUf2YrzeuAEXp62YWoysbo85usTN3A6QW6XS51TaRqMO7X4OmDVTA0yHn_NzJPFmUi2OcS_I8gEkKSSS5bb2i5sIhz-63SdJ6EmFjbb6UqxGllg8iMCRqOHdYoEAabdQ?session=0&fife" height="200" width="auto" /><br><br>Росси́йская национа́льная библиоте́ка — одна из первых публичных библиотек в Восточной Европе, расположена в Санкт-Петербурге. Согласно указу Президента России, является особо ценным объектом национального наследия и составляет историческое и культурное достояние народов Российской Федерации.<br><br><img src="https://doc-00-6k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/dl1gkgs2qq5ard6n91dfm27ptc/1647898359250/btYjVK9PXkLcLE_uFzl3kuk0GqaR1d0d/08892943792363940611/5AIsG_vYYxsK2WDRoFkcb8xTG0dy0Ou4rKkNE-8XVT8T7JSZca2I0cQx8yfwNaOlTMQUgnp8b-utcyiBDmrrSuHKBHqRCYHKnVN6uGXKxsgmHfifL20esFrJJCFWX6Es_H0eEAbSbI5sBd4Yn31xwHOP_BuHld_0pb2J9O7it2B4mwsmFzkMgt05Tcsnep0TPhVtvoSQ?session=0&fife" height="200" width="auto" /><br><br><img src="https://doc-0c-6k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/84hnvfjjr9de3neg0ktp6pkabk/1647898359250/btYjVK9PXkLcLE_uFzl3kuk0GqaR1d0d/08892943792363940611/5AIsG_vbWQ9jbzqrOYM7fchdha2HXbDhTGxz_plZI9ZXG_pK9jPRHy2UsOsOO4n7sCLPgfaQlTG5Mfwa_kt3KQQqTJpEh4Rbl0GSB-0WYKTdSE-UKmiHyrLMzDXCh_LCRBLZHeNB-hEU5ZVb6qOiBeDCv6fpbBMUXs1m3aKkosneOc0MjFkyBieWsIkZUCNC3hX5reMw?session=0&fife" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0k-6k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/8dlobvjtulloodpmqnu52fqmts/1647898359250/btYjVK9PXkLcLE_uFzl3kuk0GqaR1d0d/08892943792363940611/5AIsG_vZJKKtT_2JEcfmNLr2efkIlKNY4LmY3PruJSV8tpiTiBmLaa1bUcrA4lNRCQVYaIFLrUf2YrzeuAEXp62YWoysbo85usTN3A6QW6XS51TaRqMO7X4OmDVTA0yHn_NzJPFmUi2OcS_I8gEkKSSS5bb2i5sIhz-63SdJ6EmFjbb6UqxGllg8iMCRqOHdYoEAabdQ?session=0&fife https://doc-00-6k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/dl1gkgs2qq5ard6n91dfm27ptc/1647898359250/btYjVK9PXkLcLE_uFzl3kuk0GqaR1d0d/08892943792363940611/5AIsG_vYYxsK2WDRoFkcb8xTG0dy0Ou4rKkNE-8XVT8T7JSZca2I0cQx8yfwNaOlTMQUgnp8b-utcyiBDmrrSuHKBHqRCYHKnVN6uGXKxsgmHfifL20esFrJJCFWX6Es_H0eEAbSbI5sBd4Yn31xwHOP_BuHld_0pb2J9O7it2B4mwsmFzkMgt05Tcsnep0TPhVtvoSQ?session=0&fife https://doc-0c-6k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/84hnvfjjr9de3neg0ktp6pkabk/1647898359250/btYjVK9PXkLcLE_uFzl3kuk0GqaR1d0d/08892943792363940611/5AIsG_vbWQ9jbzqrOYM7fchdha2HXbDhTGxz_plZI9ZXG_pK9jPRHy2UsOsOO4n7sCLPgfaQlTG5Mfwa_kt3KQQqTJpEh4Rbl0GSB-0WYKTdSE-UKmiHyrLMzDXCh_LCRBLZHeNB-hEU5ZVb6qOiBeDCv6fpbBMUXs1m3aKkosneOc0MjFkyBieWsIkZUCNC3hX5reMw?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3357343,59.9335441,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Скульптурная композиция «Прометей»</name>
+        <description><![CDATA[<img src="https://doc-04-6k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/0lvggttj43mll3i8ttsne1ct8s/1647898359250/btYjVK9PXkLcLE_uFzl3kuk0GqaR1d0d/08892943792363940611/5AIsG_vYd_jR2FMnV5bxY_u2BuCiVEakMcdN5u0DsVjdxLng4uptHobsGkdyHQRTPx25jlxq5aA4byrkrWAxZmeha2xIKmfbi6F2vNIJ_Ty16_uIbncZU0j-rubBzzsqb1XA-StSd0ENzalvgYsJLmmTEQPv8qgy-0XUGcAJozQCIrCWs2i5-yYLGrwZguurF9CSLlec?session=0&fife" height="200" width="auto" /><br><br>Прометей по-гречески означает «провидец». Он был сыном титана Япета и океаниды Клименты. Согласно некоторым мифам, Прометей научил людей пользоваться огнём, а также различным ремёслам и искусствам. И когда Зевс лишил людей огня, Прометей похитил огонь с Олимпа и вернул его людям. Огонь согревал их, помогал им в работе, служил источником жизни и вдохновения. Разгневанный Зевс повелел приковать Прометея к скале. Каждую ночь к прикованному Прометею прилетал орел Зевса и по приказанию хозяина клевал печень узника. Муки Прометея длились тысячелетия. Но это не сломило дух героя. И только славный сын Зевса Геракл освободил титана от оков…]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-04-6k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/0lvggttj43mll3i8ttsne1ct8s/1647898359250/btYjVK9PXkLcLE_uFzl3kuk0GqaR1d0d/08892943792363940611/5AIsG_vYd_jR2FMnV5bxY_u2BuCiVEakMcdN5u0DsVjdxLng4uptHobsGkdyHQRTPx25jlxq5aA4byrkrWAxZmeha2xIKmfbi6F2vNIJ_Ty16_uIbncZU0j-rubBzzsqb1XA-StSd0ENzalvgYsJLmmTEQPv8qgy-0XUGcAJozQCIrCWs2i5-yYLGrwZguurF9CSLlec?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3875529,60.0414607,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Кухонный корпус</name>
+        <description><![CDATA[<img src="https://doc-0o-6k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/9fnp1rr4pbauo8a3pi58lm78us/1647898359250/btYjVK9PXkLcLE_uFzl3kuk0GqaR1d0d/08892943792363940611/5AIsG_vabTcN9o75VZWLo1cg1VpiEW_Hqg3327LIStF3J6eZ18eocjaWu5ckuyRh5XR_Z9BfrE9otoY5PlK-_nJdrt39eQky9RtpARGbQV-xuvSsTqv_dU2qoKw2UHxKnRblwOnhNF3SoBwgjBJUBPhAtWNpl-6aAySRbYGbfcoxWom19v58Tw8POLoJbDlbdseZVBgrS?session=0&fife" height="200" width="auto" /><br><br>Самое полное собрание античных богов в Петербурге — на Елагином острове. В нишах Кухонного корпуса дворца стоит почти весь пантеон греческих богов, во главе с Аполлоном, Артемидой, Деметрой и Афиной. Всего 14 скульптур, выполненных из пудожского камня.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0o-6k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/9fnp1rr4pbauo8a3pi58lm78us/1647898359250/btYjVK9PXkLcLE_uFzl3kuk0GqaR1d0d/08892943792363940611/5AIsG_vabTcN9o75VZWLo1cg1VpiEW_Hqg3327LIStF3J6eZ18eocjaWu5ckuyRh5XR_Z9BfrE9otoY5PlK-_nJdrt39eQky9RtpARGbQV-xuvSsTqv_dU2qoKw2UHxKnRblwOnhNF3SoBwgjBJUBPhAtWNpl-6aAySRbYGbfcoxWom19v58Tw8POLoJbDlbdseZVBgrS?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.268493,59.9797247,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Медный всадник</name>
+        <description><![CDATA[<img src="https://doc-00-6k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/7eslbv8nkdarsn4m5ejug5g4j4/1647898359250/btYjVK9PXkLcLE_uFzl3kuk0GqaR1d0d/08892943792363940611/5AIsG_vZafk4RmuMB79GT1L5rDoqk4I-jWnXp0vEyGB8EXKjajYUJ0h707ONHYmj4OlW-fwhZkJB0HtPw_2UCI6EgwFFnYER5euq2yB9pAeY3fjZL7zMUvKDoIWKMx7KrvRhGCc3E_nXJhDg-YE9ulIPUHQ8Ru__CoIuOU3fcWSjjrL5NWrrlCvUrJbPAAtSPkmq_IU0?session=0&fife" height="200" width="auto" /><br><br>Памятник посвященный Петру I.<br>Медный всадник выполнен в традициях римской конной скульптуры.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-00-6k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/7eslbv8nkdarsn4m5ejug5g4j4/1647898359250/btYjVK9PXkLcLE_uFzl3kuk0GqaR1d0d/08892943792363940611/5AIsG_vZafk4RmuMB79GT1L5rDoqk4I-jWnXp0vEyGB8EXKjajYUJ0h707ONHYmj4OlW-fwhZkJB0HtPw_2UCI6EgwFFnYER5euq2yB9pAeY3fjZL7zMUvKDoIWKMx7KrvRhGCc3E_nXJhDg-YE9ulIPUHQ8Ru__CoIuOU3fcWSjjrL5NWrrlCvUrJbPAAtSPkmq_IU0?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3022304,59.9363783,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

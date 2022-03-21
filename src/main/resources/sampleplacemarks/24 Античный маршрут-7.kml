@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Античный маршрут</name>
+    <description>Античный маршрут по Санкт-Петербургу подготовлен Быковой Т., Никитиной В., Пассюк М., Порутчиковой Т. и Филипповой Т.</description>
+    <Style id="icon-1899-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Пассюк М.</name>
+      <Placemark>
+        <name>СПб. государственный академический институт живописи, скульптуры и архитектуры им. И.Е.Репина</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            30.2882589,59.932514,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>СМОЛЬНЫЙ, историко-мемориальный музей</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            30.3965706,59.946251,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Порутчикова А.</name>
+      <Placemark>
+        <name>Казанский кафедральный собор</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            30.324571,59.9342092,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Мраморный дворец</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            30.3266928,59.9451172,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Быкова Т.</name>
+      <Placemark>
+        <name>Исаакиевский собор</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            30.306485,59.933905,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Адмиралтейство</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            30.3086683,59.937496,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Никитина В.</name>
+      <Placemark>
+        <name>Российский Государственный Педагогический Университет им. А. И. Герцена</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            30.3201648,59.933634,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Таврический дворец</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            30.3758841,59.9478564,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Филиппова Т.</name>
+      <Placemark>
+        <name>Марсово поле, 1</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            30.3290079,59.9432263,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Миллионная ул., 2</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            30.3267353,59.944651,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Аптекарский пер., 2</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            30.3271798,59.9437356,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Центральный выставочный зал «Манеж»</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            30.3030597,59.9341546,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

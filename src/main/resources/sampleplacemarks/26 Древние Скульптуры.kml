@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Древние Скульптуры</name>
+    <description>Древние скульптуры в городе Санкт-Петербурге и их связь с европейскими движениями (классицизм)</description>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-F9A825-normal">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-F9A825-highlight">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-F9A825">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-F9A825-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-F9A825-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Древние Скульптуры</name>
+      <Placemark>
+        <name>Музей Эрмитаж</name>
+        <description><![CDATA[<img src="https://doc-0s-9c-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/t2fo51cqt86hvl4gmb7tmoco0k/1647898583500/AMPFK_Jvv5dHUZdoECsI_oRJ-MpQwujD/08892943792363940611/5AIsG_vZjnom0HUzxnXnXP9jz1xa-HUI0ypOdvlhu9FFP-vPcBaOGICcPf6u92aG40EfgrE4F6GdS6mZ9iqMJzzlE8mmA-7Kdysg9NxDimmAeQRm_cBsP6KbXt1ME9v_8fgPZRhmN9Gnr0CB0YC6Mf_3VaigWWTPA4FRkuqmMwBNdR-Pz5wtiOqQ45_cQqo_mw3x1V155?session=0&fife" height="200" width="auto" /><br><br>Скульптура Купидона]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0s-9c-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/t2fo51cqt86hvl4gmb7tmoco0k/1647898583500/AMPFK_Jvv5dHUZdoECsI_oRJ-MpQwujD/08892943792363940611/5AIsG_vZjnom0HUzxnXnXP9jz1xa-HUI0ypOdvlhu9FFP-vPcBaOGICcPf6u92aG40EfgrE4F6GdS6mZ9iqMJzzlE8mmA-7Kdysg9NxDimmAeQRm_cBsP6KbXt1ME9v_8fgPZRhmN9Gnr0CB0YC6Mf_3VaigWWTPA4FRkuqmMwBNdR-Pz5wtiOqQ45_cQqo_mw3x1V155?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3142672,59.9399463,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Музей Эрмитаж</name>
+        <description><![CDATA[<img src="https://doc-0k-9c-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/0edg6q4qak0psgr87m5m4g68no/1647898583500/AMPFK_Jvv5dHUZdoECsI_oRJ-MpQwujD/08892943792363940611/5AIsG_vbBnSXjvrQhw6zLttPfquiZWPyeXvuf0oKnJq1t1R-57kRlIq-jeNIal94HkPEYWcTtWnf-Et2EYCN3C9cSS_MRhhOXpWMHqo9TsCTC_1tnoktUH3Swn2O9iOUr9TbZI_GLmw5yAzXSPy-PcRx0RFJkHJrf2KqJydQeevcOmZLiNOymq1xkN-SaUQLaaswId0zJ?session=0&fife" height="200" width="auto" /><br><br>Адамо Тадолини]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0k-9c-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/0edg6q4qak0psgr87m5m4g68no/1647898583500/AMPFK_Jvv5dHUZdoECsI_oRJ-MpQwujD/08892943792363940611/5AIsG_vbBnSXjvrQhw6zLttPfquiZWPyeXvuf0oKnJq1t1R-57kRlIq-jeNIal94HkPEYWcTtWnf-Et2EYCN3C9cSS_MRhhOXpWMHqo9TsCTC_1tnoktUH3Swn2O9iOUr9TbZI_GLmw5yAzXSPy-PcRx0RFJkHJrf2KqJydQeevcOmZLiNOymq1xkN-SaUQLaaswId0zJ?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3143531,59.9396884,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Музей Эрмитаж</name>
+        <description><![CDATA[<img src="https://doc-0s-9c-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/lbj84ku0i7jq45fmkklv0lqst0/1647898583500/AMPFK_Jvv5dHUZdoECsI_oRJ-MpQwujD/08892943792363940611/5AIsG_vbV-9sgOVwiq6MxDKxVNUpMJ1xg79HP4Stp3RuvZr6_jm7GWKv0SlX8RWXGiKgmnUwxxbFXKLorDpUZOStKDXwwaDgm_mLDmSB0dNXyyKA1PsrzKzIoWBfKdfvyxnGvxJ50NMJ0coN1a0_JClozjFtxzmXvmBGVC1jmHR3ND9eqm9UsvEgQ6FDC72VFxaqeEY52?session=0&fife" height="200" width="auto" /><br><br>"Поцелуй Амура и Психеи" - Антонио Канова. 1794-1797]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0s-9c-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/lbj84ku0i7jq45fmkklv0lqst0/1647898583500/AMPFK_Jvv5dHUZdoECsI_oRJ-MpQwujD/08892943792363940611/5AIsG_vbV-9sgOVwiq6MxDKxVNUpMJ1xg79HP4Stp3RuvZr6_jm7GWKv0SlX8RWXGiKgmnUwxxbFXKLorDpUZOStKDXwwaDgm_mLDmSB0dNXyyKA1PsrzKzIoWBfKdfvyxnGvxJ50NMJ0coN1a0_JClozjFtxzmXvmBGVC1jmHR3ND9eqm9UsvEgQ6FDC72VFxaqeEY52?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3146106,59.9398173,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Музей Эрмитаж</name>
+        <description><![CDATA[<img src="https://doc-0c-9c-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/ao2o1et65he7csfsoabfulcg9s/1647898583500/AMPFK_Jvv5dHUZdoECsI_oRJ-MpQwujD/08892943792363940611/5AIsG_vbkrsHfWHyGophwG3_jny16PIh4S3XoGH_GfUiQHV-Mu9_IHiZg9Qf23bydCwtC8NdWAuWdTF1j3qWhqHYKL6QuR22uSXT6Cz3yzXa0OON247WhG7K6we0BTwsbiV_Tsp8HZtVUnXaAOpSOngjAtAyRms6Mz-7_7mu7qsXpMnkdafZSAp_EgyIUDE500ntTr_7Z?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0c-9c-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/ao2o1et65he7csfsoabfulcg9s/1647898583500/AMPFK_Jvv5dHUZdoECsI_oRJ-MpQwujD/08892943792363940611/5AIsG_vbkrsHfWHyGophwG3_jny16PIh4S3XoGH_GfUiQHV-Mu9_IHiZg9Qf23bydCwtC8NdWAuWdTF1j3qWhqHYKL6QuR22uSXT6Cz3yzXa0OON247WhG7K6we0BTwsbiV_Tsp8HZtVUnXaAOpSOngjAtAyRms6Mz-7_7mu7qsXpMnkdafZSAp_EgyIUDE500ntTr_7Z?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.314439,59.9397313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Музей Эрмитаж</name>
+        <description><![CDATA[<img src="https://doc-04-9c-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/8ro98lbvtpr3cvhk5ief1tgps8/1647898583500/AMPFK_Jvv5dHUZdoECsI_oRJ-MpQwujD/08892943792363940611/5AIsG_vYwvtyPHHYEqOjJ6W1HeLRmuuRGgnhdQCUxq2S7gQKDVCYmrBmkA0BAGgEnssma4SrpPiyMwixuGvKxnerf7hvKa7ZHfOLBkZSuyMJi7nh9QpcS9ZwEtWE6roSnqpAMl1MCfEHxFh_T2RUjUsQHEgQ6HGl0YvWl-d9gXxJMjsa10FB4x_cyGfpb9KBJivGTtRdN?session=0&fife" height="200" width="auto" /><br><br>"Скульптура Наполеона" XIX века]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-04-9c-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/8ro98lbvtpr3cvhk5ief1tgps8/1647898583500/AMPFK_Jvv5dHUZdoECsI_oRJ-MpQwujD/08892943792363940611/5AIsG_vYwvtyPHHYEqOjJ6W1HeLRmuuRGgnhdQCUxq2S7gQKDVCYmrBmkA0BAGgEnssma4SrpPiyMwixuGvKxnerf7hvKa7ZHfOLBkZSuyMJi7nh9QpcS9ZwEtWE6roSnqpAMl1MCfEHxFh_T2RUjUsQHEgQ6HGl0YvWl-d9gXxJMjsa10FB4x_cyGfpb9KBJivGTtRdN?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3145033,59.9397743,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Казанский собор</name>
+        <description><![CDATA[<img src="https://doc-0o-9c-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/2o2pijcrs3mcel1u4q45p49mv4/1647898583500/AMPFK_Jvv5dHUZdoECsI_oRJ-MpQwujD/08892943792363940611/5AIsG_vb44lccOWE8R-DQajNQNS06D6bS4iVazLy2hzKM8YkLP3Z9xOdu9N8kYTJRl6y3bNpbQ_-P0-zjgBhSm0C2hL9AWEqC2Bl_sqCe8b_cNuazb2Rr-E-nHTjyjFgs3-IWugzv3PrpouAlPju6bk2IcrIhQVfo-mUTt367c7tmjLeHLX8VwiWXtPiWesKhToajCmpJ?session=0&fife" height="200" width="auto" /><br><br>"Фельдмагшалу князю кутузову смоленскому" - Скульптор Борис Орловский (1812).          Статуи Михаила Кутузова и Барклая де Толли<br>И Кутузов, и Барклай де Толли изображены на своих статуях в стиле модного в то время римского классицизма. Скульптор Борис Орловский одел обоих мужчин в тоги поверх военной формы.<br>Статуя фельдмаршала Кутузова перед Казанским собором в Санкт-Петербурге, Россия<br>Памятник фельдмаршалу Кутузову перед Казанским собором<br>Кутузов - одна из самых известных фигур в военной истории России, известная прежде всего своей победой над Наполеоном у ворот Москвы в 1812 году.<br>Роль Барклая де Толли в победе - именно он выступал за политику отступления, применял тактику выжженной земли и приглашал врага в глубь России - поначалу не признавалась. Когда враг продвинулся слишком далеко для императора Александра I, он заменил де Толли Кутузовым, который последовал планам своего предшественника - и выиграл войну. ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0o-9c-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/2o2pijcrs3mcel1u4q45p49mv4/1647898583500/AMPFK_Jvv5dHUZdoECsI_oRJ-MpQwujD/08892943792363940611/5AIsG_vb44lccOWE8R-DQajNQNS06D6bS4iVazLy2hzKM8YkLP3Z9xOdu9N8kYTJRl6y3bNpbQ_-P0-zjgBhSm0C2hL9AWEqC2Bl_sqCe8b_cNuazb2Rr-E-nHTjyjFgs3-IWugzv3PrpouAlPju6bk2IcrIhQVfo-mUTt367c7tmjLeHLX8VwiWXtPiWesKhToajCmpJ?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3256066,59.9348355,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Базилика Святой Екатерины Александрийской</name>
+        <description><![CDATA[<img src="https://doc-0c-9c-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/ou64tlouu7jsi0phb9in64pr3g/1647898583500/AMPFK_Jvv5dHUZdoECsI_oRJ-MpQwujD/08892943792363940611/5AIsG_vbOrqD2UbN67LUDzfuf8g_NszoaJ6ADxRaLnCLtnA8oqc4zlYpe2wgPnkDHV14rM5KpLEtl6e5KSMScNOc9cJ4z6g7G51Ljtpvq9to0rKEKbeAVI59ym_xYPvhA_BKnTGXqMGdVb2n_SUpG-WIaN4P6x8H3Du-7QCqQ49-ygHYZyQNfZAJ8I4ODAsRFX53SlUx9?session=0&fife" height="200" width="auto" /><br><br>"Ангел".     Базилика святой Екатерины Александрийской — католический храм в Санкт-Петербурге, один из старейших католических храмов России. Памятник архитектуры барокко. Расположен по адресу: Невский проспект, д. 32-34.   Архитектор: Доменико Трезини.    Строительство:1738 — 7 октября 1783]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0c-9c-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/ou64tlouu7jsi0phb9in64pr3g/1647898583500/AMPFK_Jvv5dHUZdoECsI_oRJ-MpQwujD/08892943792363940611/5AIsG_vbOrqD2UbN67LUDzfuf8g_NszoaJ6ADxRaLnCLtnA8oqc4zlYpe2wgPnkDHV14rM5KpLEtl6e5KSMScNOc9cJ4z6g7G51Ljtpvq9to0rKEKbeAVI59ym_xYPvhA_BKnTGXqMGdVb2n_SUpG-WIaN4P6x8H3Du-7QCqQ49-ygHYZyQNfZAJ8I4ODAsRFX53SlUx9?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3290092,59.9353985,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Музей Эрмитаж</name>
+        <description><![CDATA[<img src="https://doc-0k-9c-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/hv76jdd10q1fasbt60upaapfnk/1647898583500/AMPFK_Jvv5dHUZdoECsI_oRJ-MpQwujD/08892943792363940611/5AIsG_vagGXwuOxIc5G0ch6vzQqhi0RiLv8SG7ATF8G7Kdb8RXGAGFWpAloh_j14syzIiKQ1i7U_FUYwih01z0pedtWNaNZ8nBzMXC1Ba12PnaSNeJec2hE3NZTLNIa7fGQIHvvbVvaxMayEOtSPgoLejCTJFULZJqmf-SrsuzqDamF0QxdROhX7iWK2PeczfUBdv5TRg?session=0&fife" height="200" width="auto" /><br><br>Неизвестный]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0k-9c-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/hv76jdd10q1fasbt60upaapfnk/1647898583500/AMPFK_Jvv5dHUZdoECsI_oRJ-MpQwujD/08892943792363940611/5AIsG_vagGXwuOxIc5G0ch6vzQqhi0RiLv8SG7ATF8G7Kdb8RXGAGFWpAloh_j14syzIiKQ1i7U_FUYwih01z0pedtWNaNZ8nBzMXC1Ba12PnaSNeJec2hE3NZTLNIa7fGQIHvvbVvaxMayEOtSPgoLejCTJFULZJqmf-SrsuzqDamF0QxdROhX7iWK2PeczfUBdv5TRg?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3145363,59.9398211,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Музей Эрмитаж</name>
+        <description><![CDATA[<img src="https://doc-0c-9c-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/13bjt16358othro3tsc7l8ns0c/1647898583500/AMPFK_Jvv5dHUZdoECsI_oRJ-MpQwujD/08892943792363940611/5AIsG_vYC6JPk7qfFpx2wNh-WcqE_J8XFafToQda4JUcE156LNhCt9xkcRp935Jxl4gXKncQ8cTTwNW-UWxN_JBf3IaqoLMTc-euoIM4gAOpi16MxzPLs8txVQ5g6eKwZmvv_RXnjzaq_HNhkeRTWTZnJRhcvVLUo1s3akpKSrrQe2Iz99_Y9DDJ1YjWbXwACDiP0IIKf?session=0&fife" height="200" width="auto" /><br><br>Неизвестный]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0c-9c-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/13bjt16358othro3tsc7l8ns0c/1647898583500/AMPFK_Jvv5dHUZdoECsI_oRJ-MpQwujD/08892943792363940611/5AIsG_vYC6JPk7qfFpx2wNh-WcqE_J8XFafToQda4JUcE156LNhCt9xkcRp935Jxl4gXKncQ8cTTwNW-UWxN_JBf3IaqoLMTc-euoIM4gAOpi16MxzPLs8txVQ5g6eKwZmvv_RXnjzaq_HNhkeRTWTZnJRhcvVLUo1s3akpKSrrQe2Iz99_Y9DDJ1YjWbXwACDiP0IIKf?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3148992,59.9400012,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Исаакиевский собор</name>
+        <description><![CDATA[<img src="https://doc-0g-9c-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/7addfdc23r0foaqh91njsv66ic/1647898583500/AMPFK_Jvv5dHUZdoECsI_oRJ-MpQwujD/08892943792363940611/5AIsG_vYFx74S2ef_Qfm5PMXoHPSXR4KgWQBFUiXp_9mncwph1kZX90-9bdHIREXZkXHN4Bo9lnL9nZXdPyuvTnqTwPxHZk_ABFgBfkd6g0ZDB31QuEwMaHIENkAwnR6flOhUP2wLQNL9jqK18rxOOM8mgd-KTHtFsK7mgEeEErkKFTrhFphMUnG-XwoL_aHByPCz58-B?session=0&fife" height="200" width="auto" /><br><br>Статуи Исаакиевского собора.  Архитектор: Огюст де Монферран.  Открытие: 1858]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0g-9c-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/7addfdc23r0foaqh91njsv66ic/1647898583500/AMPFK_Jvv5dHUZdoECsI_oRJ-MpQwujD/08892943792363940611/5AIsG_vYFx74S2ef_Qfm5PMXoHPSXR4KgWQBFUiXp_9mncwph1kZX90-9bdHIREXZkXHN4Bo9lnL9nZXdPyuvTnqTwPxHZk_ABFgBfkd6g0ZDB31QuEwMaHIENkAwnR6flOhUP2wLQNL9jqK18rxOOM8mgd-KTHtFsK7mgEeEErkKFTrhFphMUnG-XwoL_aHByPCz58-B?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3064627,59.9339114,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

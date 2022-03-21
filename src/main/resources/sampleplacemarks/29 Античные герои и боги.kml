@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Античные герои и боги</name>
+    <description/>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Античные герои и боги</name>
+      <Placemark>
+        <name>Афина в Петропавловской крепости</name>
+        <description><![CDATA[<img src="https://doc-0c-0o-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/8ubfoa3hp4dpq7oqfmugkks96g/1647898583500/N6qRUArWcUvYmQ11T9df4kbN_H50Co7l/08892943792363940611/5AIsG_vYAkJwc7USUZ1ufeILEvn0UYJSDXLEXlrIw2K9QPs9C7Cu5UK67rGxp3aDnEa6KjvV6KY8KUCQo19C9VweZO0ALJbGmL3ZX1cDTh9jPbh1qyivymauZe-Qc39PbD2VPcyCRdd9Ho7OrWodHFfoi7lqX8hjbm4Fbpb0m69Y0pFDcRe43w9Ti6fGeTGA_M7Y0Kb-Q?session=0&fife" height="200" width="auto" /><br><br>В нишах пилонов ворот Петропавловской крепости размещены сразу две Афины: Полиада, покровительница города, и Паллада - победоносная воительница. У первой в руках зеркало и змея - символ мудрости. У второй - копьё и саламандра на шлеме. <br>Эти статуи иногда называют олицетворениями Мудрости и Власти. ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0c-0o-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/8ubfoa3hp4dpq7oqfmugkks96g/1647898583500/N6qRUArWcUvYmQ11T9df4kbN_H50Co7l/08892943792363940611/5AIsG_vYAkJwc7USUZ1ufeILEvn0UYJSDXLEXlrIw2K9QPs9C7Cu5UK67rGxp3aDnEa6KjvV6KY8KUCQo19C9VweZO0ALJbGmL3ZX1cDTh9jPbh1qyivymauZe-Qc39PbD2VPcyCRdd9Ho7OrWodHFfoi7lqX8hjbm4Fbpb0m69Y0pFDcRe43w9Ti6fGeTGA_M7Y0Kb-Q?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3201628,59.9507781,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Гермес на фасаде дома торгового товарищества «Братья Елисеевы»</name>
+        <description><![CDATA[<img src="https://doc-0c-0o-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/8rdbt3pb6valp0u2g00henhh18/1647898583500/N6qRUArWcUvYmQ11T9df4kbN_H50Co7l/08892943792363940611/5AIsG_vYHU7yfcMj2Ubak-0DyizPiDsUM9x1R-s6Ozkmmu1J3w0IhEPDOFet1JVXpfeo13jYpYJCMgWD2LqOXeK4vG1g8Xk4ROVAe9KsfI7OyiowJtCTLJnq0rN9JFaGRtT9I-GTWoxVHsRHhs55XLEpMduc-FJ1yG0xq-PxUSMQdeOBftDHpSYbxi4tLyaADYXFd7zs?session=0&fife" height="200" width="auto" /><br><br>Гермес считается покровителем торговли, коммерции, прибыли, хитрости, ловкости и богатства. На ногах Гермеса - таларии - крылатые сандалии, позволявшие ему быстро перемещаться на большие расстояния. На голове - шляпа-петас, также снабжённая парой крыльев. В руках бога - его главный символ, примиряющий жезл-кадуцей, атрибут древнегреческих глашатев. По легенде, Гермес с его помощью усыплял людей, чтобы передать им во сне послания богов.<br>Ловкий Гермес считался у греков покровителем всего, что сопутствует обогащению (и торговли, и воровства). Кроме того, Гермеса называли вестником богов и проводником душ в царство мёртвых.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0c-0o-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/8rdbt3pb6valp0u2g00henhh18/1647898583500/N6qRUArWcUvYmQ11T9df4kbN_H50Co7l/08892943792363940611/5AIsG_vYHU7yfcMj2Ubak-0DyizPiDsUM9x1R-s6Ozkmmu1J3w0IhEPDOFet1JVXpfeo13jYpYJCMgWD2LqOXeK4vG1g8Xk4ROVAe9KsfI7OyiowJtCTLJnq0rN9JFaGRtT9I-GTWoxVHsRHhs55XLEpMduc-FJ1yG0xq-PxUSMQdeOBftDHpSYbxi4tLyaADYXFd7zs?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3378793,59.9342307,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Атланты Эрмитажа</name>
+        <description>пятиметровые скульптуры были выполнены из сердобольского гранита скульптором Александром Теребенёвым в 1848 году - над атлантами Александр Иванович трудился два года: прообразом для скульптур послужили атланты древнегреческого храма Зевса в Акраганте на Сицилии</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            30.3199497,59.9416578,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Доходный дом Веге - Атланты</name>
+        <description><![CDATA[<img src="https://doc-08-0o-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/1pavd52koqoms7mcl105km1kpg/1647898583500/N6qRUArWcUvYmQ11T9df4kbN_H50Co7l/08892943792363940611/5AIsG_vY-X8iIGb61lbJq5denyoOCKqI72TeETS_OAC0QW1JplnPu8FdmlsQEPhc4fH9nD3gPReIwo09bsk_dVD-a-GiZh_PHwPMlPEB3M-rQ_TDtjvzWEC3f-ntNI2-WC03CFVtBAJwSILwMT2nk6quIsCKkTZugPhm1J0OocY6tZYZjjhaTWmazxlw3tw8zyxfJzzK_?session=0&fife" height="200" width="auto" /><br><br>атланты дома Веге занимают второе по величине место после атлантов Нового Эрмитажа: правда здесь их всего два - они поддерживают проход во внутренний двор-курдонёр здания, играя тем самым роль этаких стражников, охраняющих главный вход в этот величественный доходный дом.<br>по всей видимости, фамилия скульптора канула в лету, так что отметить здесь стоит авторов проекта самого здания: архитекторов Сергея Осиповича Овсянникова и Ивана Павловича Ставицкого]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-08-0o-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/1pavd52koqoms7mcl105km1kpg/1647898583500/N6qRUArWcUvYmQ11T9df4kbN_H50Co7l/08892943792363940611/5AIsG_vY-X8iIGb61lbJq5denyoOCKqI72TeETS_OAC0QW1JplnPu8FdmlsQEPhc4fH9nD3gPReIwo09bsk_dVD-a-GiZh_PHwPMlPEB3M-rQ_TDtjvzWEC3f-ntNI2-WC03CFVtBAJwSILwMT2nk6quIsCKkTZugPhm1J0OocY6tZYZjjhaTWmazxlw3tw8zyxfJzzK_?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.2970529,59.9237895,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Аполлон на фронтоне Александринки</name>
+        <description><![CDATA[<img src="https://doc-0s-0o-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/qdodfnkagvquee6tuc3flobd2g/1647898583500/N6qRUArWcUvYmQ11T9df4kbN_H50Co7l/08892943792363940611/5AIsG_vYG8n-ZNCvviXD52HyWCWXxNjPX3u69YxJY_3XKCZdxySPNYo6NrAwIf8U99DjBgrlmm31PhRASx3dPE5s3B-X04bfwpbAB3jeW0FDO_d-6pfP8lw-6LlrBB44Rkh3O7qS80kN289KjtaSSJcRI4ecTheQynM6awBPZmPvhStpIPqt5BxoWn2BtFIqPhha4Jzg?session=0&fife" height="200" width="auto" /><br><br>Аполлон возвышается на фронтоне театра в квадриге - двухколёсной колеснице, запряжённой четвёркой лошадей. В левой руке у него лира - атрибут бога-покровителя искусств и муз. В правой - венок, символ творческого триумфа и славы.<br><br>В Древней Греции Аполлон был одним из любимых и почитаемых божеств - ведь театр и музыка являлись для греков главными развлечениями. Он считался олицетворением Солнца и образцом мужской красоты, предсказателем будущего, врачевателем и искупителем тяжких грехов. На колеснице, согласно одному из мифов, он отправлялся на зиму в северную Гиперборею. И хотя по легенде запряжена его колесница была белыми лебедями - в скульптуре квадрига Аполлона обычно изображается конной.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0s-0o-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/qdodfnkagvquee6tuc3flobd2g/1647898583500/N6qRUArWcUvYmQ11T9df4kbN_H50Co7l/08892943792363940611/5AIsG_vYG8n-ZNCvviXD52HyWCWXxNjPX3u69YxJY_3XKCZdxySPNYo6NrAwIf8U99DjBgrlmm31PhRASx3dPE5s3B-X04bfwpbAB3jeW0FDO_d-6pfP8lw-6LlrBB44Rkh3O7qS80kN289KjtaSSJcRI4ecTheQynM6awBPZmPvhStpIPqt5BxoWn2BtFIqPhha4Jzg?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3361682,59.9317873,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+      </Placemark>
+      <Placemark>
+        <name>Гефест на фризах Горного института</name>
+        <description><![CDATA[<img src="https://doc-04-0o-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/ho4gadrf1sabsrmi2ohufpthd8/1647898583500/N6qRUArWcUvYmQ11T9df4kbN_H50Co7l/08892943792363940611/5AIsG_vaVvPZZLbhA0YLx0AbYT-eidFO5OIsPgq39PC0SCNLvUDK_r3cuE2F-dkZ9Umxn5rPLOcONKah_6GbT444l0cZS6nZTiHShHS7K3xkfjYNnwi5SkEy667C5SplX83k1cHLk1MEQSyrRxB2Sebq1NIXP3Fhn4iU7kvR_ioSt_6heprzcLSvmtkk4a6d9DuT1FfE?session=0&fife" height="200" width="auto" /><br><br>Гефеста (в римской мифологии - Вулкана) редко можно встретить на петербургских фасадах - но бог-ремесленник, напрямую связанный с добычей и обработкой полезных ископаемых, не мог не появиться на здании Горного. Правда, отыскать его изображения не так просто. Все они размещены на фризах - почти под самой крышей. И если одна из скульптурных историй повествует об изготовлении колесницы для Аполлона, то другая - о доспехах для бога войны Ареса (или, если по-римски, Марса).<br><br>Оба барельефа скомпонованы из 24 фигур. Каждый повествует не столько о самих мифах - явлении Аполлона за колесницей и Афродиты за доспехами для Ареса - сколько процессу изготовления различных изделий из богатств земли. Фактически сюжеты барельефов посвящены горному делу. Автор обоих фризов - Василий Демут-Малиновский. Появились они вместе с постройкой здания университета в 1806-11 годах.<br><br>В греческих мифах Гефест, хоть и выглядит хромоногим простаком, - один из главных героев. Его называли покровителем огня и изобретателем кузнечного дела. По одной из версий, именно он ковал для Зевса его главное оружие - молнии.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-04-0o-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/ho4gadrf1sabsrmi2ohufpthd8/1647898583500/N6qRUArWcUvYmQ11T9df4kbN_H50Co7l/08892943792363940611/5AIsG_vaVvPZZLbhA0YLx0AbYT-eidFO5OIsPgq39PC0SCNLvUDK_r3cuE2F-dkZ9Umxn5rPLOcONKah_6GbT444l0cZS6nZTiHShHS7K3xkfjYNnwi5SkEy667C5SplX83k1cHLk1MEQSyrRxB2Sebq1NIXP3Fhn4iU7kvR_ioSt_6heprzcLSvmtkk4a6d9DuT1FfE?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.268855,59.930121,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name/>
+      </Placemark>
+      <Placemark>
+        <name>Аллегория красоты</name>
+        <description><![CDATA[<img src="https://doc-0s-0o-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/3bevdk2jb4f7us20q3ac29tgk0/1647898583500/N6qRUArWcUvYmQ11T9df4kbN_H50Co7l/08892943792363940611/5AIsG_vZ1B02Lj2NIz4jUVsNeTNrj2tXG-3t-t4mjHgUmxeOYzzfzeEGOlHYrANN6FUZvlvJSZv-HgmCv3MWtYoeCIPmpA5Hir4Q6XgvmhRCZJowQNSK5pRmpbhW2rkKKrl4ay6BfkME-zEGtIxxW2dkZE-WNYxQuiq7r6Y3L0UfOP-M0cU_PccgZtRk2gtENl9LyTmI?session=0&fife" height="200" width="auto" /><br><br>Создана итальянским мастером Дж. Зорзони около 1719 года. Изображена обнаженная, молодая, красивая девушка, у ее ног невиданный зверь. На постаменте надпись на итальянском языке, означающая "красота".]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0s-0o-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/3bevdk2jb4f7us20q3ac29tgk0/1647898583500/N6qRUArWcUvYmQ11T9df4kbN_H50Co7l/08892943792363940611/5AIsG_vZ1B02Lj2NIz4jUVsNeTNrj2tXG-3t-t4mjHgUmxeOYzzfzeEGOlHYrANN6FUZvlvJSZv-HgmCv3MWtYoeCIPmpA5Hir4Q6XgvmhRCZJowQNSK5pRmpbhW2rkKKrl4ay6BfkME-zEGtIxxW2dkZE-WNYxQuiq7r6Y3L0UfOP-M0cU_PccgZtRk2gtENl9LyTmI?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3336,59.9453,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Скульптура «Персей»</name>
+        <description><![CDATA[<img src="https://doc-00-0o-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/gir1o66s5ksg2bv182fi9kil7g/1647898583500/N6qRUArWcUvYmQ11T9df4kbN_H50Co7l/08892943792363940611/5AIsG_vZIpTRJQ63jsJgS-xRlDJg0fG8HSuiosxlpxlfjt35W3nWqDFXlkCLncP2e0gtl01f8ZS16aB_ptGozBZ82V7pGjcC1cPvexeW5T7N5X3mjmhayol-hQQ4RhljvHjlPUBx6Prk8l_DQOMj_ly6zARE1PXahYV7rhWIdjeZFteMqPhgN9MNCxEC6E6JRtQIODsQ?session=0&fife" height="200" width="auto" /><br><br>Скульптор Феодосий Фёдорович Щедрин своей работой «Персей» продвинул искусство пластики на наивысшую ступень мастерства. Сын Зевса и красавицы Данаи показан им в момент, когда ему удалось отсечь голову Горгоне Медузе, но сражение с морским чудовищем по освобождению Андромеды еще впереди. Тем не менее Персей уверен в своей победе. Его взор решителен и неустрашим, а меч подготовлен к удару. Любопытно, что голове Горгоны Щедрин придал портретные черты шведского короля Карла XII. В трактовке скульптора передан намек на победы Петра I.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-00-0o-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/gir1o66s5ksg2bv182fi9kil7g/1647898583500/N6qRUArWcUvYmQ11T9df4kbN_H50Co7l/08892943792363940611/5AIsG_vZIpTRJQ63jsJgS-xRlDJg0fG8HSuiosxlpxlfjt35W3nWqDFXlkCLncP2e0gtl01f8ZS16aB_ptGozBZ82V7pGjcC1cPvexeW5T7N5X3mjmhayol-hQQ4RhljvHjlPUBx6Prk8l_DQOMj_ly6zARE1PXahYV7rhWIdjeZFteMqPhgN9MNCxEC6E6JRtQIODsQ?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            29.9107375,59.8815963,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Скульптура "Днепр" у основания Ростральной колонны]]></name>
+        <description><![CDATA[<img src="https://doc-0s-0o-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/j6i8v645ur4pj41kiil0kkdd10/1647898583500/N6qRUArWcUvYmQ11T9df4kbN_H50Co7l/08892943792363940611/5AIsG_vbRojE4cjPOypGYLpgzj836ii_qnxxhh9O-MLwWUzvZ73XSzrj7d3LCnxO8Jnp-0eOEMUTVP5FMCs-M0Pl12GHtd2gjYD86toIiPft5ngKdi8y7FOO5KOv_VnzuNfNtQduOg7FIPFwdqvgQxxlkrY56pTJ_KmH5o_ddaOTTuqbSWTE8tmYnwyzEfD7-Tg-au08?session=0&fife" height="200" width="auto" /><br><br>Скульптура была выполнена по моделям французских скульпторов И. Камберлена и Ж. Тибо.<br>По поводу авторов скульптурного убранства Ростральных колонн до недавнего времени почти не было точной информации. Известно, что когда Комиссия по постройке биржевого здания и облицовке берега Невы камнем обратилась с заказом в Академию художеств, Совет Академии определил коллектив лучших скульпторов того времени. Однако академические скульпторы запросили столь высокую цену за свою работу, что Комиссии пришлось отказаться, снизить цену и провести торги. В результате проект выиграли французские скульпторы, работавшие в то время в Петербурге.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0s-0o-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/j6i8v645ur4pj41kiil0kkdd10/1647898583500/N6qRUArWcUvYmQ11T9df4kbN_H50Co7l/08892943792363940611/5AIsG_vbRojE4cjPOypGYLpgzj836ii_qnxxhh9O-MLwWUzvZ73XSzrj7d3LCnxO8Jnp-0eOEMUTVP5FMCs-M0Pl12GHtd2gjYD86toIiPft5ngKdi8y7FOO5KOv_VnzuNfNtQduOg7FIPFwdqvgQxxlkrY56pTJ_KmH5o_ddaOTTuqbSWTE8tmYnwyzEfD7-Tg-au08?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3068684,59.9431002,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Статуя Андромеды</name>
+        <description><![CDATA[<img src="https://doc-14-0o-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/tenbmnk02uq33v5bmmmmhfa7k8/1647898583500/N6qRUArWcUvYmQ11T9df4kbN_H50Co7l/08892943792363940611/5AIsG_vbsH-sQ0ulwyTYwMSZ_gUxMgiffLRwLin2rRuBfXF8CT68ySUsML9G8PSOu09XSTv6XLbRAPpS7lSAfFr6hD4eCsswNTQi7qPhp-ZR5CUP0oWjKuYavFGevN1lqJDxCzjyMZtNRE2S8n-5nl3-4-PplGU57JnO7uN_AcHhiW85B1-ZZ_nIuezpHZkJSY_-OtiA?session=0&fife" height="200" width="auto" /><br><br>Статуи мифологических персонажей были выполнены по заказу Петра I, как напоминание о славных победах России. Одна из многочисленных статуй, являющихся объектами историко-культурного наследия, посвящена героине античного мифа Андромеде. Она расположена на главной аллее. Статуя была выполнена неизвестным венецианским мастером в начале 18 века.<br>Андромеда, дочь Кассиопеи и эфиопского царя Кефея, прижимает руку к сердцу, словно находится в страхе и ожидает спасения.<br>Интересно толкование мифа об Андромеде и Персее, статуи которых поставлены на площадке в начале нижнего уступа. Миф повествует об освобождении героем Персеем красавицы Андромеды, прикованной к утесу и отданной на растерзание морскому чудовищу. Этот сюжет трактовался в России в начале XVIII века как аллегория освобождения исконно русской Ижорской земли (побережье Невы и Финского залива) из-под власти Швеции.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-14-0o-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/tenbmnk02uq33v5bmmmmhfa7k8/1647898583500/N6qRUArWcUvYmQ11T9df4kbN_H50Co7l/08892943792363940611/5AIsG_vbsH-sQ0ulwyTYwMSZ_gUxMgiffLRwLin2rRuBfXF8CT68ySUsML9G8PSOu09XSTv6XLbRAPpS7lSAfFr6hD4eCsswNTQi7qPhp-ZR5CUP0oWjKuYavFGevN1lqJDxCzjyMZtNRE2S8n-5nl3-4-PplGU57JnO7uN_AcHhiW85B1-ZZ_nIuezpHZkJSY_-OtiA?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3956531,59.716123,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Флора на фасаде Малого Эрмитажа</name>
+        <description><![CDATA[<img src="https://doc-14-0o-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/9nelpp7u0cksnr6bmccvpfrehk/1647898583500/N6qRUArWcUvYmQ11T9df4kbN_H50Co7l/08892943792363940611/5AIsG_vYFj6Os5W2HlOGGvZMzP1wLI3Y0pxLIWl0QsqMBpAa66DZVx8MuPAcp__LaaVk2bXZlgp90QVGKqvrK9L8Vegy-xfqUVFsGGOMNPxNhT6xfD8O8DJa0KZ6zGLHrsGTFNmqQMv8a7uy1KVfRAb5emR4UW5Dv0vGCjswhcNOnhpHbttMMQdUFAQGdctm5NALx494?session=0&fife" height="200" width="auto" /><br><br>Статуи древнеримских богинь Флоры и Помоны украшают Невский фасад Малого Эрмитажа. Флора - богиня цветов, весны, полевых плодов. В руке Флоры корзина с розами - символ весны и цветения. Богини оказались здесь не случайно: они как бы приглашают посетить Висячий сад Малого Эрмитажа, в котором среди зелени и цветов расположились скульптурные аллегории Лета и Осени, Америки и Африки.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-14-0o-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/9nelpp7u0cksnr6bmccvpfrehk/1647898583500/N6qRUArWcUvYmQ11T9df4kbN_H50Co7l/08892943792363940611/5AIsG_vYFj6Os5W2HlOGGvZMzP1wLI3Y0pxLIWl0QsqMBpAa66DZVx8MuPAcp__LaaVk2bXZlgp90QVGKqvrK9L8Vegy-xfqUVFsGGOMNPxNhT6xfD8O8DJa0KZ6zGLHrsGTFNmqQMv8a7uy1KVfRAb5emR4UW5Dv0vGCjswhcNOnhpHbttMMQdUFAQGdctm5NALx494?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.316759,59.9416466,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Статуя Нептуна во дворе Строгановского дворца</name>
+        <description><![CDATA[<img src="https://doc-10-0o-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/s69v7c3bclmqhbuc7sgvhh40q4/1647898583500/N6qRUArWcUvYmQ11T9df4kbN_H50Co7l/08892943792363940611/5AIsG_vZDHFHVOgg2yZLAQ-yyYdmrCQGCS4DTpdG8FV-g222dqJz5imCbHXazcvhzLsIz5NleTLT77V0E2M_pggFC7_ZFO-4ZD7r1SsKFK_Ekyp3AsP7sagg4nfL0zXaKf6SCCjg1roer87khu1ubfzYep_edJH0dxqlCfxhtiiEJFEst4tvXOJ9Qr-L4KxiAlAx2Xu2g?session=0&fife" height="200" width="auto" /><br><br>Нептун - Неизвестный русский скульптор. Вторая половина XVIII в.<br>Нептун - бог морей предстает здесь в не совсем традиционном виде. На нем корона, но нет постоянного атрибута - трезубца. Обычно Нептун суров и грозен. Он колеблет морское дно ударами трезубца, вызывая бури. Здесь же он выглядит вполне мирным и даже грустным. Его облику, пожалуй, соответствуют слова Пушкина: «Седой Нептун, земли союзник»<br><br>По -видимому, статуя Нептуна, а также парная ей статуя Флоры украшали во второй половине XVIII в. Строгановскую дачу у Черной речки. Сегодня эти скульптуры оказались под тентом Летнего кафе, устроенного во дворце старейшего в Петербурге Строгановского дворца.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-10-0o-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/s69v7c3bclmqhbuc7sgvhh40q4/1647898583500/N6qRUArWcUvYmQ11T9df4kbN_H50Co7l/08892943792363940611/5AIsG_vZDHFHVOgg2yZLAQ-yyYdmrCQGCS4DTpdG8FV-g222dqJz5imCbHXazcvhzLsIz5NleTLT77V0E2M_pggFC7_ZFO-4ZD7r1SsKFK_Ekyp3AsP7sagg4nfL0zXaKf6SCCjg1roer87khu1ubfzYep_edJH0dxqlCfxhtiiEJFEst4tvXOJ9Qr-L4KxiAlAx2Xu2g?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3200888,59.9356911,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Колонны Славы</name>
+        <description><![CDATA[<img src="https://doc-04-0o-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/53qf9ia8qa54ul6iai909ant6s/1647898583500/N6qRUArWcUvYmQ11T9df4kbN_H50Co7l/08892943792363940611/5AIsG_vZcy83eC_HbmBM2QBH_RkquZfa78QTOawipHYhAH0ESvtCnWow4FRBe20EbHBFTukIw5UTVNLuo01PPnZUstE-YqUB7zdLcQjr1UL7Ova2gWRHXw5CbmJ6tyehw47ryrMmEXq8x3Mbyz1uZO592wKQisyoP-AhCgP2Wh6eFMCMGn6oD4dz_DyVmNnk5qTPFog4?session=0&fife" height="200" width="auto" /><br><br>Колонны со статуями Славы в Санкт-Петербурге. Памятник в честь побед Лейб-гвардии Конного полка в Отечественной войне 1812 года был установлен на Конногвардейском бульваре в 1845-1846 годах. Автор статуй — Х. Д. Раух, автор колонн — К. И. Росси.<br>Летящие статуи богини Ники с лавровыми венками в руках, завершающие колонны, были изготовлены в Берлине по проекту скульптора Х. Д. Рауха и подарены императору Николаю I королем Фридрихом Вильгельмом IV в 1845 году в знак ответной благодарностью за копии скульптурных групп «Укрощение коня» П. К. Клодта (оригиналы которых установлены на Аничковом мосту).<br>Колонны Славы выполнены в ионическом ордере из серого сердобольского гранита.<br>По замыслу автора колонн К. И. Росси памятник «Медный всадник» необходимо было передвинуть ближе к Колонам Славы, чтобы повысить общую композиционную роль, но этот замысел архитектора осуществлен не был.<br>Высота каждой колонны — 12 метров, высота статуи — 2,5 метра.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-04-0o-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/53qf9ia8qa54ul6iai909ant6s/1647898583500/N6qRUArWcUvYmQ11T9df4kbN_H50Co7l/08892943792363940611/5AIsG_vZcy83eC_HbmBM2QBH_RkquZfa78QTOawipHYhAH0ESvtCnWow4FRBe20EbHBFTukIw5UTVNLuo01PPnZUstE-YqUB7zdLcQjr1UL7Ova2gWRHXw5CbmJ6tyehw47ryrMmEXq8x3Mbyz1uZO592wKQisyoP-AhCgP2Wh6eFMCMGn6oD4dz_DyVmNnk5qTPFog4?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3028605,59.9347739,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Античные герои и Боги в Санкт-Петербурге</name>
+    <description><![CDATA[ИЗК 1.3<br>Данилина С.<br>Крейтор А.<br>Лопырева Л.<br>Панькина К. <br>Шустрова А.]]></description>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Боги и герои</name>
+      <Placemark>
+        <name>Статуя Геракла Фарнезского</name>
+        <description><![CDATA[<img src="https://doc-08-8o-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/sqi7u4r9u7d3lhfj8uvv2bg9k8/1647898508750/TshSDfuOH54iMuHMVcjsJoy3_f4gtW8I/08892943792363940611/5AIsG_vbG4kw62BXWmHJjQqAEZkXBKOJeL75Bpuks9tuSsx61BvsrWMMzKHcxQwVcqQPJwb_QH4lheTKtvnowK8GZ4BF-jBx2AwYwAaWeygS6Ys4gKDnzEkq1q6zslvd7DJSMV9uGJLeh8uZfN44-2dVSbO6HaLBRRIw_KNG3QLQbcyLoculLtfwy6YyGvucQkqEb4aEd?session=0&fife" height="200" width="auto" /><br><br>Данная мраморная скульптура была создана в мастерской Паоло Трискорни, в первой трети 19 века, и является копией античной статуи Геракла Фарнезского. Оригинал работы в настоящее время располагается в национальном археологическом музее Неаполя. <br>Статуя расположена на Елагином острове, на живописном берегу озера. <br>Геракл - пожалуй. самый известный герой древнегреческих мифов, сын Зевса и Алкмены, приобревший свою славу, совершив 12 подвигов. Эти подвиги нашли отображение в скульптуре - она изображает утомленного Геракла, опирающегося на палицу, на которую накинута шкура Немейского льва, победа над которым стала первым подвигом Геракла. За спиной же Геракл держит три яблока Гесперид - плоды вечной молодости, которые он добыл в последнем подвиге. ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-08-8o-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/sqi7u4r9u7d3lhfj8uvv2bg9k8/1647898508750/TshSDfuOH54iMuHMVcjsJoy3_f4gtW8I/08892943792363940611/5AIsG_vbG4kw62BXWmHJjQqAEZkXBKOJeL75Bpuks9tuSsx61BvsrWMMzKHcxQwVcqQPJwb_QH4lheTKtvnowK8GZ4BF-jBx2AwYwAaWeygS6Ys4gKDnzEkq1q6zslvd7DJSMV9uGJLeh8uZfN44-2dVSbO6HaLBRRIw_KNG3QLQbcyLoculLtfwy6YyGvucQkqEb4aEd?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.2520668,59.9784042,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Композиция "Круговорот суток"]]></name>
+        <description><![CDATA[<img src="https://doc-0s-8o-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/e1p5smttrvma5nkueetka83g1g/1647898508750/TshSDfuOH54iMuHMVcjsJoy3_f4gtW8I/08892943792363940611/5AIsG_vavm08OiM3x4vdqh_4aPgteec5GtDuBJz8KhJHQ9qmMy36VdEvHC8maCUx05Es0Jf-VzH654n-jhbZeY8ou4QLNcXf2ibDAjqiaUlvjsp21TrlCCZ2zmUGKitfTqCOWgAkfJgxw0q-KuPW_fG5pjDUNo0BjD8JxeoEMNiuxYTxhng91ZH52YqxsUf6qBaIIDks?session=0&fife" height="200" width="auto" /><br><br>На площадке Летнего сада расположена копия композиции итальянского скульптора Джованни Бонацца "Круговорот суток". Эта композиция была создана в 1717 г., в неё входит четыре скульптуры - "Аврора", "Полдень", "Закат" и "Ночь". Скульптуры расположены по часовой стрелке и отображают греческие представления о смене времени суток.<br>Аврора - богиня утренней зари, изображена в виде юной женщины, с факелом, разгоняющим тьму, в одной руке, и с раскрывающимися ранним утром цветами в другой. Следующая скульптура - Полдень. Он изображен в виде юноши в расцвете сил, с солнечным диском во лбу и подсолнухом у его ног. В руках он держит цветок лотоса и пучок стрел - солнечных лучей. <br>Закат представляет собой старца, в волосах которого сияет вечерняя звезда Веспер (Венера), а у ног расположились заходящий диск солнца и цветы дурмана, особенно сильно пахнущие веером. Завершает композицию скульптура  Никты - богини ночи. Согласно греческой мифологии, Никта живет в подземном царстве и каждый день обходит землю, сменяя день. Скульптура изображает молодую девушку, укутанную в звездное покрывало. Рядом с ней атрибуты ночи - сова и летучая мышь, на голове - венок из маков, навевающих сон.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0s-8o-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/e1p5smttrvma5nkueetka83g1g/1647898508750/TshSDfuOH54iMuHMVcjsJoy3_f4gtW8I/08892943792363940611/5AIsG_vavm08OiM3x4vdqh_4aPgteec5GtDuBJz8KhJHQ9qmMy36VdEvHC8maCUx05Es0Jf-VzH654n-jhbZeY8ou4QLNcXf2ibDAjqiaUlvjsp21TrlCCZ2zmUGKitfTqCOWgAkfJgxw0q-KuPW_fG5pjDUNo0BjD8JxeoEMNiuxYTxhng91ZH52YqxsUf6qBaIIDks?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3350266,59.9455835,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Нимфы, несущие небесную сферу</name>
+        <description><![CDATA[<img src="https://doc-0o-8o-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/oetvi04sivfnig414tomia8b5k/1647898508750/TshSDfuOH54iMuHMVcjsJoy3_f4gtW8I/08892943792363940611/5AIsG_vaX4iaELmqrSes8gzdxr2Kinoxf8rbzCEjO9xWD-9IRGle9XDO-YGooAS-pHbcPT_cBzteKXJM-6EtVNBzBxCxV5c0aazzIUrOZBIzRncn5ZsU_9-lQxmGRNfgDmtOwUZjQf9KC8SlMXVwYc-XuewtwhC2RiwfpuBwiaFxXGqcrzYowWkhFkGCUBKx4RFySR0MK?session=0&fife" height="200" width="auto" /><br><br>Ф.Ф. Щедрин 1812-1813 г. Установлены перед аркой центральной башни Адмиралтейства (по обе стороны от главного входа)<br>Нимфы (морские, речные, лесные) часто сопровождали богов. В свите Нептуна и Амфитриты – обычно морские нимфы, названные нереидами. Это дочери морского божества, вещего старца Нерея. Живут они в морских глубинах, прядут на золотых прялках, кружатся в хороводах в такт волнам. В лунные ночи нереиды выходят на берег, поют и пляшут вместе с тритонами. Они почитаются как добрые покровительницы мореходов. Супруга Нептуна Амфитрита была нереидой. Среди нереид была и мать Ахилла Фетида, окунувшая своего сына-младенца в воды подземной реки Стикс, чтобы сделать его неуязвимым. В данной скульптурной композиции нереиды несут на плечах огромные небесные сферы, воплощая незыблемость мироздания. Над ними парят Славы — крылатые женские божества, обычно сопровождающие богиню Победы и венчающие победителей. Они осеняют арку входа лавровыми венками, восхваляя могущество российского флота.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0o-8o-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/oetvi04sivfnig414tomia8b5k/1647898508750/TshSDfuOH54iMuHMVcjsJoy3_f4gtW8I/08892943792363940611/5AIsG_vaX4iaELmqrSes8gzdxr2Kinoxf8rbzCEjO9xWD-9IRGle9XDO-YGooAS-pHbcPT_cBzteKXJM-6EtVNBzBxCxV5c0aazzIUrOZBIzRncn5ZsU_9-lQxmGRNfgDmtOwUZjQf9KC8SlMXVwYc-XuewtwhC2RiwfpuBwiaFxXGqcrzYowWkhFkGCUBKx4RFySR0MK?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.308729,59.9374208,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Амур и Психея</name>
+        <description><![CDATA[<img src="https://doc-10-8o-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/8ekujm6nmj6c110n63gsf37hkg/1647898508750/TshSDfuOH54iMuHMVcjsJoy3_f4gtW8I/08892943792363940611/5AIsG_vYRJdPtnHSIgfaeNUNGJigRjFbKgEREYikyzlHNEEIHUBHKWgGOil4ZZByZiM7d1mZIhRVtkWg067hFgLzSBSsfQJariGwGv_KNihCxDNJdqZ1GVvT74otOafl-8iVRV2y6_YaI0KksPYPk4GkTAuw-GhDpSI4ePk-obKd0izkwTWoncnwSTTYjl-ZSyK1_6gM?session=0&fife" height="200" width="auto" /><br><br>Автор – предположительно, Джулио Картари, ученик итальянского скульптора Джованни Лоренцо Бернини. Создание – конец XVII века. В 1719 была приобретена в Риме денщиком Петра I, дипломатом Ю. Кологривовым. Летом 1721 года скульптура была установлена в Гроте Летнего сада. Позднее переместилась на пирс Лебяжьей канавки лицевой стороной вглубь сада. В 2009 году оригинал скульптуры был перенесён на хранение в Михайловский замок, а на её месте была установлена копия.<br>Сюжетом для скульптуры послужила поэтическая легенда о любви сына богини Венеры Амура к прекрасной девушке Психее. Сюжет взят из произведения "Метаморфозы" древнеримского автора Апулея (II век н. э.). Психея была столь прекрасна, что вызвала ревность богини красоты Венеры, которая приказала своему сыну Амуру ранить ее. Но когда Амур увидел столь красивую девушку, он, влюбившись, не стал причинять ей вреда, а перенес ее тайком от матери в свой чертог и посещал ее по ночам, в полной темноте, запретив ей видеть свое лицо. Коварные и завистливые сестры подстрекнули Психею нарушить запрет, и она попыталась при помощи ночника рассмотреть своего возлюбленного. Однако капля горячего масла, падающая из светильника, разбудила Амура, и он в гневе покинул Психею. Она долго искала его по свету, и, в конце концов, ее верность и стойкость были вознаграждены: она соединилась с Амуром и получила бессмертие.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-10-8o-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/8ekujm6nmj6c110n63gsf37hkg/1647898508750/TshSDfuOH54iMuHMVcjsJoy3_f4gtW8I/08892943792363940611/5AIsG_vYRJdPtnHSIgfaeNUNGJigRjFbKgEREYikyzlHNEEIHUBHKWgGOil4ZZByZiM7d1mZIhRVtkWg067hFgLzSBSsfQJariGwGv_KNihCxDNJdqZ1GVvT74otOafl-8iVRV2y6_YaI0KksPYPk4GkTAuw-GhDpSI4ePk-obKd0izkwTWoncnwSTTYjl-ZSyK1_6gM?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.333974,59.9446973,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Похищение Прозерпины Плутоном</name>
+        <description><![CDATA[<img src="https://doc-08-8o-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/3fng2j93e7i8lsi0ok719qgff0/1647898508750/TshSDfuOH54iMuHMVcjsJoy3_f4gtW8I/08892943792363940611/5AIsG_vZjRJ-UKf4PEejMWEmfVERExPtG_Wp1yuWG1z8P1CXviUECy4jbvSlau5UW5LZrV7jKrEegy-_j8OKxFEjieWT4erXBYq6PMYnTzPIyfGoXFtN4Y3rLO6h3xVkrVK9777awZRKCosk0ZIqBA8iANryw_Ms4oXD8Bi0O_Ai9iN9nIVnQHKbEse7Qrp1W6wZT610?session=0&fife" height="200" width="auto" /><br><br>В. И. Демут-Малиновский,  1809-1811 г. г. Композиция расположена в Санкт-Петербургском горном музее, по адресу наб. Лейтенанта Шпидта, 49. <br>Согласно мифу, Прозерпина (богиня весны), дочь богов Юпитера и Цереры (богиня плодородия и урожая) гуляла по лугу со своими спутниками, собирая цветы. Тут её заметил Плутон (бог подземного царства) и похитил. В композиции всего три персонажа, Плутон, Прозерпина и трехголовый пес Цербер, страж подземного царства.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-08-8o-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/3fng2j93e7i8lsi0ok719qgff0/1647898508750/TshSDfuOH54iMuHMVcjsJoy3_f4gtW8I/08892943792363940611/5AIsG_vZjRJ-UKf4PEejMWEmfVERExPtG_Wp1yuWG1z8P1CXviUECy4jbvSlau5UW5LZrV7jKrEegy-_j8OKxFEjieWT4erXBYq6PMYnTzPIyfGoXFtN4Y3rLO6h3xVkrVK9777awZRKCosk0ZIqBA8iANryw_Ms4oXD8Bi0O_Ai9iN9nIVnQHKbEse7Qrp1W6wZT610?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.269452,59.9291911,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Терпсихора</name>
+        <description><![CDATA[<img src="https://doc-10-8o-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/f6akfdipdc9isnka8git6espqk/1647898508750/TshSDfuOH54iMuHMVcjsJoy3_f4gtW8I/08892943792363940611/5AIsG_vZ5kWjauL4Y_P910Z55laIm-6FnG2L4-2yEVfHxIBN7iEVu2wh5nG7KrM6b5IuPH_Q8C_W2eBY6-BDF7R9UfA2ko15GcqSkjGOruaKdq2fEtWjidiPmf11r80JsKBYjuZQ9TDdvyZIa-n2CP6ev9U8Hs54-FHBo9jvkDIi8ql6VrGaS0FuIRu1s7X7ocZtnk0A?session=0&fife" height="200" width="auto" /><br><br>Дж. и П. Гропелли, ок. 1722 г. <br>Находится в Летнем саду, около набережной Лебяжьей канавки.<br>Терпсихора — муза танца. Персонаж древнегреческих мифов, популярный образ и символ в искусстве. Согласно Диодору, получила имя от наслаждения (терпейн) зрителей являемыми в искусстве благами. Дочь Зевса и Мнемосины. Считается покровительницей танцев и хорового пения. Изображалась в виде молодой женщины, с улыбкой на лице иногда в позе танцовщицы, чаще сидящей и играющей на лире.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-10-8o-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/f6akfdipdc9isnka8git6espqk/1647898508750/TshSDfuOH54iMuHMVcjsJoy3_f4gtW8I/08892943792363940611/5AIsG_vZ5kWjauL4Y_P910Z55laIm-6FnG2L4-2yEVfHxIBN7iEVu2wh5nG7KrM6b5IuPH_Q8C_W2eBY6-BDF7R9UfA2ko15GcqSkjGOruaKdq2fEtWjidiPmf11r80JsKBYjuZQ9TDdvyZIa-n2CP6ev9U8Hs54-FHBo9jvkDIi8ql6VrGaS0FuIRu1s7X7ocZtnk0A?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3342003,59.9454087,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Нептун</name>
+        <description><![CDATA[<img src="https://doc-0s-8o-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/ev97kbr72gq9qmc1g0lvsee1l8/1647898508750/TshSDfuOH54iMuHMVcjsJoy3_f4gtW8I/08892943792363940611/5AIsG_vZeDUkv7fdeXaQ2Td-HbIJ-_f_sRWJLytY_rGk88WNuMNefjowm0zSLkTJ_LhMCVwYcOLZQduR6wLertB1r4-bqONRlSlHVQhztZqjbR0gzyWrEVGg5L_3gllCGFI5KqaPrk9aH60VzbDiZlRIeuGJSxePiKAG5M5O2UnbmYybsydPJjPTdaCqd78EVAiN1A2tD?session=0&fife" height="200" width="auto" /><br><br>Скульптор: Антонио Тарсиа, предп. 1718-1719 г. Располагается в государственном музее-заповеднике "Петергоф", входит в состав композиции каскада водопадов Золотая гора. <br>Нептун считался богом морского царства в античной мифологии. Нептуна признавали и почитали как могучего и сильного бога все мореплаватели и купцы, которые воздвигали ему жертвенники и обращались к нему с мольбами для того, чтобы он даровал их кораблям счастливый переезд без бурь и покровительствовал бы успеху их торговли.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0s-8o-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/ev97kbr72gq9qmc1g0lvsee1l8/1647898508750/TshSDfuOH54iMuHMVcjsJoy3_f4gtW8I/08892943792363940611/5AIsG_vZeDUkv7fdeXaQ2Td-HbIJ-_f_sRWJLytY_rGk88WNuMNefjowm0zSLkTJ_LhMCVwYcOLZQduR6wLertB1r4-bqONRlSlHVQhztZqjbR0gzyWrEVGg5L_3gllCGFI5KqaPrk9aH60VzbDiZlRIeuGJSxePiKAG5M5O2UnbmYybsydPJjPTdaCqd78EVAiN1A2tD?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            29.9003649,59.885412,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Торговля</name>
+        <description><![CDATA[<img src="https://doc-04-8o-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/joqsm7d895446l0432f2fouju8/1647898508750/TshSDfuOH54iMuHMVcjsJoy3_f4gtW8I/08892943792363940611/5AIsG_vaPT0MyJA9KthrHM_Lcd0QIUIQQQLoq1CabqMWj2I95sNtEOyDbbcHUKzzKr0ZevqIB1ZWR4YQ3o-YNhBhojTIo9hfsA-ga_5SJIRpLS_pBw-PT4GuWlcK2WeSVWRUnRy__XwfS1pnzaiuTgmKg7iHhQ9xnd4mB6u7dNQkjNEnJga40n5klt7bqtx4G_qKFFv0?session=0&fife" height="200" width="auto" /><br><br>Скульптура Меркурия, авторства А. Г. Адамсона (1903 г.), расположена на фасаде здания магазина купцов Елисеевых. <br>Эта скульптура является одной из аллегорических скульпутр, расположенных на фасадах здания. Покровитель торговли, фигура бога Меркурия, установлена справа от широкого витража. У правой его ноги можно увидеть якорь и фрукты, левая стоит на тюке, который перевязывает мальчик. На другой стороне витража — фигура мастерового в фартуке, держащего модель судна]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-04-8o-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/joqsm7d895446l0432f2fouju8/1647898508750/TshSDfuOH54iMuHMVcjsJoy3_f4gtW8I/08892943792363940611/5AIsG_vaPT0MyJA9KthrHM_Lcd0QIUIQQQLoq1CabqMWj2I95sNtEOyDbbcHUKzzKr0ZevqIB1ZWR4YQ3o-YNhBhojTIo9hfsA-ga_5SJIRpLS_pBw-PT4GuWlcK2WeSVWRUnRy__XwfS1pnzaiuTgmKg7iHhQ9xnd4mB6u7dNQkjNEnJga40n5klt7bqtx4G_qKFFv0?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3378187,59.9342198,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Афина Паллада и Афина Полиада</name>
+        <description><![CDATA[<img src="https://doc-14-8o-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/64bfurh15cvkrt1hphl4nusi8g/1647898508750/TshSDfuOH54iMuHMVcjsJoy3_f4gtW8I/08892943792363940611/5AIsG_vYYeXjA4832YPneNgriK9C_vUB-h08DkeNJUYJcS_8qSDRE0mxnnnbGWnc1aVa6GrM54e1D_gQ-8fW-kuZfitEhTAntFy6ARhEwob_dJgZ8u9EZU9tCfCQ-DIagGr1G1WMoPi8rkdjg9ckJoXZbLy7nbD0PUanc0qBneysiEZQH45rVVikHL4w9h0r_EczAK3A?session=0&fife" height="200" width="auto" /><br><br>Расположенные около ворот Петропавловской крепости статуи изображают двух Афин - Палладу (Беллону) и Полиаду (Минерву). Здесь они с 1714 года, когда существовавшие прежде деревянные ворота были заменены на каменные. Сооружены они были по проекту Доменико Трезини, первого архитектора города на Неве.<br>В нишах пилонов ворот размещены сразу две Афины: Полиада, покровительница города, и Паллада - победоносная воительница. Помада в длинном свободном одеянии, повернув голову, всматривается в круглое зеркальце, которое держит в руке. Зеркальце не для того, чтобы рассматривать свое лицо, а, скорее всего, для того, чтобы видеть корабли нецриятеля, если они будут подплывать к крепости. Ведь зеркальце ее направлено в сторону Невы. В другой руке Полиада держит змею, знак мудрости. У Паллады - копьё и саламандра на шлеме. Афина-воительница предстает во всем своем боевом облачении. Такой она вышла прямо из головы Зевса, которую по его просьбе расколол своим молотом бог-кузнец Гефест. Однако, если внимательно присмотреться, то в боевом облачении Афины есть некоторое отличие от традиционных ее изображений. В задачу<br>Трезини не входило слепое копирование античных образцов. Он решил одеть воительницу в кольчугу, а вместо совы или сфинкса, часто сопровождающих богиню мудрости, нашел ей другую спутницу — саламандру.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-14-8o-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/64bfurh15cvkrt1hphl4nusi8g/1647898508750/TshSDfuOH54iMuHMVcjsJoy3_f4gtW8I/08892943792363940611/5AIsG_vYYeXjA4832YPneNgriK9C_vUB-h08DkeNJUYJcS_8qSDRE0mxnnnbGWnc1aVa6GrM54e1D_gQ-8fW-kuZfitEhTAntFy6ARhEwob_dJgZ8u9EZU9tCfCQ-DIagGr1G1WMoPi8rkdjg9ckJoXZbLy7nbD0PUanc0qBneysiEZQH45rVVikHL4w9h0r_EczAK3A?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3182675,59.9497416,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Триумф Нептуна</name>
+        <description><![CDATA[<img src="https://doc-14-8o-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/hs9fip3iqhvvlufklicfc7hn8g/1647898508750/TshSDfuOH54iMuHMVcjsJoy3_f4gtW8I/08892943792363940611/5AIsG_vbevSd1bDweskWZvTZLnGBvoaZPIM9APvYsY7mN0VKs0hGZHlLWUVehMZDDPfOq7LQ4tu2RFK7YPIyZvJrzE4S48_dywEjhsMEMzLE4FM8G7irSVXoqICSU0McKK8JzUcxtNU7sOsALhF7cbaqg2QnsXQVKISX9tcuPg7VCpJvI6e1inbj0PCiZCSENUmoL8AI?session=0&fife" height="200" width="auto" /><br><br>Здание Биржи было построено в начале XIX века французским архитектором Жаном-Франсуа Тома-де-Томоном. Скульптурная группа «Триумф Нептуна», выполнена по проекту скульптора В. И. Демут-Малиновским из пудостского камня.<br>Как представитель зрелого классицизма, Тома-де-Томон сделал постройку похожей на древнегреческий храм: прямоугольное в плане сооружение окружено строгой дорической колоннадой и венчается правильной формы двускатной крышей. Скульптурные группы на фронтоне - едва ли не единственные «вольности», которые смог себе позволить архитектор. В центре композиции изображен могучий бог морей Нептун. В его левой руке трезубец - символ власти над морской стихией, протянутой вперед правой рукой он ниспосылает благословение на город и порт. Бородатое лицо бога морей спокойно и властно, обнаженная грудь открыта ветрам и волнам. Бог морей восседает на колеснице, которую мчат морские кони. Головы четырех морских коней - гиппокампов - гордо подняты над<br><br>волнами. Гиппокампы изображены ваятелем так, что их тела с круто изогнутыми рыбьими хвостами словно скрыты под водой. Головы, повернутые в разных направлениях, полны порывистого движения. Создается впечатление, что морские фантастические кони рвутся вперед, увлекая колесницу с сидящим в ней Нептуном. К Нептуну обращены две сидящие аллегорические фигуры: женщина в кокошнике олицетворяет Неву, а в образе длинноволосого старца изображен Волхов. Они напоминают сказочных божеств - русалку и водяного.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-14-8o-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/hs9fip3iqhvvlufklicfc7hn8g/1647898508750/TshSDfuOH54iMuHMVcjsJoy3_f4gtW8I/08892943792363940611/5AIsG_vbevSd1bDweskWZvTZLnGBvoaZPIM9APvYsY7mN0VKs0hGZHlLWUVehMZDDPfOq7LQ4tu2RFK7YPIyZvJrzE4S48_dywEjhsMEMzLE4FM8G7irSVXoqICSU0McKK8JzUcxtNU7sOsALhF7cbaqg2QnsXQVKISX9tcuPg7VCpJvI6e1inbj0PCiZCSENUmoL8AI?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3051155,59.9436597,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Античный маршрут</name>
+    <description/>
+    <Style id="icon-1899-FFD600-normal">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FFD600-highlight">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FFD600">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FFD600-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FFD600-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Архитектура Петергофа</name>
+      <Placemark>
+        <name>Дворец Лейхтенбергских</name>
+        <description><![CDATA[<img src="https://doc-0k-0k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/973opnq72cf2t6975h4nn2jqp8/1647898434000/hr810OfV6NU0Y3tBCkZ7hEE9AhNd6pbX/08892943792363940611/5AIsG_vauJyxm2RtdZ_NzQMRYgRLKJWF3wIdmV5fpQI37je1jRfg3bq7-UoJhfRpsh7wYVYl9UKjlgE79LI6pPHw3n3GjOuRNf0qiomsD4yB1R6rtmret0IhGB6eoCmvqhjcGs_u6IuWmd3kH-XVgb6j8RsWMV-DMssu1GQc2BDCU7-bPVhX8FVHrMFfk33NBQOcet3C4?session=0&fife" height="200" width="auto" /><br><br>Построен: 1839—1842 гг                         Архитектор: Андреем Ивановичем Штакеншнейдером                                                    Дворец Лейхтенбергских — двухэтажный загородный дворец в стиле позднего классицизма, расположенный на гребне берегового уступа в северо-восточной части парка Сергиевка (западная окраина Петергофа). Построен был для дочери Николая I Марии Николаевны и её мужа Максимилиана, герцога Лейхтенбергского,  знаменитым архитектором А. И. Штакеншнейдер, построившим также для супружеской пары Мариинский дворец в Петербурге.<br>При всей кажущейся архитектурной вычурности и необоснованности в мелочах, план дворца был тщательно выверен и эргономично организован. Отделка стилизована под помпейское искусство. Над лепным и живописным убранством трудились талантливые мастера И. Табарин, М. Андреев, С. Давыдов, И. Дролингер.<br>К сожалению, богатая меблировка дворца Лейхтенбергских от братьев Гамбсов была утрачена.                                                                   С приходом Советской власти парк Сергиевка был взят под охрану государства, а в 1921 году был объявлен памятником природы на основании декрета Совнаркома. Сначала в усадьбе обосновалась "Детская коммуна".<br>Впоследствии усадьбу Лейхтенбергских передали биолого-почвенному факультету Ленинградского университета. Во дворце и постройках рядом расположился Биологический НИИ Университета, который находится там и по сей день.]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0k-0k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/973opnq72cf2t6975h4nn2jqp8/1647898434000/hr810OfV6NU0Y3tBCkZ7hEE9AhNd6pbX/08892943792363940611/5AIsG_vauJyxm2RtdZ_NzQMRYgRLKJWF3wIdmV5fpQI37je1jRfg3bq7-UoJhfRpsh7wYVYl9UKjlgE79LI6pPHw3n3GjOuRNf0qiomsD4yB1R6rtmret0IhGB6eoCmvqhjcGs_u6IuWmd3kH-XVgb6j8RsWMV-DMssu1GQc2BDCU7-bPVhX8FVHrMFfk33NBQOcet3C4?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            29.842888,59.89449,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Павильон «Эрмитаж»</name>
+        <description><![CDATA[<img src="https://doc-0s-0k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/h6rqa5g5kik1eimb2svlmoqm8c/1647898434000/hr810OfV6NU0Y3tBCkZ7hEE9AhNd6pbX/08892943792363940611/5AIsG_vaTKlQwGKNbX-m6zkFJcaxqRzQXJ8qdtiU6cWnNKTSIoABQiSMPZLWmsiGvMEmebtxciqtOq1w8_n5KFz2gw11zkgYJKUMxdeMeiLFW6VwR_QJZ9AW2Ne-2r2zXXeAExEqkCglm-AXPy5wMr5dLswebr63RvqFcShPmue2YkY3kTSPieXs7RyNXFScCzzIzB3M?session=0&fife" height="200" width="auto" /><br><br>Дата постройки: 1721-1725 гг.<br>Архитектор: Иоганн Фридрих Браунштейн<br>«Hermitage» в переводе с французского означает «приют отшельника» или «место уединения». Павильон был предназначен Петром I для времяпрепровождения в узком кругу приближенных.<br>Небольшое двухэтажное здание окружено рвом, через который перекинут мостик. Центральная часть фасада выделена полукруглым фронтоном и широким окном с балконом. Стены здания покрыты горизонтальным рустом, поверх которого наложены пилястры коринфского ордера, объединяющие два этажа. Весь второй этаж павильона занят парадным залом-столовой, полностью изолированным от служебных помещений первого этажа. Для подачи блюд использовался специальный стол с подъемным механизмом (восстановлен в 2009 году).]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0s-0k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/h6rqa5g5kik1eimb2svlmoqm8c/1647898434000/hr810OfV6NU0Y3tBCkZ7hEE9AhNd6pbX/08892943792363940611/5AIsG_vaTKlQwGKNbX-m6zkFJcaxqRzQXJ8qdtiU6cWnNKTSIoABQiSMPZLWmsiGvMEmebtxciqtOq1w8_n5KFz2gw11zkgYJKUMxdeMeiLFW6VwR_QJZ9AW2Ne-2r2zXXeAExEqkCglm-AXPy5wMr5dLswebr63RvqFcShPmue2YkY3kTSPieXs7RyNXFScCzzIzB3M?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            29.903316,59.8890644,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Флигель-адъютанский дом</name>
+        <description><![CDATA[<img src="https://doc-0k-0k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/lme2f033htnv818dhmkf1bc1v4/1647898434000/hr810OfV6NU0Y3tBCkZ7hEE9AhNd6pbX/08892943792363940611/5AIsG_vb_rvfGayaUY3jAaRX9WZ2mqSiIld50WxQ58wdMaRQ1Y3X_2aGRMINvjAkRaeARxnZnEfB2AJ8Oq5UjHPxXnBXw1LpUAin1CaClN-_MmOu5T_hp9b84htaCtBvkxmv_994WtwYZUdoZ2KYaXu_BSUoILVpeDWC4Q9SPuZrT0GlSRK2v9HJXJ5EciujGUJ76FYc?session=0&fife" height="200" width="auto" /><br><br>1834-1839 - арх. Шарлемань Иосиф ИосифовичПетергоф, Разводная ул., 1 - Разводная пл., 1]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0k-0k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/lme2f033htnv818dhmkf1bc1v4/1647898434000/hr810OfV6NU0Y3tBCkZ7hEE9AhNd6pbX/08892943792363940611/5AIsG_vb_rvfGayaUY3jAaRX9WZ2mqSiIld50WxQ58wdMaRQ1Y3X_2aGRMINvjAkRaeARxnZnEfB2AJ8Oq5UjHPxXnBXw1LpUAin1CaClN-_MmOu5T_hp9b84htaCtBvkxmv_994WtwYZUdoZ2KYaXu_BSUoILVpeDWC4Q9SPuZrT0GlSRK2v9HJXJ5EciujGUJ76FYc?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            29.9042822,59.8846406,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Воронихинская колоннада</name>
+        <description><![CDATA[<img src="https://doc-10-0k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/5t2b7elp449r26skhtsfnpjiag/1647898434000/hr810OfV6NU0Y3tBCkZ7hEE9AhNd6pbX/08892943792363940611/5AIsG_vYQUIUPvXi9yrxsCr-ZUkHng3fmWzMi_UU0hN1jW9v0P13SqLXuCBz5XLH1EOqkURoW4TdeMtTRFxDqGzgyP3E8c67RnPuEcMf4q4CXQ2i5OGejyzILcPfzbtPmctpJnzL0maPSR4iM1PhOH3oXhJbo1wSz3klAd_A_F1D2QTRwo9Vt2vZeOTB5QomT6IIsGyHO?session=0&fife" height="200" width="auto" /><br><br>Архитекторы: 1 этап: Николо Микетти 1722-1724 гг.<br>2 этап: Андрей Никифорович Воронихин 1800-1803 гг.<br>3 этап: Андрей Иванович Штакеншнейдер 1853-1854 гг.]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-10-0k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/5t2b7elp449r26skhtsfnpjiag/1647898434000/hr810OfV6NU0Y3tBCkZ7hEE9AhNd6pbX/08892943792363940611/5AIsG_vYQUIUPvXi9yrxsCr-ZUkHng3fmWzMi_UU0hN1jW9v0P13SqLXuCBz5XLH1EOqkURoW4TdeMtTRFxDqGzgyP3E8c67RnPuEcMf4q4CXQ2i5OGejyzILcPfzbtPmctpJnzL0maPSR4iM1PhOH3oXhJbo1wSz3klAd_A_F1D2QTRwo9Vt2vZeOTB5QomT6IIsGyHO?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            29.9087301,59.8856267,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Большой Петергофский дворец</name>
+        <description><![CDATA[<img src="https://doc-08-0k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/4mm4d4qbqd9ofb05gnko1vo65k/1647898434000/hr810OfV6NU0Y3tBCkZ7hEE9AhNd6pbX/08892943792363940611/5AIsG_vb2GVL8p6KM3wIvRY7IJTRuAQ8PwBkxQ5kfgbclyUuVn08GNSBUDTk_9vTdStgsLSmiVK2WUNJ9LQE69dFmWL5OOpaa0T_kGwTOOcCdqRQHFyN5QOwIp0DMHrSB_6J607noudzoMRtf85dgnnJz07A9QFcD9A2JoP80BuAfdb-nF53uaf1E8xVNkRc_KkJwYyZ3?session=0&fife" height="200" width="auto" /><br><br>1 этап постройки: 1715-1725 гг. <br>Архитекторы И.Ф. Браунштейн, Ж.-Б. Леблон, Н. Микетти.<br>2 этап постройки: 1745-1755 гг. Архитектор Ф.Б. Растрелли.                                                          Фасад Большого Петергофского дворца протянулся вдоль террасы почти на 300 метров и занимает доминирующее положение в композиции петергофского ансамбля.<br>Существующий облик дворца формировался в течение почти полутора веков. В Петровскую эпоху это было небольшое двухэтажное здание. Верхние палаты представляли собой небольшое сооружение, имели три этажа в центре и двухэтажные боковые ризалиты. На фронтоне центральной части фасада располагался рельефный щит с монограммой Петра I.  Идея местоположения и первоначального облика дворца принадлежала самому Петру.<br>После перестройки дворца по проекту Растрелли там появился ещё один этаж, значительно увеличилось центральное пространство, к которому примкнули крылья одноэтажных галерей, завершенных боковыми корпусами – Церковным и Корпусом под гербом. Интерьеры дворца, созданные архитектором, поражали динамикой и сказочной роскошью. <br>В 60–70–х годах XVIII века барочная пышность выходит из моды, и интерьеры дворца начинают принимать иные очертания, в соответствии с новым стилем – классицистическим. В это время главным элементом украшения стали лепные композиции, создававшие впечатление благородства, простоты и изысканности художественного вкуса. <br>Сформировавшийся в результате всех перестроек архитектурный облик Большого дворца несет на себе отчетливые следы различных художественных вкусов и стилей, но не перестает поражать своей красотой и величественностью.]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-08-0k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/4mm4d4qbqd9ofb05gnko1vo65k/1647898434000/hr810OfV6NU0Y3tBCkZ7hEE9AhNd6pbX/08892943792363940611/5AIsG_vb2GVL8p6KM3wIvRY7IJTRuAQ8PwBkxQ5kfgbclyUuVn08GNSBUDTk_9vTdStgsLSmiVK2WUNJ9LQE69dFmWL5OOpaa0T_kGwTOOcCdqRQHFyN5QOwIp0DMHrSB_6J607noudzoMRtf85dgnnJz07A9QFcD9A2JoP80BuAfdb-nF53uaf1E8xVNkRc_KkJwYyZ3?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            29.9088142,59.8845726,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Верхнесадский дом </name>
+        <description><![CDATA[<img src="https://doc-14-0k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/40dh70s85o34k4lqqj9n62mq60/1647898434000/hr810OfV6NU0Y3tBCkZ7hEE9AhNd6pbX/08892943792363940611/5AIsG_vbi46fj2G7gXKcQHNOd6xRN975lJwNd2s_2KHb9gXANgeTpwWnEgYwm8zUoLt_AAtMXdRixjCqH8PQ4cAu9lMcCr1h1-yd6sbk8YKLfIfljzN3YttBlC0w2jg3EBK_HIVNvMqnZofe_LnDAQx2Zvh4D7cxEbgTAv_DPJlv6RgDJk_RveORy-7zd7CzZryNzaE4?session=0&fife" height="200" width="auto" /><br><br>1846-1847 - арх. Бенуа Николай Леонтьевич1869 - перестройкаПетергоф, Правленская ул., 11]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-14-0k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/40dh70s85o34k4lqqj9n62mq60/1647898434000/hr810OfV6NU0Y3tBCkZ7hEE9AhNd6pbX/08892943792363940611/5AIsG_vbi46fj2G7gXKcQHNOd6xRN975lJwNd2s_2KHb9gXANgeTpwWnEgYwm8zUoLt_AAtMXdRixjCqH8PQ4cAu9lMcCr1h1-yd6sbk8YKLfIfljzN3YttBlC0w2jg3EBK_HIVNvMqnZofe_LnDAQx2Zvh4D7cxEbgTAv_DPJlv6RgDJk_RveORy-7zd7CzZryNzaE4?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            29.9097532,59.8827821,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Фонтан "Пирамида"]]></name>
+        <description><![CDATA[<img src="https://doc-14-0k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/399t82df7935gugbd62pofikr4/1647898434000/hr810OfV6NU0Y3tBCkZ7hEE9AhNd6pbX/08892943792363940611/5AIsG_vb3fMo8Rlial6A-910z88c7L4eY_AhyrikMSlEeX3OFICRKc58Gq3alQdZo8gFL3GdUR_KSRyGX0E8niuL0KHZ697tolAc5Fi8fOprNU6THNLxSfhLbJQLiHmionWpNsyLauSMHsdj91HKO9kKYBIY3T71CZswYpG2umuaKgowtVhiS4lW7KKnrGuV81tV4SoU?session=0&fife" height="200" width="auto" /><br><br>Архитекторы: Николо Микетти 1721-1723гг. Михаил Григорьевич Земцов 1724г]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-14-0k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/399t82df7935gugbd62pofikr4/1647898434000/hr810OfV6NU0Y3tBCkZ7hEE9AhNd6pbX/08892943792363940611/5AIsG_vb3fMo8Rlial6A-910z88c7L4eY_AhyrikMSlEeX3OFICRKc58Gq3alQdZo8gFL3GdUR_KSRyGX0E8niuL0KHZ697tolAc5Fi8fOprNU6THNLxSfhLbJQLiHmionWpNsyLauSMHsdj91HKO9kKYBIY3T71CZswYpG2umuaKgowtVhiS4lW7KKnrGuV81tV4SoU?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            29.9221042,59.8841773,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Дом В. Струкова в Петергофе</name>
+        <description><![CDATA[<img src="https://doc-0o-0k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/g8o5g92q9cvclevd22o0isl6ds/1647898434000/hr810OfV6NU0Y3tBCkZ7hEE9AhNd6pbX/08892943792363940611/5AIsG_vZLyVkbxfTzZFJ0ugLHFQ3x-s25rXhVxP2eFOFiod4p2hnH2aIeZdMPmRDsYQGiTvK0UKP-hjzXsm-T9rXXFO6FMVq1k_RWI9kXMxHacbPk_OEZN-MZeQbOSJbxP2PCbAgZPM5pdce6JL5nfl0nQhHcC_J5LKsRAnGnzfWMV_lOZjxo7um8AKscoGulJEYKqU8?session=0&fife" height="200" width="auto" /><br><br>В 1827-1837 годах вдоль современной улицы Аврова был построен комплекс казарм Лейб-гвардии Уланского полка, который сохранился до сих пор. А наиболее живописным зданием среди офицерских домов считается дом поручика В. Струкова.<br><br>Дом поручика Струкова расположен на пересечении улицы Аврова и Санкт-Петербургского проспекта и является одним из первых частных каменных строений в Петергофе. Здание было возведено по проекту архитектора В.Ф. Федосеева в 1828 году. Оно представляет собой небольшую кубическую постройку, украшенную двумя портиками из четырех колонн дорического ордера и увенчанную бельведером. На треугольном фронтоне помещен фамильный герб дворян Струковых.]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0o-0k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/g8o5g92q9cvclevd22o0isl6ds/1647898434000/hr810OfV6NU0Y3tBCkZ7hEE9AhNd6pbX/08892943792363940611/5AIsG_vZLyVkbxfTzZFJ0ugLHFQ3x-s25rXhVxP2eFOFiod4p2hnH2aIeZdMPmRDsYQGiTvK0UKP-hjzXsm-T9rXXFO6FMVq1k_RWI9kXMxHacbPk_OEZN-MZeQbOSJbxP2PCbAgZPM5pdce6JL5nfl0nQhHcC_J5LKsRAnGnzfWMV_lOZjxo7um8AKscoGulJEYKqU8?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            29.9241664,59.8783267,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Царицын Павильон</name>
+        <description><![CDATA[<img src="https://doc-0g-0k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/lll4b49n9m4kita4f0vn6plld4/1647898434000/hr810OfV6NU0Y3tBCkZ7hEE9AhNd6pbX/08892943792363940611/5AIsG_vbtkHFPCqliSRJg_71drYuDeNdtL5gCktLyIrsfiKiyS3pU7n1s87d5plYpOcPOwtGu4gCtTV-xYMMcHaErbHeheT_8g_L7Ro18ge-Gb7V3D18pZ5L9mM6z7DYMlg3HXxILtj4WkfJ4MkwLPDpfPAoeAujAX3PA14RG1Di00jzYY0z7_pXmkQJCCBlWeHxi7QS1?session=0&fife" height="200" width="auto" /><br><br>Построен: 1842—1844 годы                 Архитектор: А. И. Штакеншнейдер                         Царицын павильон был построен для императрицы Александры Федоровны, жены императора Николая I, в модном «помпейском» стиле. Павильон воспроизводил облик древнеримских домов, найденных около Неаполя при раскопках погребённого под слоем вулканического пепла античного города Помпеи.                                                                         <br>Павильон расположен на Царицыном острове, посреди Ольгиного пруда и окружён утопающим в цветах садом с фонтанами, статуями и мраморными скамьями. Здесь, на уединённом острове, архитектор А. И. Штакеншнейдер и садовый мастер П. И. Эрлер попытались создать модель «рая», идеальный мир романтической мечты, подобный сказочным мирам островов южных морей, которые описывали путешественники. Именно об этом мечтала Александра Федоровна, давно желавшая побывать в Италии.                                                                         ]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0g-0k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/lll4b49n9m4kita4f0vn6plld4/1647898434000/hr810OfV6NU0Y3tBCkZ7hEE9AhNd6pbX/08892943792363940611/5AIsG_vbtkHFPCqliSRJg_71drYuDeNdtL5gCktLyIrsfiKiyS3pU7n1s87d5plYpOcPOwtGu4gCtTV-xYMMcHaErbHeheT_8g_L7Ro18ge-Gb7V3D18pZ5L9mM6z7DYMlg3HXxILtj4WkfJ4MkwLPDpfPAoeAujAX3PA14RG1Di00jzYY0z7_pXmkQJCCBlWeHxi7QS1?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            29.9116989,59.8767803,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Бельведер</name>
+        <description><![CDATA[<img src="https://doc-0g-0k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/9b5cjjso7a19qddhppqa38cbqs/1647898434000/hr810OfV6NU0Y3tBCkZ7hEE9AhNd6pbX/08892943792363940611/5AIsG_vbiuJTrRAAx8suXEbSKLCObvAY3KvCxVZqIG7S6X_qw8ZcgfI5CnwrDRe9l93_W49lQhCq78FVqp0wieceYrB1VSCRTpTDiUvB4a-RaNo0-BtL4-NruFSoohsiihjsGK_pJOL7UwUvyEZYjpJunEXv3hAWCrifjL8Mu8BJPFqfoZK8c6eyEDFMGvkQcS_2N8uk?session=0&fife" height="200" width="auto" /><br><br>Архитектор: А.И. Штакеншнейдер<br>Дата создания: 1852—1856 гг.<br>Двухэтажный дворцовый павильон, находится в самой южной части парка, на Бабигонском холме. Предназначался для пикников императорской фамилии.<br>Здание поднято на массивном стилобате из монолитных гранитных блоков. На площадку стилобата с восточного фасада ведёт двухмаршевая гранитная лестница, по сторонам которой ранее стояло шесть мраморных скульптур. С западной стороны тоже устроен вход во дворец с небольшим гранитным крыльцом и четырьмя постаментами из красного гранита. С галереи открываются перспективы окрестностей и Финского залива, видны Кронштадт и Санкт-Петербург.<br>Первый этаж Бельведера — подиум. Второй этаж решён наподобие античного периптера, для которого первый этаж служит подножием. 28 гранитных колонн с беломраморными базами и ионическими капителями впечатляют с первого взгляда. <br>По сторонам здания в 1856 г. были установлены на высоких постаментах две группы П. К. Клодта «Укротители коней». Эту композицию зодчий дополнил не свойственной античности террасой с декоративными вазами.<br>После Октябрьской революции во дворце был организован дом отдыха. Во время Великой Отечественной войны дворец серьёзно пострадал. В 1953—1956 годах были проведены реставрационные работы и вновь открыт дом отдыха. Сейчас здесь находится гостиничный комплекс.]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0g-0k-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/9b5cjjso7a19qddhppqa38cbqs/1647898434000/hr810OfV6NU0Y3tBCkZ7hEE9AhNd6pbX/08892943792363940611/5AIsG_vbiuJTrRAAx8suXEbSKLCObvAY3KvCxVZqIG7S6X_qw8ZcgfI5CnwrDRe9l93_W49lQhCq78FVqp0wieceYrB1VSCRTpTDiUvB4a-RaNo0-BtL4-NruFSoohsiihjsGK_pJOL7UwUvyEZYjpJunEXv3hAWCrifjL8Mu8BJPFqfoZK8c6eyEDFMGvkQcS_2N8uk?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            29.8798552,59.8480897,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Слой без названия</name>
+    </Folder>
+  </Document>
+</kml>

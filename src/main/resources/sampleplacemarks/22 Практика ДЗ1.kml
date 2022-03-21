@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Практика ДЗ1</name>
+    <description/>
+    <Style id="icon-1899-006064-normal">
+      <IconStyle>
+        <color>ff646000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-006064-highlight">
+      <IconStyle>
+        <color>ff646000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-006064">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-006064-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-006064-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-1A237E-normal">
+      <IconStyle>
+        <color>ff7e231a</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-1A237E-highlight">
+      <IconStyle>
+        <color>ff7e231a</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-1A237E">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-1A237E-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-1A237E-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-558B2F-normal">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-558B2F-highlight">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-558B2F">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-558B2F-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-558B2F-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-673AB7-normal">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-673AB7-highlight">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-673AB7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-673AB7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-673AB7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FFEA00-normal">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FFEA00-highlight">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FFEA00">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FFEA00-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FFEA00-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Слой без названия</name>
+      <Placemark>
+        <name>Смольный пр-д, 1</name>
+        <description><![CDATA[<img src="https://doc-0o-84-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/rvt9bbbslivjgqbhitfupdhqgo/1647898508750/VtJLnTqueAhi6v2p00yHox8C1yWR-amh/08892943792363940611/5AIsG_vYfysMIioNJbVxtlLYPrVp9aZGCMsh6feUDjSpalyGM05PdbLJykfGbO0Ri7en0Z0GWGvlOkjoup2YCfpbmEmURTdfJzC1LnV5CtKD0-r4cjmfhNeW216jKuHbRb2GErNYEfqK1VQAV2ni5c4WGDVcH3o9Pfyp9oSpoBFY4WiD20nawKZlI_edln5qsa8gLm9w?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0o-84-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/rvt9bbbslivjgqbhitfupdhqgo/1647898508750/VtJLnTqueAhi6v2p00yHox8C1yWR-amh/08892943792363940611/5AIsG_vYfysMIioNJbVxtlLYPrVp9aZGCMsh6feUDjSpalyGM05PdbLJykfGbO0Ri7en0Z0GWGvlOkjoup2YCfpbmEmURTdfJzC1LnV5CtKD0-r4cjmfhNeW216jKuHbRb2GErNYEfqK1VQAV2ni5c4WGDVcH3o9Pfyp9oSpoBFY4WiD20nawKZlI_edln5qsa8gLm9w?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3965694,59.9462513,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Конногвардейский б-р, 2</name>
+        <description><![CDATA[<img src="https://doc-0s-84-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/n83l11ei3t468k6nvqenirae8g/1647898508750/VtJLnTqueAhi6v2p00yHox8C1yWR-amh/08892943792363940611/5AIsG_vat4OnFsTNa_KgjBH7ZV1lO04gJIfE1vdKlh0ObgVn_0aVjuVi9C4JO9wvv8HyWbq_bJET-ArMjwrZCMupN5zRvDV8156IG86Msm7w-E52PFtZQRF8jSPC09XuGzP6FYvM2CQrmgoDpR9l3rpgNUYr5Ka0e4yOj4Z4RTs6sWtK9G5kZK91OtbiSXbRfhEWfHYG7?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1899-1A237E</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0s-84-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/n83l11ei3t468k6nvqenirae8g/1647898508750/VtJLnTqueAhi6v2p00yHox8C1yWR-amh/08892943792363940611/5AIsG_vat4OnFsTNa_KgjBH7ZV1lO04gJIfE1vdKlh0ObgVn_0aVjuVi9C4JO9wvv8HyWbq_bJET-ArMjwrZCMupN5zRvDV8156IG86Msm7w-E52PFtZQRF8jSPC09XuGzP6FYvM2CQrmgoDpR9l3rpgNUYr5Ka0e4yOj4Z4RTs6sWtK9G5kZK91OtbiSXbRfhEWfHYG7?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3017818,59.9344887,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Казанская пл., 2</name>
+        <description><![CDATA[<img src="https://doc-0o-84-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/0tnb0brucrekoqqkd9lar6ll1s/1647898508750/VtJLnTqueAhi6v2p00yHox8C1yWR-amh/08892943792363940611/5AIsG_vZi9gmO2WssH28l-yuRZA9okYcze-4obkERffMefXMk3h5jIFVC7j3Fa6xnkYsYF0KvUTIBYc0N6cp2dK9hOs9wiRWmO51q2H8FIMLQhOKUZpAK0_4ieNIgsbRqjl26Vv52umcsrPKycU15emkN_aW0Zcc0fQscN7mlXxRAc6yUoDz2VUkdZH_h7NUVNkYFeiY?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1899-006064</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0o-84-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/0tnb0brucrekoqqkd9lar6ll1s/1647898508750/VtJLnTqueAhi6v2p00yHox8C1yWR-amh/08892943792363940611/5AIsG_vZi9gmO2WssH28l-yuRZA9okYcze-4obkERffMefXMk3h5jIFVC7j3Fa6xnkYsYF0KvUTIBYc0N6cp2dK9hOs9wiRWmO51q2H8FIMLQhOKUZpAK0_4ieNIgsbRqjl26Vv52umcsrPKycU15emkN_aW0Zcc0fQscN7mlXxRAc6yUoDz2VUkdZH_h7NUVNkYFeiY?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3231239,59.9337374,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Никольская пл., 1</name>
+        <description><![CDATA[<img src="https://doc-14-84-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/vn16p4j2gqgkoe4u4ndrnd7r1o/1647898508750/VtJLnTqueAhi6v2p00yHox8C1yWR-amh/08892943792363940611/5AIsG_vZtn33vyrLuZPmJHA97xAKjqjVCMbPDksNkisTibiyDsIyNzFvcc21H8FEYL0N79151u6JIjZ4KJ313I9o51UZfxinaRJpGeJzMYxjHONyQSp9beEZsaPKJHTy2tZuX3V7U03czSYc06TK9w7WYmxximVw1N70EjDcvW71aIbj9nWY9uCqX0wC9yEXUJT1OMydX?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1899-FFEA00</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-14-84-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/vn16p4j2gqgkoe4u4ndrnd7r1o/1647898508750/VtJLnTqueAhi6v2p00yHox8C1yWR-amh/08892943792363940611/5AIsG_vZtn33vyrLuZPmJHA97xAKjqjVCMbPDksNkisTibiyDsIyNzFvcc21H8FEYL0N79151u6JIjZ4KJ313I9o51UZfxinaRJpGeJzMYxjHONyQSp9beEZsaPKJHTy2tZuX3V7U03czSYc06TK9w7WYmxximVw1N70EjDcvW71aIbj9nWY9uCqX0wC9yEXUJT1OMydX?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3017515,59.9225629,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Адмиралтейский пр., 1</name>
+        <description><![CDATA[<img src="https://doc-0s-84-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/9ufs2hnot531pio3sie3oql1gg/1647898508750/VtJLnTqueAhi6v2p00yHox8C1yWR-amh/08892943792363940611/5AIsG_vZ_qWBbMzmv0lXLZWGVb637U0jfMdS5JY0LlydHewCbYnhmaAURzhUiaEGoR2n92ixnTohIdILrtIrZo45DGGfOEPtznP1mAqi5IdmXZjCwpMyLdoIDMSXkfKF9UHSknj-5H1gN33xbDjNVgsFXA7wK2Wm0HzvpdaLWR9Ec9-EXI421Xn1txRWQjTRtc_IbYlo?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1899-558B2F</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0s-84-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/9ufs2hnot531pio3sie3oql1gg/1647898508750/VtJLnTqueAhi6v2p00yHox8C1yWR-amh/08892943792363940611/5AIsG_vZ_qWBbMzmv0lXLZWGVb637U0jfMdS5JY0LlydHewCbYnhmaAURzhUiaEGoR2n92ixnTohIdILrtIrZo45DGGfOEPtznP1mAqi5IdmXZjCwpMyLdoIDMSXkfKF9UHSknj-5H1gN33xbDjNVgsFXA7wK2Wm0HzvpdaLWR9Ec9-EXI421Xn1txRWQjTRtc_IbYlo?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3115141,59.9370112,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Биржевая пл., 4</name>
+        <description><![CDATA[<img src="https://doc-14-84-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/1apf6jebqas2qg573jkbvacsi0/1647898508750/VtJLnTqueAhi6v2p00yHox8C1yWR-amh/08892943792363940611/5AIsG_vYvJPGEsEte7E96ym4WvOOCGtISYmVQrQOU3ICwOqQbwZdNkCSb8vzEwUh4mpkTpfqNFPjrmZFLZgbFGt_5r8JjbBcm2B_fndDJluncrotV2Y_oi6Z2Nd2BVA1UCHY7YYsRqaIcqqIFbG931c-YXols8RzakjgDxbie19a6dY4ES6LcP80VOgBFBnTOt79EKsP7?session=0&fife" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-14-84-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/1apf6jebqas2qg573jkbvacsi0/1647898508750/VtJLnTqueAhi6v2p00yHox8C1yWR-amh/08892943792363940611/5AIsG_vYvJPGEsEte7E96ym4WvOOCGtISYmVQrQOU3ICwOqQbwZdNkCSb8vzEwUh4mpkTpfqNFPjrmZFLZgbFGt_5r8JjbBcm2B_fndDJluncrotV2Y_oi6Z2Nd2BVA1UCHY7YYsRqaIcqqIFbG931c-YXols8RzakjgDxbie19a6dY4ES6LcP80VOgBFBnTOt79EKsP7?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.304591,59.9434769,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

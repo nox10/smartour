@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Античный маршрут</name>
+    <description/>
+    <Style id="icon-1899-F57C00-normal">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-F57C00-highlight">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-F57C00">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-F57C00-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-F57C00-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Античность</name>
+      <Placemark>
+        <name>Михайловский дворец</name>
+        <description><![CDATA[<img src="https://doc-0o-00-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/vrhd4jca6ur3vegi3l4s6e1ra0/1647898434000/WmjOTZMh43Xz_Iu_8SPNY1oc0g86DgfZ/08892943792363940611/5AIsG_vZReRxQOJaGDGxDb07NV9QrrBkiKjLXTX0esHfiFl80tnW9UkOPB9McAui0sVUH-kSGjtiWoU26-_6KMh5FwhZYPES2v9dHex-rHrr7JVmqI3i93EfdBtVPyU-_zRPRRJg6qiUXNT0PowOcQdaZqP7W07Kwk1WjSVm71rcndncBNki7gxZdYuWVhlDaSBOleGQ?session=0&fife" height="200" width="auto" /><br><br>1819-1825 - арх. Росси Карл Иванович<br><br> Михайловский дворец является композиционным центром в ансамбле Михайловской площади (ныне пл. Искусств).<br> Усадебный комплекс дворца сооружен в 1819-1825 гг. для великого князя Михаила Павловича. Росси возвел усадьбу в традиционной для русской архитектуры планировке: главный корпус и служебные флигели образуют единое целое с парадным двором, отделенным от улицы оградой.<br> Позади дворца до Мойки простирается обширный сад. От Инженерного замка усадьбу отделила Садовая ул., продолженная до Марсова поля.<br> Главному фасаду здания архитектор придал подчеркнуто парадный вид. Центральную часть отмечает коринфский портик, увенчанный фронтоном. Колоннада поднята на рустованную аркаду, к которой с боков ведут два гранитных въезда, а спереди поднимается гранитная лестница. Коринфская колоннада в три четверти украшает и крылья здания, завершенные ризалитами. Вдоль всей стены идет пояс декоративных рельефов.<br> По сторонам главного корпуса поставлены боковые двухэтажные флигеля, связанные между собой высокой чугунной оградой. В центре ограды расположены тройные ворота с четырехгранными пилонами.<br> Садовый фасад оформлен как широко развернутая двенадцати колонная лоджия, опирающаяся на высокую рустованную аркаду. К зданию ведет лестница, начинающаяся на открытой садовой террасе.]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0o-00-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/vrhd4jca6ur3vegi3l4s6e1ra0/1647898434000/WmjOTZMh43Xz_Iu_8SPNY1oc0g86DgfZ/08892943792363940611/5AIsG_vZReRxQOJaGDGxDb07NV9QrrBkiKjLXTX0esHfiFl80tnW9UkOPB9McAui0sVUH-kSGjtiWoU26-_6KMh5FwhZYPES2v9dHex-rHrr7JVmqI3i93EfdBtVPyU-_zRPRRJg6qiUXNT0PowOcQdaZqP7W07Kwk1WjSVm71rcndncBNki7gxZdYuWVhlDaSBOleGQ?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3322771,59.9386284,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Нептун и Флора во внутреннем дворике Строгановского дворца</name>
+        <description><![CDATA[<img src="https://doc-04-00-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/2005jdusd4e8d1o6qt8oj5b7t0/1647898434000/WmjOTZMh43Xz_Iu_8SPNY1oc0g86DgfZ/08892943792363940611/5AIsG_vbFac3HJxRq__nHiI_gTAcm8p1LHSAJCj4wItGbNNBFiymIBtiL6rJ9cCPIE2CgHHZJtW1avSSbKylQC6aQO0v_GoRpv01yg4VpLgts3WNt1LHcNND8H84qhp1jxv-jE2wIUIaZ4fWYbM0YvizVvnu9YBGxJ1vdSUgkiqfrrbOzyn1FqbbkwRexy6_gtZso5Ozo?session=0&fife" height="200" width="auto" /><br><br>Нептун<br> Бог морей предстает здесь в не совсем традиционном виде. На нем корона, но нет постоянного атрибута - трезубца. Обычно Нептун суров и грозен. Он колеблет морское дно ударами трезубца, вызывая бури. Здесь же он выглядит вполне мирным и даже грустным. Его облику, пожалуй, соответствуют слова Пушкина: «Седой Нептун, земли союзник»<br> По -видимому, статуя Нептуна, а также парная ей статуя Флоры украшали во второй половине XVIII в. Строгановскую дачу у Черной речки. Сегодня эти скульптуры оказались под тентом Летнего кафе, устроенного во дворце старейшего в Петербурге Строгановского дворца.<br><br>Флора<br> Античный оригинал, послуживший «прототипом» для петербургской Флоры, был найден в римском палаццо Фарнезе.<br> Чаще всего римская богиня юности и весны предстает с лавровым или цветочным венком, иногда с корзиной цветов.<br><br>Нептун была создан неизвестным русским скульптор во второй половине XVIII в. Скульптура Флоры - копия с римского оригинала III в. до н.э., выполненная в России неизвестным скульптором во второй половине XVIII в.]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-04-00-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/2005jdusd4e8d1o6qt8oj5b7t0/1647898434000/WmjOTZMh43Xz_Iu_8SPNY1oc0g86DgfZ/08892943792363940611/5AIsG_vbFac3HJxRq__nHiI_gTAcm8p1LHSAJCj4wItGbNNBFiymIBtiL6rJ9cCPIE2CgHHZJtW1avSSbKylQC6aQO0v_GoRpv01yg4VpLgts3WNt1LHcNND8H84qhp1jxv-jE2wIUIaZ4fWYbM0YvizVvnu9YBGxJ1vdSUgkiqfrrbOzyn1FqbbkwRexy6_gtZso5Ozo?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3200888,59.9356911,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Таврический дворец</name>
+        <description><![CDATA[<img src="https://doc-0g-00-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/basb042a0jj1jcvj8oovuuqsvk/1647898434000/WmjOTZMh43Xz_Iu_8SPNY1oc0g86DgfZ/08892943792363940611/5AIsG_vatlRyyqkQu30hjdv9YFWHcfrM8vjOtB9JtUtopT77b7ocLpykD79ZMTONBFkl-GBCh7RCj_xsKw18BD1NvTqqnVwDObUEQuCHCueULDEKj8_BqguHZ7TZI1Js1Xj0i7Z2X1ynVRAVyBiWzHQxamTdnpPrtjHgUjRUs17HVNoR-XPlOiVOnKY98v515n3GZ_30?session=0&fife" height="200" width="auto" /><br><br>Архитектор И. Е. Старов, 1783 – 1789 гг.<br><br> Таврический дворец, который Державин охарактеризовал как простое, строгое и величественное здание, стал одним из первых сооружений в стиле классицизм. Таврические колонны в Питере — это “четырежды восемнадцать” двойных колоннады Большой галереи. Колонны в Санкт-Петербурге в Таврическом дворце имели ионические капители и демонстрировали один из первых примеров обращения к эллинскому наследию в России. <br> Таврический дворец стал примером для подражания в столичном и провинциальном строительстве. Проект дворца высокого оценивал и Наполеон, стремившийся внедрить во французскую архитектуру величественность и торжественность. О нем писали французские архитекторы Персье и Фонтен в трактате “Лучшие королевские дворцы мира”.]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0g-00-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/basb042a0jj1jcvj8oovuuqsvk/1647898434000/WmjOTZMh43Xz_Iu_8SPNY1oc0g86DgfZ/08892943792363940611/5AIsG_vatlRyyqkQu30hjdv9YFWHcfrM8vjOtB9JtUtopT77b7ocLpykD79ZMTONBFkl-GBCh7RCj_xsKw18BD1NvTqqnVwDObUEQuCHCueULDEKj8_BqguHZ7TZI1Js1Xj0i7Z2X1ynVRAVyBiWzHQxamTdnpPrtjHgUjRUs17HVNoR-XPlOiVOnKY98v515n3GZ_30?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3758841,59.9478564,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Горный Университет</name>
+        <description><![CDATA[<img src="https://doc-14-00-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/l2c0361ed3sem2kactic1m9eqk/1647898434000/WmjOTZMh43Xz_Iu_8SPNY1oc0g86DgfZ/08892943792363940611/5AIsG_vZChsvUv1lQ-nm_h8hDM-uVR3ceCbFkNdE0R5zj7g_mwkfd_O0fG1jbJc8Csr5mDnvDsUbanzSwoTPPkuJGXSPXtqWEmvqZzJpWvFqlRu1R-PflnFeZqx747pe67Gl7uN9bs9AGpKzXTho1R7VzXu8ljfmfomvndRGTYQjN-g67GS-ofMtsWCQaVlepLYfJlLer?session=0&fife" height="200" width="auto" /><br><br>1806-1811 - арх. Воронихин Андрей Никифорович<br><br> Горный институт — первое в России и второе в мире высшее техническое учебное заведение, созданное на базе основанного в 1773 году Горного училища. Первоначально училище размещалось в двух выкупленных домах на берегу Невы на Васильевском острове, потом выкупили еще два дома. Архитектор А. Н. Воронихин возвел здание, объединив старые училищные дома в единый ансамбль.<br> Комплекс зданий — целый квартал возле Финского залива — объединяет пять корпусов, главный фасад с двенадцати колонным дорическим портиком обращен к Неве. Парадный вход венчает треугольный фронтон с фризом, раньше его украшал двуглавый орел, в советское время — серп и молот, а сейчас остался только один фриз.]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-14-00-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/l2c0361ed3sem2kactic1m9eqk/1647898434000/WmjOTZMh43Xz_Iu_8SPNY1oc0g86DgfZ/08892943792363940611/5AIsG_vZChsvUv1lQ-nm_h8hDM-uVR3ceCbFkNdE0R5zj7g_mwkfd_O0fG1jbJc8Csr5mDnvDsUbanzSwoTPPkuJGXSPXtqWEmvqZzJpWvFqlRu1R-PflnFeZqx747pe67Gl7uN9bs9AGpKzXTho1R7VzXu8ljfmfomvndRGTYQjN-g67GS-ofMtsWCQaVlepLYfJlLer?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.2677342,59.9304326,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Аллегорические скульптуры на фасаде Мраморного дворца
+</name>
+        <description><![CDATA[<img src="https://doc-10-00-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/q7165cc4ad1abghhu6a1acfcmc/1647898434000/WmjOTZMh43Xz_Iu_8SPNY1oc0g86DgfZ/08892943792363940611/5AIsG_vbZWgpZCEGz10GOM-p8YUle-oKZid7Pvi07vzTW8ah452U9a_rni3opmMTnn4DgPlYcB4BSbXXiRayvC80QnDftmRheT4xap8xaiVjkG8vsRqQ7cJkfg6zLL0RXd8WNhtvvVGRlOUd0ZzRLXJKF-9zJcm5am-1Cq3zzZl-dUAgrOCLrb4QExHm04oJEn2Q-vNg?session=0&fife" height="200" width="auto" /><br><br>Скульптор Ф.И. Шубин<br><br> До недавнего времени считалось, что две женские фигуры по сторонам часовой башни, венчающей фасад дворца, являются изображениями богинь Помоны и Флоры. По мнению искусствоведа А.Е. Ухналева, здесь представлены аллегории: одна из скульптур (южная сторона башни), с рогом изобилия, символизирует Щедрость; фигура у северной стороны башни держит в руках ключ и печать, которые весьма трудно рассмотреть снизу, — это атрибуты Верности. Действительно, щедрость была свойственна Екатерине II, построившей Мраморный дворец для князя Г.Г. Орлова, сохранявшего верность императрице до конца своих дней.<br><br><img src="https://doc-0g-00-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/fe82lngueu5ium1leb4kccracg/1647898434000/WmjOTZMh43Xz_Iu_8SPNY1oc0g86DgfZ/08892943792363940611/5AIsG_va32lCNGpKY9WlUP7FRWLp9utedHb0UzNZmp47edGbQvqt4331UV_M_ry80svXgCBFHzO2iDLoz1d6PhaMbKISKc-070iIlrZNckGDWCMFwJRj2SCYPDLvgNI8TapZRgzVMqRKDhSlFeV2VMbxOIoq6zyT_bzGJYSKk-39I0CyIS84ERo4EhSv1rq84M8gKJn4?session=0&fife" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-10-00-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/q7165cc4ad1abghhu6a1acfcmc/1647898434000/WmjOTZMh43Xz_Iu_8SPNY1oc0g86DgfZ/08892943792363940611/5AIsG_vbZWgpZCEGz10GOM-p8YUle-oKZid7Pvi07vzTW8ah452U9a_rni3opmMTnn4DgPlYcB4BSbXXiRayvC80QnDftmRheT4xap8xaiVjkG8vsRqQ7cJkfg6zLL0RXd8WNhtvvVGRlOUd0ZzRLXJKF-9zJcm5am-1Cq3zzZl-dUAgrOCLrb4QExHm04oJEn2Q-vNg?session=0&fife https://doc-0g-00-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/fe82lngueu5ium1leb4kccracg/1647898434000/WmjOTZMh43Xz_Iu_8SPNY1oc0g86DgfZ/08892943792363940611/5AIsG_va32lCNGpKY9WlUP7FRWLp9utedHb0UzNZmp47edGbQvqt4331UV_M_ry80svXgCBFHzO2iDLoz1d6PhaMbKISKc-070iIlrZNckGDWCMFwJRj2SCYPDLvgNI8TapZRgzVMqRKDhSlFeV2VMbxOIoq6zyT_bzGJYSKk-39I0CyIS84ERo4EhSv1rq84M8gKJn4?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3266928,59.9451172,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Смольный Институт
+</name>
+        <description><![CDATA[<img src="https://doc-10-00-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/bv7d8iqitkn5ts6cgvhtnd930c/1647898434000/WmjOTZMh43Xz_Iu_8SPNY1oc0g86DgfZ/08892943792363940611/5AIsG_vYWvSVpC6WQ3NmlODkrG-h1NApRSN3WstgjPgJcppnP2X4Xq12lqCujdCpMu_NZytrUo6aLQAt6F9kDjq8Utna_-rshwuledQeJeDrD_YF8mG2v198vuBQxQa-S21v74CyZatI2K9qFedZxMM0DclJZtXChppPSPvg_qqSd2_Y2PsYcWYg9HB_rEIZ80DRWGiMH?session=0&fife" height="200" width="auto" /><br><br>Здание Смольного института благородных девиц было возведено в 1806—1808 годах в Санкт-Петербурге по проекту архитектора итальянского происхождения Джакомо Кваренги.<br><br>Работы по проектированию и строительству существующего здания были начаты в самом конце царствования Екатерины II. В плане архитектуры Смольный продолжает цепочку общественных зданий 1790-х годов, в которых Кваренги варьирует одни и те же палладианские мотивы. Из сооружений этой группы Смольный строился одновременно с Екатерининским институтом и после Ассигнационного банка.<br><br>Центральная часть здания акцентирована ионическим портиком, увенчанным фронтоном. Боковые крылья ограничивают парадный двор, превращенный в сквер.<br><br>До 1917 года в здании, построенном Кваренги, располагался Смольный институт благородных девиц — первое в России женское учебное заведение, положившее начало женскому образованию. ]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-10-00-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/bv7d8iqitkn5ts6cgvhtnd930c/1647898434000/WmjOTZMh43Xz_Iu_8SPNY1oc0g86DgfZ/08892943792363940611/5AIsG_vYWvSVpC6WQ3NmlODkrG-h1NApRSN3WstgjPgJcppnP2X4Xq12lqCujdCpMu_NZytrUo6aLQAt6F9kDjq8Utna_-rshwuledQeJeDrD_YF8mG2v198vuBQxQa-S21v74CyZatI2K9qFedZxMM0DclJZtXChppPSPvg_qqSd2_Y2PsYcWYg9HB_rEIZ80DRWGiMH?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3965706,59.946251,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Статуи на фасаде Торгового дома купцов Елисеевых</name>
+        <description><![CDATA[<img src="https://doc-14-00-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/01o3b3f00jg50hu8d7v7t9vun4/1647898434000/WmjOTZMh43Xz_Iu_8SPNY1oc0g86DgfZ/08892943792363940611/5AIsG_vbuU1UOyJpStlMRbasZksY18eV5vNd4X-NQE5rj9nG_StUQ52P59-BZLIykC2ZPNbV7fgiwzG0NRbHBCT0WotNKoDNen3Vkp3k0Q3T7lFH5UWvXKH8DWEwnxtp5_I4iEKKJ5i_hbKNFLu5N8Dm9YtN-hul2rPHOZyT6CmQ-NJ5s-j4nzzyhi1A0WKt0NRaLLd3N?session=0&fife" height="200" width="auto" /><br><br>Дом был построен в 1902—1903 годах архитектором Гавриилом Васильевичем Барановским<br>Стиль постройки- модерн с элементами эклектики. Тем не менее, <br>фасад дома украшен классическими статуями греческих богинь и богов, символизирующих Торговлю (Меркурий), Искусство, Науку и Промышленность (Вулкан). Скульптурное оформление демонстрировало основы современной цивилизации. Каждая тема представлена мужской или женской фигурой с сидячим мальчиком и соответствующими атрибутами.<br>У ног бога торговли Меркурия стоит якорь — символ покорения морских путей. А в руках Вулкана, олицетворяющего промышленность, символ судостроения — корабль. <br>Монументы выполнил знаменитый скульптор А. Адамсон.<br>Это первые реально большие скульптуры в Санкт-Петербурге того времени, которые являются частью здания.<br><br><img src="https://doc-0o-00-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/mhejthvpnhprflmt2ngip21e7k/1647898434000/WmjOTZMh43Xz_Iu_8SPNY1oc0g86DgfZ/08892943792363940611/5AIsG_vZ5bOMfsLHIzrpBdHI0vmSN0gFMVmOLcEJnOIWt0Hlb69oxtuk5ZTI0nNZzSLh6LE-rA0b9o-xvbhOo6MpfVNjf-Vw4cDt4xLDM8yA-eFSQ7waFYVLEMbU-nJ8ZlvgKZeTabkleGWpgTjIMd3A0shTE9KE7UFiiFsCeEqRaAgigbVFtuykpRBLftW5Z1amrefM?session=0&fife" height="200" width="auto" /><br><br><img src="https://doc-0c-00-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/h44o7aeftm4rng271iiel0q630/1647898434000/WmjOTZMh43Xz_Iu_8SPNY1oc0g86DgfZ/08892943792363940611/5AIsG_vZWLr-CeZSK7ED5Zhd2ZNDiylVyhkSNM9ba2OJDFGlO9vobQcFyLbnRliklbwQCtm-pB1iTu8-tCqqHSEjdFeE-fE_CHFqiQ9PKjXiJj87vmydo7r7CrYXzOyQJiRkEUelUYZKI_ZfTGBx5K002r3wHp3Bi8UMnU-0zvzTuGPOqyr0pWU_OuqO5cyUcxNcZ494?session=0&fife" height="200" width="auto" /><br><br><img src="https://doc-14-00-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/7l5ignj585mhogh2ua59klpj18/1647898434000/WmjOTZMh43Xz_Iu_8SPNY1oc0g86DgfZ/08892943792363940611/5AIsG_vYGTrMu78jpoeYQO5KtgFZjhRjSLr-FfRL7PwjnR6hGpBHpTVoquwiQymv8iqOryFrNQvhIuecO5oHNcTLfVUza2RBDso6J6rxTjFkKeH2fuT2RlMeOHh8kJ3H_d0lgVowWiXkces6x5Y7vtBU3EdykH9qCBDBRh4BeCUkzV7DkujG5GOMgmImK7OjZ83Aobt8?session=0&fife" height="200" width="auto" /><br><br><img src="https://doc-04-00-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/mdn5saupe92gt75pgmhs6s95vk/1647898434000/WmjOTZMh43Xz_Iu_8SPNY1oc0g86DgfZ/08892943792363940611/5AIsG_vaM2UR_dD6uOjJEVtLF4nOPdjW_krSAr9vnaP_GervKUmSszk4HZenIIQ4_iLCYF2p_YaWiCEGP3QHP_sOugNwcFdK7S7PUvvg1Ff6jiIgzDKi8BC_bmdvBvprsZxNbO65jNfiqKHOGLVT3QNV4HtdWaiu3kGLgpa3UtySi2Bv_JAXABiFsi8NbeRSr-ljfTr4?session=0&fife" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-14-00-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/01o3b3f00jg50hu8d7v7t9vun4/1647898434000/WmjOTZMh43Xz_Iu_8SPNY1oc0g86DgfZ/08892943792363940611/5AIsG_vbuU1UOyJpStlMRbasZksY18eV5vNd4X-NQE5rj9nG_StUQ52P59-BZLIykC2ZPNbV7fgiwzG0NRbHBCT0WotNKoDNen3Vkp3k0Q3T7lFH5UWvXKH8DWEwnxtp5_I4iEKKJ5i_hbKNFLu5N8Dm9YtN-hul2rPHOZyT6CmQ-NJ5s-j4nzzyhi1A0WKt0NRaLLd3N?session=0&fife https://doc-0o-00-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/mhejthvpnhprflmt2ngip21e7k/1647898434000/WmjOTZMh43Xz_Iu_8SPNY1oc0g86DgfZ/08892943792363940611/5AIsG_vZ5bOMfsLHIzrpBdHI0vmSN0gFMVmOLcEJnOIWt0Hlb69oxtuk5ZTI0nNZzSLh6LE-rA0b9o-xvbhOo6MpfVNjf-Vw4cDt4xLDM8yA-eFSQ7waFYVLEMbU-nJ8ZlvgKZeTabkleGWpgTjIMd3A0shTE9KE7UFiiFsCeEqRaAgigbVFtuykpRBLftW5Z1amrefM?session=0&fife https://doc-0c-00-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/h44o7aeftm4rng271iiel0q630/1647898434000/WmjOTZMh43Xz_Iu_8SPNY1oc0g86DgfZ/08892943792363940611/5AIsG_vZWLr-CeZSK7ED5Zhd2ZNDiylVyhkSNM9ba2OJDFGlO9vobQcFyLbnRliklbwQCtm-pB1iTu8-tCqqHSEjdFeE-fE_CHFqiQ9PKjXiJj87vmydo7r7CrYXzOyQJiRkEUelUYZKI_ZfTGBx5K002r3wHp3Bi8UMnU-0zvzTuGPOqyr0pWU_OuqO5cyUcxNcZ494?session=0&fife https://doc-14-00-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/7l5ignj585mhogh2ua59klpj18/1647898434000/WmjOTZMh43Xz_Iu_8SPNY1oc0g86DgfZ/08892943792363940611/5AIsG_vYGTrMu78jpoeYQO5KtgFZjhRjSLr-FfRL7PwjnR6hGpBHpTVoquwiQymv8iqOryFrNQvhIuecO5oHNcTLfVUza2RBDso6J6rxTjFkKeH2fuT2RlMeOHh8kJ3H_d0lgVowWiXkces6x5Y7vtBU3EdykH9qCBDBRh4BeCUkzV7DkujG5GOMgmImK7OjZ83Aobt8?session=0&fife https://doc-04-00-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/mdn5saupe92gt75pgmhs6s95vk/1647898434000/WmjOTZMh43Xz_Iu_8SPNY1oc0g86DgfZ/08892943792363940611/5AIsG_vaM2UR_dD6uOjJEVtLF4nOPdjW_krSAr9vnaP_GervKUmSszk4HZenIIQ4_iLCYF2p_YaWiCEGP3QHP_sOugNwcFdK7S7PUvvg1Ff6jiIgzDKi8BC_bmdvBvprsZxNbO65jNfiqKHOGLVT3QNV4HtdWaiu3kGLgpa3UtySi2Bv_JAXABiFsi8NbeRSr-ljfTr4?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3376703,59.9341978,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Амур и Психея</name>
+        <description><![CDATA[<img src="https://doc-0o-00-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/ct59uqcdmjjfrj268dgnktt1ao/1647898434000/WmjOTZMh43Xz_Iu_8SPNY1oc0g86DgfZ/08892943792363940611/5AIsG_vaG_Bq6vWk61WVYYoVlfev7wDEbY_dcloYNk09yqa4pgt5__8nOb3Ehd-3J8LjuJGatNuDAO9OEx-VIZRuPv7tQmidy0mc83PQscFbJzZowEaRQcFn7V_DJ2I3LsVDO6_hfWc6JTwZg-p-li87dORQMGExTdJz-bGW5JY5X7STSjGAkxSKm34tXqZ9qyorXFMA?session=0&fife" height="200" width="auto" /><br><br>Скульптурная группа «Амур и Психея», как считают исследователи, была создана в мастерской итальянского скульптора Джана Лоренцо Бернини его учеником Джулио Картари. В 1718 году Юрий Иванович Кологривов приобретает это скульптуру в Италии для украшения Летнего сада.<br>В 2009 году оригинал скульптуры «Амур и Психея» был перенесён на хранение в Михайловский замок, а на её месте была установлена копия, изготовленная из натуральной мраморной крошки (80%) методом литья на основе полиэфирной смолы.<br>Композиция воспроизводит грустный конец истории двух римских божеств: Психее запретили смотреть на своего возлюбленного, когда он прилетал к ней по ночам, но та решилась нарушить табу и взяла лампу. Масло со светильника упало на тело Амура, он испугался и улетел.]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0o-00-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/ct59uqcdmjjfrj268dgnktt1ao/1647898434000/WmjOTZMh43Xz_Iu_8SPNY1oc0g86DgfZ/08892943792363940611/5AIsG_vaG_Bq6vWk61WVYYoVlfev7wDEbY_dcloYNk09yqa4pgt5__8nOb3Ehd-3J8LjuJGatNuDAO9OEx-VIZRuPv7tQmidy0mc83PQscFbJzZowEaRQcFn7V_DJ2I3LsVDO6_hfWc6JTwZg-p-li87dORQMGExTdJz-bGW5JY5X7STSjGAkxSKm34tXqZ9qyorXFMA?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3340397,59.944723,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Прометей</name>
+        <description><![CDATA[<img src="https://doc-04-00-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/5lhv43ltg2m1rjj8rsk7tfl138/1647898434000/WmjOTZMh43Xz_Iu_8SPNY1oc0g86DgfZ/08892943792363940611/5AIsG_vagU8tTd_AULJE5XyWaiOf1V6UCFCyx4pa8RmKuJjq-7fPQNFyHgxHx3_dfhbwncsbqiZaIxhdkI1u2f31Wt4bsw-vki-Ou2gE_6EiomDdQttrx2wFFdNQx-7n9LdSemDPoj2U-6CoO1UE0uTsmzsnebd85yKd7t6unkfeYA9s7Z7T6GNlTRzOF7oO5iceeUbg?session=0&fife" height="200" width="auto" /><br><br>Скульптор - Р.Е. Красницкий<br>Прометей по-гречески означает «провидец». Он был сыном титана Япета и океаниды Клименты. Согласно некоторым мифам, Прометей научил людей пользоваться огнём, а также различным ремёслам и искусствам. И когда Зевс лишил людей огня, Прометей похитил огонь с Олимпа и вернул его людям. Огонь согревал их, помогал им в работе, служил источником жизни и вдохновения. Разгневанный Зевс повелел приковать Прометея к скале. Каждую ночь к прикованному Прометею прилетал орел Зевса и по приказанию хозяина клевал печень узника. Муки Прометея длились тысячелетия. Но это не сломило дух героя. И только славный сын Зевса Геракл освободил титана от оков…]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-04-00-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/5lhv43ltg2m1rjj8rsk7tfl138/1647898434000/WmjOTZMh43Xz_Iu_8SPNY1oc0g86DgfZ/08892943792363940611/5AIsG_vagU8tTd_AULJE5XyWaiOf1V6UCFCyx4pa8RmKuJjq-7fPQNFyHgxHx3_dfhbwncsbqiZaIxhdkI1u2f31Wt4bsw-vki-Ou2gE_6EiomDdQttrx2wFFdNQx-7n9LdSemDPoj2U-6CoO1UE0uTsmzsnebd85yKd7t6unkfeYA9s7Z7T6GNlTRzOF7oO5iceeUbg?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3875529,60.0414607,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Дворец Юсуповых</name>
+        <description><![CDATA[<img src="https://doc-0k-00-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/3q8dku02b9oail38kg4jbhccro/1647898434000/WmjOTZMh43Xz_Iu_8SPNY1oc0g86DgfZ/08892943792363940611/5AIsG_vY_MNAz137YLlnMQ_tsU39lamcs_83FfrBiVnWeW3ucmLED4dctAF2dZBuV-8C1yrynMFamolsJWz5rOY9KFp_XKRcZZTgIruS5t1oHFuCUmcY1N4DHBcrbynj1Wf_tiIAgXiRhUXtSnrTWUEXS4R84AME9jSP8fGDXzstRmUrLZ1pCNZkNMBM8e7v6XzFlRqo?session=0&fife" height="200" width="auto" /><br><br>Архитектор - Джакомо Кваренги, XVIII век]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0k-00-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/3q8dku02b9oail38kg4jbhccro/1647898434000/WmjOTZMh43Xz_Iu_8SPNY1oc0g86DgfZ/08892943792363940611/5AIsG_vY_MNAz137YLlnMQ_tsU39lamcs_83FfrBiVnWeW3ucmLED4dctAF2dZBuV-8C1yrynMFamolsJWz5rOY9KFp_XKRcZZTgIruS5t1oHFuCUmcY1N4DHBcrbynj1Wf_tiIAgXiRhUXtSnrTWUEXS4R84AME9jSP8fGDXzstRmUrLZ1pCNZkNMBM8e7v6XzFlRqo?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.314577,59.92204,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Нимфа Летнего сада</name>
+        <description><![CDATA[<img src="https://doc-0k-00-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/dugcvqpqngcu3vtfc375mj3j6g/1647898434000/WmjOTZMh43Xz_Iu_8SPNY1oc0g86DgfZ/08892943792363940611/5AIsG_vZcL_SW--R4_JZYBEEbKjqQbqVNA8NH5nhJsgPQ59QY2mRAezeyarBlkyEALq2TxNl9AjdAnb6-M7RANQnU-VZHy434OVbQCYPBo0WJtNtalwyiVCp4qQ5jWlEfbnXu3NU4eyDoaaaPUE6n9oiQjSAMiNEnVjV2gba24U4y_ayl8s_DXc8ECAP5NiuTjRJy-TE?session=0&fife" height="200" width="auto" /><br><br>Нимфа Летнего сада — такое условное название было дано одной из скульптур сада; вероятнее всего это копия скульптуры «Нимфа леса», созданной неизвестным скульптором. В древнегреческой мифологии нимфы являлись олицетворением живых стихийных сил в виде девушек. Скульптура «Нимфа Летнего сада» представляет собой фигуру молодой женщины, опирающейся на высокий пень, внизу которого расположены крупные листья и распустившийся цветок — артибуты дриад (нимф-покровительниц деревьев), которые живут в лесах среди листвы и цветущих деревьев. В Летнем саду установлена копия скульптуры. <br>Скульптор - Т. Квеллинус (Фландрия), 1690-е г.]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0k-00-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/dugcvqpqngcu3vtfc375mj3j6g/1647898434000/WmjOTZMh43Xz_Iu_8SPNY1oc0g86DgfZ/08892943792363940611/5AIsG_vZcL_SW--R4_JZYBEEbKjqQbqVNA8NH5nhJsgPQ59QY2mRAezeyarBlkyEALq2TxNl9AjdAnb6-M7RANQnU-VZHy434OVbQCYPBo0WJtNtalwyiVCp4qQ5jWlEfbnXu3NU4eyDoaaaPUE6n9oiQjSAMiNEnVjV2gba24U4y_ayl8s_DXc8ECAP5NiuTjRJy-TE?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3339968,59.9458575,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Двуликий Янус</name>
+        <description><![CDATA[<img src="https://doc-0k-00-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/ntmq3lr2jdp0jte3spjshevtro/1647898434000/WmjOTZMh43Xz_Iu_8SPNY1oc0g86DgfZ/08892943792363940611/5AIsG_vaKAY2jJq4a0-l83EUIglba_ROx814imnfgaIOM8AKZebVYu66zrUvVkEDiadZ5yd0kDDF6e2sOgxgQKC33tTP20omULEVgxrBKr9zn5VqekOVm76LyKqx5xmCxPckETtnBzhxbXUpNiNEjWS7LUZV9f2PEAMFQy_Z2Na8iXTkgUkrcXc68fBSpfBOvxmFkqNqo?session=0&fife" height="200" width="auto" /><br><br>В северной части Парадного партера установлена скульптура «Двуликий Янус». В римской мифологии Янус считался двуликим богом дверей, входов и выходов, начала и конца, а также покровителем всяческих начинаний и начал во времени. Согласно мифам, Янус имел дар ясно видеть всё в прошлом и в будущем; именно за эту способность Януса принято изображать двуликим — с молодым лицом, обращённым в будущее, и старым — смотрящим назад, в прошлое. В Летнем саду установлена копия скульптуры.<br>Автор: неизвестен.<br>Период: конец 17-18 век]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0k-00-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/ntmq3lr2jdp0jte3spjshevtro/1647898434000/WmjOTZMh43Xz_Iu_8SPNY1oc0g86DgfZ/08892943792363940611/5AIsG_vaKAY2jJq4a0-l83EUIglba_ROx814imnfgaIOM8AKZebVYu66zrUvVkEDiadZ5yd0kDDF6e2sOgxgQKC33tTP20omULEVgxrBKr9zn5VqekOVm76LyKqx5xmCxPckETtnBzhxbXUpNiNEjWS7LUZV9f2PEAMFQy_Z2Na8iXTkgUkrcXc68fBSpfBOvxmFkqNqo?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3327003,59.9466526,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Афина на Петровских воротах </name>
+        <description><![CDATA[<img src="https://doc-0k-00-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/h47l5716m6d24t93o181rjh2a4/1647898434000/WmjOTZMh43Xz_Iu_8SPNY1oc0g86DgfZ/08892943792363940611/5AIsG_vaD7qQMkF27m9BgSXqi_3tDSxB53HiGgdJarlt-CLmeroP-lcwbLJwNMBRjlQepX0vQRg5g_pKWTMLsrn_3F6X4LvVfHvYP_U5GWuzGO1-T61Yec6sdf_3Xe5TI1mJBfINfhlBt16XpX4GQ-57IedHvHD519QYs5C3IhCWJrz2jUVxWkb3YmVI9wgPXOfUZBCAd?session=0&fife" height="200" width="auto" /><br><br>В нишах пилонов ворот размещены сразу две Афины: Полиада, покровительница города, и Паллада - победоносная воительница. У первой в руках зеркало и змея - символ мудрости. У второй - копьё и саламандра на шлеме. Обе статуи появились здесь позже, при перестройке ворот - в 1714-30 годах.<br>Интересно, что зеркало и саламандра не являются классическими атрибутами Афины (в отличие от, например, совы и оливковой ветви). Поэтому эти статуи иногда называют олицетворениями Мудрости и Власти. Однако большинство историков склоняются к тому, что это всё-таки Афина, а нетривиальные символы - задумка скульптора. <br>Список достижений Афины достаточно велик: пожалуй, она оказалась самым «полезным» для человека древнегреческим богом. Ей приписывают изобретение корабля и плуга, ткачества, кулинарии и гончарного дела, флейты и колесницы - и даже законов, и государства. К тому же, мудрая Афина считалась покровительницей справедливой войны и помощницей при родах.<br><br><img src="https://doc-0c-00-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/rfab03lsto0s7fe9cksfqtavtg/1647898434000/WmjOTZMh43Xz_Iu_8SPNY1oc0g86DgfZ/08892943792363940611/5AIsG_vbOZutxHbi7C1Sj0ITEBWJniI92zeRix2LX8vIPsjfM3fO1eW_BxrCV8sjPheO9Y53HK_0Ukrxm6vmNycLjaNfCFwXTcs5_QKb-asSWi5VshVIrzMc849wWQWrh74NMHOa6seBLBbj5cmyZjl36md6tVTn8HFc5cFvYvKjkY5QAZ-HQ_c2wHt6PmABLL3ggPA9N?session=0&fife" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0k-00-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/h47l5716m6d24t93o181rjh2a4/1647898434000/WmjOTZMh43Xz_Iu_8SPNY1oc0g86DgfZ/08892943792363940611/5AIsG_vaD7qQMkF27m9BgSXqi_3tDSxB53HiGgdJarlt-CLmeroP-lcwbLJwNMBRjlQepX0vQRg5g_pKWTMLsrn_3F6X4LvVfHvYP_U5GWuzGO1-T61Yec6sdf_3Xe5TI1mJBfINfhlBt16XpX4GQ-57IedHvHD519QYs5C3IhCWJrz2jUVxWkb3YmVI9wgPXOfUZBCAd?session=0&fife https://doc-0c-00-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/rfab03lsto0s7fe9cksfqtavtg/1647898434000/WmjOTZMh43Xz_Iu_8SPNY1oc0g86DgfZ/08892943792363940611/5AIsG_vbOZutxHbi7C1Sj0ITEBWJniI92zeRix2LX8vIPsjfM3fO1eW_BxrCV8sjPheO9Y53HK_0Ukrxm6vmNycLjaNfCFwXTcs5_QKb-asSWi5VshVIrzMc849wWQWrh74NMHOa6seBLBbj5cmyZjl36md6tVTn8HFc5cFvYvKjkY5QAZ-HQ_c2wHt6PmABLL3ggPA9N?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3201628,59.9507781,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Бюст Антиноя-Диониса в Эрмитаже</name>
+        <description><![CDATA[<img src="https://doc-0s-00-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/hs9oq41rsgqkt06gpdtr5o2au4/1647898434000/WmjOTZMh43Xz_Iu_8SPNY1oc0g86DgfZ/08892943792363940611/5AIsG_vZEAE1d4iVpCq1IwqIXRAE31VajV6dznbPwOF32AtRSUW9PE-SfE2znqhu7gqLdqV8hEKNvFS-uClz8WK17v1axcdzqOnwOnYPtWdY-60gj919-s0V8z2B1swkKNINMHTIWwrJslrATfQ-uAtuu4QpYQRzd5npTZme3eo_hIC9hA9DY_c-1b42rD46eT1mx9LQ?session=0&fife" height="200" width="auto" /><br><br>Автор неизвестен<br>Дио́ни́с — в древнегреческой мифологии младший из олимпийцев, бог растительности, виноградарства, виноделия, производительных сил природы, вдохновения и религиозного экстаза, а также театра.<br>Антино́й — греческий юноша, фаворит и возлюбленный римского императора Адриана. О его жизни практически ничего не известно. После трагической гибели Антиноя в Египте император Адриан обожествил его. Культ юноши достиг беспрецедентных для римской истории масштабов: недалеко от места его смерти был основан город Антинополь, его именем назвали новое созвездие, в различных городах империи в его честь были учреждены праздники и игры, возводились посвящённые ему храмы и алтари, чеканились монеты с его портретами, создавались многочисленные скульптуры. Статуи Антиноя стали вехой в истории римского искусства. Благодаря этим портретам даже столетия спустя Антиной продолжал считаться символом юношеской красоты и изящества. ]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0s-00-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/hs9oq41rsgqkt06gpdtr5o2au4/1647898434000/WmjOTZMh43Xz_Iu_8SPNY1oc0g86DgfZ/08892943792363940611/5AIsG_vZEAE1d4iVpCq1IwqIXRAE31VajV6dznbPwOF32AtRSUW9PE-SfE2znqhu7gqLdqV8hEKNvFS-uClz8WK17v1axcdzqOnwOnYPtWdY-60gj919-s0V8z2B1swkKNINMHTIWwrJslrATfQ-uAtuu4QpYQRzd5npTZme3eo_hIC9hA9DY_c-1b42rD46eT1mx9LQ?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3145597,59.9398317,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

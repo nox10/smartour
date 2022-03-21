@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>НАША КАРТА</name>
+    <description/>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0F9D58-normal">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0F9D58-highlight">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0F9D58">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0F9D58-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0F9D58-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-673AB7-normal">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-673AB7-highlight">
+      <IconStyle>
+        <color>ffb73a67</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-673AB7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-673AB7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-673AB7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-A52714-normal">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-A52714-highlight">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-A52714">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-A52714-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-A52714-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FFD600-normal">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FFD600-highlight">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FFD600">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FFD600-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FFD600-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Слой без названия</name>
+      <Placemark>
+        <name>Актеон</name>
+        <description><![CDATA[<img src="https://doc-0k-4g-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/u5odsa1d9001e8dtsnhf1q02g0/1647898658250/6YonFazqGZQ9VXk4mASjgUHFIldbbogy/08892943792363940611/5AIsG_vbb0gWaQ8nOHpdrh-4g1dBGWacGogRTdNqJ6VjkLwxGnM6PV5qC0cFzBGMIEbkgLjAS7HJxGJAL8pIi-UHZNv0h6xSp6j55Qr6pvgqFgkmjlYQFdiYMKOZ0JgxTOhgL81FAWrRAxGYVCbq4isnuiHQSPelNF6J1U2mRSqPDDP-_Td7ahXpXuARq2ERguHzsaq4?session=0&fife" height="200" width="auto" /><br><br>Скульптура располагается на нижнем ярусе Большого каскада. Скульптор Иван Петрович Мартос.<br><br>Мифологическая основа<br>Актеон, устав от охоты, спустился в поисках прохлады к гроту. На его несчастье, в гроте готовилась к купанию богиня охоты Артемида. Она разозлилась на Актеона за то, что тот нарушил ее покой и превратила его в оленя. Запах оленя почуяли собаки Актеона, загнали его и разорвали на части.]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0k-4g-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/u5odsa1d9001e8dtsnhf1q02g0/1647898658250/6YonFazqGZQ9VXk4mASjgUHFIldbbogy/08892943792363940611/5AIsG_vbb0gWaQ8nOHpdrh-4g1dBGWacGogRTdNqJ6VjkLwxGnM6PV5qC0cFzBGMIEbkgLjAS7HJxGJAL8pIi-UHZNv0h6xSp6j55Qr6pvgqFgkmjlYQFdiYMKOZ0JgxTOhgL81FAWrRAxGYVCbq4isnuiHQSPelNF6J1U2mRSqPDDP-_Td7ahXpXuARq2ERguHzsaq4?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            29.9087032,59.8850648,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Персей</name>
+        <description><![CDATA[<img src="https://doc-0g-4g-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/780ghhavklsuhb47iodcslsqgo/1647898658250/6YonFazqGZQ9VXk4mASjgUHFIldbbogy/08892943792363940611/5AIsG_vbV3AUIZSkMG7-Mk9uNIDJvd3Xgxrf1qzSeIZqYFgEOqF0BvnY5WatNySTaQFgBk4L2la4PWH4NnM_8xC3BSeOaLWGjFVJ43qA2ah5NXO1udPrmaH0bcxTyBiTc4HWItxVHV9jl6mluulvQknNO64bmiZ2lay-Vuz4ukwe5CtBKSzAIz4sewfQMpfO830e6oVs?session=0&fife" height="200" width="auto" /><br><br>Скульптура, выполненная Феодосием Федоровичем Щедриным, располагается на в верхней части Большого каскада в Петергофе.<br><br>Мифологическая основа<br>Персей, сын Зевса, не хотел женитьбы своей матери Данаи и царя Полидекта. Полидект, намеривавшийся насильно жениться на Данае, чтобы избавиться от Персея, послал его за головой Медузы горгоны. Персей отправился на подвиг с дарами богов, с помощью которых он смог одолеть Медузу - одну из трех сестер горгон - и вернуться с острова горгон целым и невредимым.]]></description>
+        <styleUrl>#icon-1899-A52714</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0g-4g-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/780ghhavklsuhb47iodcslsqgo/1647898658250/6YonFazqGZQ9VXk4mASjgUHFIldbbogy/08892943792363940611/5AIsG_vbV3AUIZSkMG7-Mk9uNIDJvd3Xgxrf1qzSeIZqYFgEOqF0BvnY5WatNySTaQFgBk4L2la4PWH4NnM_8xC3BSeOaLWGjFVJ43qA2ah5NXO1udPrmaH0bcxTyBiTc4HWItxVHV9jl6mluulvQknNO64bmiZ2lay-Vuz4ukwe5CtBKSzAIz4sewfQMpfO830e6oVs?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            29.9092089,59.8847975,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Афина</name>
+        <description><![CDATA[<img src="https://doc-0g-4g-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/etfe37oe6fsvchro3ul96r7fb8/1647898658250/6YonFazqGZQ9VXk4mASjgUHFIldbbogy/08892943792363940611/5AIsG_vYdFzLMNife5RHyrh4uH8oWZ_k26uaY4X7Ns9x-KP7htOQKMgYQBoifbOcZzPDrXZxzhHItM7zWelsxOsE0pJ_BMI-Gma3aa-PzhIRWUQdGZuyRm2gk3uBabLjXUmoWcdGxevRDEYVZfvbiomu_wiFDBWl2mLVlWpPwq9x8nqpL7Yo7hkhsCtccH0Yj6p3Ae_U?session=0&fife" height="200" width="auto" /><br><br>На Петровских воротах изображены сразу две Афины: Афина Полиада покровительница города и и Афина Паллада покровительница справедливой войны.<br>Афина была богиней мудрости, военной стратегии и тактики в древнегреческой мифологии.<br>Афина была рождена из головы Зевса в доспехах и вооружении, после того, как Зевс проглотил мать Афины Метиду.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0g-4g-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/etfe37oe6fsvchro3ul96r7fb8/1647898658250/6YonFazqGZQ9VXk4mASjgUHFIldbbogy/08892943792363940611/5AIsG_vYdFzLMNife5RHyrh4uH8oWZ_k26uaY4X7Ns9x-KP7htOQKMgYQBoifbOcZzPDrXZxzhHItM7zWelsxOsE0pJ_BMI-Gma3aa-PzhIRWUQdGZuyRm2gk3uBabLjXUmoWcdGxevRDEYVZfvbiomu_wiFDBWl2mLVlWpPwq9x8nqpL7Yo7hkhsCtccH0Yj6p3Ae_U?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3201628,59.9507781,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Посейдон</name>
+        <description><![CDATA[<img src="https://doc-00-4g-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/j15epcpbkput7k4ocr1411glok/1647898658250/6YonFazqGZQ9VXk4mASjgUHFIldbbogy/08892943792363940611/5AIsG_vZA8IsFPVkRiIU52cTx2CtjXekN4vsE-_WUU5XNW8B19fUrbwg307wqaZU7AIpY4zJuqoxkv4LumDpq0qRG8fVKHxvKB0n_gokpUo-Qj5rThbQ0RS-eojyN5jk7g570Km8IB8B3mLwpM71HSYJU09aSF6fz0hidleszjHZlaqYuBqUFe1Vdqu89ha6z-qx_-lc?session=0&fife" height="200" width="auto" /><br><br>Посейдон был олимпийским богом моря, землетрясений, наводнений, засух и лошадей. Он был изображен как зрелый мужчина с крепким телосложением и темной бородой, держащий трезубец.<br>Его отцом был Кронос, а матерью – Рея]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-00-4g-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/j15epcpbkput7k4ocr1411glok/1647898658250/6YonFazqGZQ9VXk4mASjgUHFIldbbogy/08892943792363940611/5AIsG_vZA8IsFPVkRiIU52cTx2CtjXekN4vsE-_WUU5XNW8B19fUrbwg307wqaZU7AIpY4zJuqoxkv4LumDpq0qRG8fVKHxvKB0n_gokpUo-Qj5rThbQ0RS-eojyN5jk7g570Km8IB8B3mLwpM71HSYJU09aSF6fz0hidleszjHZlaqYuBqUFe1Vdqu89ha6z-qx_-lc?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3045909,59.9434769,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Гермес</name>
+        <description>Скульптура располагается на фасаде Елисеевского магазина. Здание построено архитектором Гавриилом Барановским в 1902-1903 годах. Гермес считался покровителем всего, что сопутствует обогащению. По легенде ещё в младенчестве он украл у Аполлона стадо быков, однако Аполлон, обладающий даром предвидения находит вора и ведёт его к Зевсу, после чего получает своих быков обратно, однако добровольно уступает их Гермесу взамен на изобретённую им лиру. Таким образом Гермес сделался богом стад и пастбищ. С этого времени Гермес выступает в мифах о богах и героях, чаще всего вестником Зевса. Первоначально Гермес «стремительный, спешащий», был богом ветра, вследствие чего его представляли себе крылатым, затем стал богом поездок и путешествий и наконец богом торговли и всяких дел вообще; как бог путешествий, он сопровождает людей в их последнем странствовании в царство Аида, поэтому он называется «проводником душ».</description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <Point>
+          <coordinates>
+            30.3376703,59.9341978,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Горгона Медуза</name>
+        <description>Летний сад можно назвать заповедником горгоны Медузы. Она представлена здесь в разных видах. На одном из рельефов Летнего дворца Персей убивает горгону Медузу. На главной аллее сада римская богиня кровавой войны Беллона попирает ногой маску горгоны Медузы. Наконец, еще одно изображение горгоны многократно повторяется на решетке Летнего сада со стороны Мойки. По легенде было три сестры -- страшные существа со змеями вместо волос, взор которых превращал всё живое в камень. Отец Персея, Полидект, упросил того отправиться на поиски Медузы и добыть её голову, тот справился с заданием благодаря Афине и Гермесу. Наученный Афиной, Персей сражался с Медузой, наблюдая за ней по отражению в блестящем щите, чтобы не смотреть в глаза горгоне. Поднявшись на сандалиях в воздух, Персей отрубил ей голову. От других горгон он скрылся с помощью шлема-невидимки, спрятав голову Медузы в сумку. Позже голова горгоны была отдана Афине.</description>
+        <styleUrl>#icon-1899-673AB7</styleUrl>
+        <Point>
+          <coordinates>
+            30.3354879,59.9449379,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Похищение Прозерпины</name>
+        <description><![CDATA[<img src="https://doc-0s-4g-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/2a8toc4c59441u3436kn4plbfk/1647898658250/6YonFazqGZQ9VXk4mASjgUHFIldbbogy/08892943792363940611/5AIsG_vaZT8DPm6141xPoLphWUdAqxXWp1lVZAkrka6hOCAV0gMnt0nLEJ1luZbc_2tOSnmpxCy_i4uigrG7Tzwn3HVCg9DmdjCg3afDxm22vfIskIJd9xeufirD7JNyHzjHuUhBErNx_oGRPS_ImKEl5v3ru86AR_Ad180BOuCGIiIwl2ePnY-jmoV8CEoziwnUQHXw?session=0&fife" height="200" width="auto" /><br><br>Красавица Прозерпина, дочь Зевса и богини плодородия Деметры, была похищена Плутоном, богом подземного царства. ]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0s-4g-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/2a8toc4c59441u3436kn4plbfk/1647898658250/6YonFazqGZQ9VXk4mASjgUHFIldbbogy/08892943792363940611/5AIsG_vaZT8DPm6141xPoLphWUdAqxXWp1lVZAkrka6hOCAV0gMnt0nLEJ1luZbc_2tOSnmpxCy_i4uigrG7Tzwn3HVCg9DmdjCg3afDxm22vfIskIJd9xeufirD7JNyHzjHuUhBErNx_oGRPS_ImKEl5v3ru86AR_Ad180BOuCGIiIwl2ePnY-jmoV8CEoziwnUQHXw?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.2693221,59.9291102,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Минерва в окружении трех гениев художеств</name>
+        <description><![CDATA[<img src="https://doc-08-4g-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/cttkpclbc0fp0jgqe22tu4klgc/1647898658250/6YonFazqGZQ9VXk4mASjgUHFIldbbogy/08892943792363940611/5AIsG_vaao_oKOvsRsdpf2rHVqI6LerEJNMOP-dB66M_bNmwAzSMdySEcHeSWa2WQbYi4QlAYG1uDP-cFxW169vdmDUzhGtlZ_WYwuPtLt9RoARnzdemJPxDHJWhrH3u-x7lmAhgaFWVHFoAUBQGuJ1qTaFCAGnYkUHdt6LoL7QgJdhMjTFJ0bKpfhCddIcqnvZPe3gE?session=0&fife" height="200" width="auto" /><br><br>Скульптура находится на крыше здания, установлена на куполе.]]></description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-08-4g-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/cttkpclbc0fp0jgqe22tu4klgc/1647898658250/6YonFazqGZQ9VXk4mASjgUHFIldbbogy/08892943792363940611/5AIsG_vaao_oKOvsRsdpf2rHVqI6LerEJNMOP-dB66M_bNmwAzSMdySEcHeSWa2WQbYi4QlAYG1uDP-cFxW169vdmDUzhGtlZ_WYwuPtLt9RoARnzdemJPxDHJWhrH3u-x7lmAhgaFWVHFoAUBQGuJ1qTaFCAGnYkUHdt6LoL7QgJdhMjTFJ0bKpfhCddIcqnvZPe3gE?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.2904725,59.9373859,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Квадрига Аполлона</name>
+        <description><![CDATA[<img src="https://doc-0c-4g-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/0acl0l6otfmchltq78mu2tk6uo/1647898658250/6YonFazqGZQ9VXk4mASjgUHFIldbbogy/08892943792363940611/5AIsG_vY4wySmRdSxoy5bpFr9xb6rEd4_UXCu09Zk3WyQjx4ZX4vdbP2mIjH-nNRROjHOGHoWDGZf9jdF31gcs29ZHFjYsYx4fWJ9G5K0f-rGVVozwVQ2zWrJ0EV_KHROTZm0xrz5NVGdt_JipjBHkPQyZk_vKVyi1CgCSH1kRgzGmDMIyW4KYzI44lJOAQk4jnEhRKc?session=0&fife" height="200" width="auto" /><br><br>Аполлон - бог света, покровитель искусств, предводитель и покровитель муз, олицетворение мужской красоты. Квадрига Аполлона расположена на фронтоне Александринского театра, одного из старейших театров Санкт-Петербурга. Аполлон восседает в двухколесной колеснице, запряженной четверкой лошадей. В левой руке он держит кифару - древнегреческий музыкальный инструмент, в правой - венок, символ творческого триумфа и славы.  ]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0c-4g-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/0acl0l6otfmchltq78mu2tk6uo/1647898658250/6YonFazqGZQ9VXk4mASjgUHFIldbbogy/08892943792363940611/5AIsG_vY4wySmRdSxoy5bpFr9xb6rEd4_UXCu09Zk3WyQjx4ZX4vdbP2mIjH-nNRROjHOGHoWDGZf9jdF31gcs29ZHFjYsYx4fWJ9G5K0f-rGVVozwVQ2zWrJ0EV_KHROTZm0xrz5NVGdt_JipjBHkPQyZk_vKVyi1CgCSH1kRgzGmDMIyW4KYzI44lJOAQk4jnEhRKc?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3361682,59.9317873,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Гефест</name>
+        <description><![CDATA[<img src="https://doc-14-4g-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/vokm5mpbdf8htntcmohm5breq0/1647898658250/6YonFazqGZQ9VXk4mASjgUHFIldbbogy/08892943792363940611/5AIsG_vZ3i9-6z7bxguMTYbxIJrcSk4nnngwgbfJtf_eXKmXwg5OqHh-jz4uxt6OpLzaAR8EyGmrPsTEdRCKtD3JHletsVXVx-3ZlrpPvpwgSdfrZwY4ztWbcafkc1zIxJ_rlguyn3hYq646BhSdCkXP7FhE6otuY_sIylcMPKOh-r24Fpb13k8XkV4fEngb7_Ndf3u0?session=0&fife" height="200" width="auto" /><br><br>Гефест - бог огня, покровитель кузнечного ремесла и изобретений. На фризе Горного института (почти под самой крышей) изображены 2 сюжета - изготовление Гефестом золотой колесницы для Аполлона и изготовление доспехов для бога войны Ареса. Оба сюжета посвящены в большей степени процессу изготовления колесницы и доспехов, горному делу.]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-14-4g-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/vokm5mpbdf8htntcmohm5breq0/1647898658250/6YonFazqGZQ9VXk4mASjgUHFIldbbogy/08892943792363940611/5AIsG_vZ3i9-6z7bxguMTYbxIJrcSk4nnngwgbfJtf_eXKmXwg5OqHh-jz4uxt6OpLzaAR8EyGmrPsTEdRCKtD3JHletsVXVx-3ZlrpPvpwgSdfrZwY4ztWbcafkc1zIxJ_rlguyn3hYq646BhSdCkXP7FhE6otuY_sIylcMPKOh-r24Fpb13k8XkV4fEngb7_Ndf3u0?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.268855,59.930121,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ника</name>
+        <description><![CDATA[<img src="https://doc-0g-4g-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/f9rij68gejk63508vff72vmsu8/1647898658250/6YonFazqGZQ9VXk4mASjgUHFIldbbogy/08892943792363940611/5AIsG_vYEasfS5osjUlPGefH8LnTqV1SEgvahUjD7sh_fEp4dmO7CK2HWjrl69eUFXGIBpJJbRjgZgGmur_Hu1UU-XN0F2W74mfpdyyBdSHbueCP3gpSQzKVVFrfjye93KfxJNWAIlNch4b8oj70-9gs77A10v2JvrlwGIfm7HxbBGQotuFDupZZuFaLUQJdH1FlD_uNF?session=0&fife" height="200" width="auto" /><br><br>Скульпторы: В. И. Демут-Малиновский и С. С. Пименов. Располагается на арке главного штаба.<br> Ника, а также её сестры были ближайшими сподвижниками Зевса, верховного божества древнегреческого пантеона. Согласно классическому мифу, Стикс привела своих детей к Зевсу, когда бог набирал союзников для Титаномахии против старых божеств. Ника взяла на себя роль божественного колесничего. ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0g-4g-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/f9rij68gejk63508vff72vmsu8/1647898658250/6YonFazqGZQ9VXk4mASjgUHFIldbbogy/08892943792363940611/5AIsG_vYEasfS5osjUlPGefH8LnTqV1SEgvahUjD7sh_fEp4dmO7CK2HWjrl69eUFXGIBpJJbRjgZgGmur_Hu1UU-XN0F2W74mfpdyyBdSHbueCP3gpSQzKVVFrfjye93KfxJNWAIlNch4b8oj70-9gs77A10v2JvrlwGIfm7HxbBGQotuFDupZZuFaLUQJdH1FlD_uNF?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3172262,59.9380065,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Геракл, удушающий Антея</name>
+        <description><![CDATA[<img src="https://doc-0s-4g-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/mbn69igduvsqbum44f27vubrfc/1647898658250/6YonFazqGZQ9VXk4mASjgUHFIldbbogy/08892943792363940611/5AIsG_vZb5a9ahEQzTeC1He09Ng8qfC_EAP95m7M4Vul4EgcZbXOpiUhAxeugUq1iZa-1PbowVvxaK-4-72wucrefaPHGOkrGCkShktQMaCgd3N_ZNLMofVukF9aeoAfflgWb7ig1YFW7BV0_O9zwSAdO_MRZDbuQdAQkFExCt6woggHfq6krHKVsSMS4kPinef03pmg?session=0&fife" height="200" width="auto" /><br><br>Скульптор: С.С. Пименов<br>Располагается на входе в горный институт.<br>Во время странствия за золотыми яблоками по приказу Эврисфея герой был вынужден сойтись в поединке с великаном Антеем — сыном богини земли Геи. Гераклу никак не удавалось победить Антея: как только великан начинал ослабевать, он касался земли, и мать давала ему новые силы. Но Гераклу удалось оторвать Антея от земли и задушить его.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0s-4g-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/mbn69igduvsqbum44f27vubrfc/1647898658250/6YonFazqGZQ9VXk4mASjgUHFIldbbogy/08892943792363940611/5AIsG_vZb5a9ahEQzTeC1He09Ng8qfC_EAP95m7M4Vul4EgcZbXOpiUhAxeugUq1iZa-1PbowVvxaK-4-72wucrefaPHGOkrGCkShktQMaCgd3N_ZNLMofVukF9aeoAfflgWb7ig1YFW7BV0_O9zwSAdO_MRZDbuQdAQkFExCt6woggHfq6krHKVsSMS4kPinef03pmg?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.2697725,59.9293373,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Амур и Психея</name>
+        <description><![CDATA[Сюжет взят из произведения "Метаморфозы" древнеримского автора Апулея (II век н. э.). В изложении Апулея, Психея была столь прекрасна, что вызвала ревность богини красоты Венеры, и та подослала к ней своего сына Амура, чтобы он нанес рану Психее. Но когда Амур увидел столь красивую девушку, он влюбившись не стал причинять ей вреда, а перенес ее тайком от матери в свой чертог и посещал ее по ночам, в полной темноте, запретив ей видеть свое лицо. Коварные и завистливые сестры подучили Психею нарушить запрет, и она попыталась при помощи ночника рассмотреть своего возлюбленного.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            30.3336317,59.9453102,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Артемида</name>
+        <description><![CDATA[<img src="https://doc-0g-4g-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/0avkkljl1efpns9tb7o1bqsud8/1647898658250/6YonFazqGZQ9VXk4mASjgUHFIldbbogy/08892943792363940611/5AIsG_vapxzQTzr9Fo5cNf5ULKU6QsQq9Ey194Pe0u-WgXX1rtQoQsgRU0tWseSlgv9XdOSCuivZVu6GQn_9pqS73P0IhmK0Wl5nH1qlWBg_-cTHbBIamL6-IFVRhLYUWA2SeALnPSOXr5KBDNaWT_UbL0oGlwELp9q3vFyihAo6hupi_3LVWo2pDXheV4KT9GnbO89k?session=0&fife" height="200" width="auto" /><br><br>Скульптор: С.С. Пименов<br>  Вечно юная богиня охоты, богиня женского целомудрия, покровительница всего живого на Земле, дающая счастье в браке.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0g-4g-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/0avkkljl1efpns9tb7o1bqsud8/1647898658250/6YonFazqGZQ9VXk4mASjgUHFIldbbogy/08892943792363940611/5AIsG_vapxzQTzr9Fo5cNf5ULKU6QsQq9Ey194Pe0u-WgXX1rtQoQsgRU0tWseSlgv9XdOSCuivZVu6GQn_9pqS73P0IhmK0Wl5nH1qlWBg_-cTHbBIamL6-IFVRhLYUWA2SeALnPSOXr5KBDNaWT_UbL0oGlwELp9q3vFyihAo6hupi_3LVWo2pDXheV4KT9GnbO89k?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.2686533,59.9797519,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Слой без названия</name>
+    </Folder>
+  </Document>
+</kml>

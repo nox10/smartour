@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Античный маршрут</name>
+    <description>Данный маршрут разработан для знакомства с элементами античной культуры в архитектуре и скульптуре Санкт-Петербурга</description>
+    <Style id="icon-1899-880E4F-normal">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-880E4F-highlight">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-880E4F">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-880E4F-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-880E4F-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Античный маршрут</name>
+      <Placemark>
+        <name>Строгановский дворец</name>
+        <description><![CDATA[<img src="https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/ofeqe1ijp26uijpj7h3n418260/1647898583500/RzU5_B4p39Zxgp6-3bu0lnWfX1-FyQl9/08892943792363940611/5AIsG_vamNYXHq-pRjdLQ-hhKWmnLtYTfR5Hv7twCjRJSM-htCw62Ldj2MgKZfMPtyw_ag7Dfq_rL3fGCMKlMHk1nJCpxTxBf87-7QIJ--0OR6EX0DzzI5fTvKG2R4LchBM636zpPow4mgiefbLoV_08uKc0eMDOTFvn0CeqMCUKYhD_CsvLTcQnFa89eL6xpVQNjDSs?session=0&fife" height="200" width="auto" /><br><br>Строгановский дворец – творение Бартоломео Растрелли, великолепное здание розового цвета, выполненное в стиле барокко. Находится в Санкт-Петербурге на углу Невского проспекта с Мойкой. Дворец интересен тем, что принадлежал одному роду, семейству Строгановых. Семь поколений баронов и графов Строгановых сменились в доме – родовом гнезде. Выходцы из крестьян Вологодской области, купцы и промышленники Строгановы славились сказочным богатством. Они владели заводами, землями, тысячами крепостных, занимались пушным и рыбным промыслом, горнорудной добычей. В 1558 году царь Иоанн Грозный выдал семье грамоту на освоение территории Предуралья. Строгановы снарядили поход Ермака в Сибирь отвоевывать для России новые земли. В Смутное время семья помогала царю Василию Шуйскому, за что получила дворянское звание. Создание дворца Строгановых – единственный случай в России, когда придворный архитектор разработал здание для частного заказчика. Строительство велось небывалыми темпами с 1753 по 1754 годы.]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/ofeqe1ijp26uijpj7h3n418260/1647898583500/RzU5_B4p39Zxgp6-3bu0lnWfX1-FyQl9/08892943792363940611/5AIsG_vamNYXHq-pRjdLQ-hhKWmnLtYTfR5Hv7twCjRJSM-htCw62Ldj2MgKZfMPtyw_ag7Dfq_rL3fGCMKlMHk1nJCpxTxBf87-7QIJ--0OR6EX0DzzI5fTvKG2R4LchBM636zpPow4mgiefbLoV_08uKc0eMDOTFvn0CeqMCUKYhD_CsvLTcQnFa89eL6xpVQNjDSs?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3200888,59.9356911,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Торговый Дом Ф. Л. Мертенс</name>
+        <description><![CDATA[<img src="https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/asufiue9t479u7a3iaob41daag/1647898583500/RzU5_B4p39Zxgp6-3bu0lnWfX1-FyQl9/08892943792363940611/5AIsG_vbp9Y0URGwhPXuQX0XwfmqHnNXj2UuANLYFjcgeDzcoeMiAccExgTJBzhRMgjADRgrr_QhLrw2eRD_xbOTx6BnkMyUURXiHQd46_YXEw9syAj_aa2O3HtnMPt8Zaitx-uO_wh3Pv_qhw1yTL2U06I91Sb5g5OmTNTdoyoE-suWTSzUQVbPAYgmU4hONhW0Mz-4?session=0&fife" height="200" width="auto" /><br><br>Дом Мертенса - один из первых памятников неоклассицзма в Санкт - Петербурге.<br>Мертенс успешно работал в Петербурге с начала 1840-х. его фирма меховых изделий была одним из главных предприятий по производству одежды в Петербурге. Торговый дом Мертенса было решено построить в самом начале Невского проспекта, рядом со Строгановским дворцом. Проект Дома Мертенса создал архитектор русско-польского происхождения Мариан Станиславович Лялевич. В 1910-х годах он был одним из главных зодчих Петербурга.]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/asufiue9t479u7a3iaob41daag/1647898583500/RzU5_B4p39Zxgp6-3bu0lnWfX1-FyQl9/08892943792363940611/5AIsG_vbp9Y0URGwhPXuQX0XwfmqHnNXj2UuANLYFjcgeDzcoeMiAccExgTJBzhRMgjADRgrr_QhLrw2eRD_xbOTx6BnkMyUURXiHQd46_YXEw9syAj_aa2O3HtnMPt8Zaitx-uO_wh3Pv_qhw1yTL2U06I91Sb5g5OmTNTdoyoE-suWTSzUQVbPAYgmU4hONhW0Mz-4?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.322088,59.93566,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Казанский кафедральный собор</name>
+        <description><![CDATA[<img src="https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/hgb9jh7upeq03esljbjkcrqebc/1647898583500/RzU5_B4p39Zxgp6-3bu0lnWfX1-FyQl9/08892943792363940611/5AIsG_va2e0UVV2-MFmHvRiF7Nk5DY3HTatS1ZQckclr54V-jLL9wJij1lCSocMICYDvnCq0RUxlsCW-TRCiBp1-SR4lU9cmZK9R60EXAcDv39rxrfKRw7kF-30mTkZp2EmmhHAvl4riM3_2SLdsRRUsuBkuk968p3Z37fM4fO7bBFts0BNjhTMPXDpOrr2LWmGzz70s?session=0&fife" height="200" width="auto" /><br><br>Казанский собор в Санкт-Петербурге — кафедральный собор, расположенный в самом центре города, православный храм, в котором хранится главная святыня города — Казанская икона Божьей Матери, ещё это памятник архитектуры 19 века, выполненный в очень необычной форме и памятник русской воинской славы, замечательная достопримечательность Санкт-Петербурга. История возведения Казанского собора характерна для своей эпохи.]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-04-b4-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/hgb9jh7upeq03esljbjkcrqebc/1647898583500/RzU5_B4p39Zxgp6-3bu0lnWfX1-FyQl9/08892943792363940611/5AIsG_va2e0UVV2-MFmHvRiF7Nk5DY3HTatS1ZQckclr54V-jLL9wJij1lCSocMICYDvnCq0RUxlsCW-TRCiBp1-SR4lU9cmZK9R60EXAcDv39rxrfKRw7kF-30mTkZp2EmmhHAvl4riM3_2SLdsRRUsuBkuk968p3Z37fM4fO7bBFts0BNjhTMPXDpOrr2LWmGzz70s?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.324571,59.9342092,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Зингеръ</name>
+        <description><![CDATA[<img src="https://doc-00-b4-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/808j50k8e6qtaqilt83sravofs/1647898583500/RzU5_B4p39Zxgp6-3bu0lnWfX1-FyQl9/08892943792363940611/5AIsG_vY1GdbWOjI0DuMT4rHCLu7uUWpSkWVWRU9jzaN7wySJaJIQ4-nt4-2APKlhIEEl2D6rvvsOnFGPrGs7Qn7j3rZgV70aQwC6kv7yRGO6CRMSVYvKysQIcfj4noiKbPcwdASOyx0U3v9-Zh_mNCrtAFi6f1FYK4d0bPBtCcdpcCWEKT9G_G5dKH0wDKntit8KhDFl?session=0&fife" height="200" width="auto" /><br><br>Дом Зингера (дом компании «Зингер»), также известный как «Дом книги» - знаменитое историческое здание, которое уже давно стало одним из символов и достопримечательностью Санкт-Петербурга.<br>Дом Зингера является памятником архитектуры федерального значения. В его стенах расположены: Дом книги, кафе «Зингер» и помещения, сдаваемые в аренду.]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-00-b4-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/808j50k8e6qtaqilt83sravofs/1647898583500/RzU5_B4p39Zxgp6-3bu0lnWfX1-FyQl9/08892943792363940611/5AIsG_vY1GdbWOjI0DuMT4rHCLu7uUWpSkWVWRU9jzaN7wySJaJIQ4-nt4-2APKlhIEEl2D6rvvsOnFGPrGs7Qn7j3rZgV70aQwC6kv7yRGO6CRMSVYvKysQIcfj4noiKbPcwdASOyx0U3v9-Zh_mNCrtAFi6f1FYK4d0bPBtCcdpcCWEKT9G_G5dKH0wDKntit8KhDFl?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3257242,59.9356768,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Армянская Апостольская Церковь Св. Екатерины</name>
+        <description><![CDATA[<img src="https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/33lu728cm9phf1c7uf2rb492mg/1647898583500/RzU5_B4p39Zxgp6-3bu0lnWfX1-FyQl9/08892943792363940611/5AIsG_vY57UJqCBP1QnxUQerDsD_FmnCGAjD1XiCLdP1pKT-D_uCro0U-_VCupn1E_ZQYskaxWumv1VH19TPIglzopaJeYahiyQyeGhAk5St7V4bAIsy4lYDcgyWE46TRcSfbyjTGhtPYrxac5jHq2q68I6V176POa8MwxMIfpZK4A9wbVdUiX7jStphg-El1DLPNQVk?session=0&fife" height="200" width="auto" /><br><br>Армянская церковь расположилась на Невском проспекте, где и сформировался целый ансамбль зданий и храмов армянской общины. Церковь Святой Екатерины возведена в традициях русского классицизма, очень изящна и соответствует парадному виду столицы. Увенчана церковь куполом, а на фасаде со стороны Невского проспекта размещен скульптурный рельеф – сюжет из истории Армении – крещение правителя Трдата III. Интерьер храма невероятно просторный и светлый.]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0o-b4-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/33lu728cm9phf1c7uf2rb492mg/1647898583500/RzU5_B4p39Zxgp6-3bu0lnWfX1-FyQl9/08892943792363940611/5AIsG_vY57UJqCBP1QnxUQerDsD_FmnCGAjD1XiCLdP1pKT-D_uCro0U-_VCupn1E_ZQYskaxWumv1VH19TPIglzopaJeYahiyQyeGhAk5St7V4bAIsy4lYDcgyWE46TRcSfbyjTGhtPYrxac5jHq2q68I6V176POa8MwxMIfpZK4A9wbVdUiX7jStphg-El1DLPNQVk?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.332282,59.9353104,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Воронцовский дворец</name>
+        <description><![CDATA[<img src="https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/lnn15ol1lbhlt2n0b19e6491ns/1647898583500/RzU5_B4p39Zxgp6-3bu0lnWfX1-FyQl9/08892943792363940611/5AIsG_vYFKRxNo75dlOYPr8DMbo2n8dcEr5mSEOUiUySYTBfdGi4meaTmxcfw5HbhzE8b63jSJZK0aLjPrgw19tZ1QRja7ajcuDsRceraCQMXy1nyGXfqOVpOBiY1oP1IoufLvgEoRp2ZMOk5bI1AD1keQ9H7EGFv1abrai3ACxns9r2JsuGNG6fyZ-_nvlZKG5Dn6SZN?session=0&fife" height="200" width="auto" /><br><br>Воронцовский дворец — дворец в центральной части Санкт-Петербурга, расположенный на Садовой улице напротив Гостиного двора. Возведён по проекту архитектора Франческо Растрелли в 1749—1758 годах для канцлера Михаила Воронцова. Дворец отличался богатым, нарядным декором фасадов и пышной отделкой интерьеров, имеет более 50 парадных залов и помещений. Из-за колоссальных расходов на строительство уже через несколько лет после окончания работ Воронцов был вынужден продать дворец в казну за 217 тыс. рублей. При Павле I дворец отдали Мальтийскому ордену, тогда была построена Мальтийская капелла по проекту Джакомо Кваренги. В 1810 император Александр I разметил во дворце Пажеский корпус, ему здание принадлежало до революции.<br><br>В XX веке дворцовый комплекс занимали различные военные училища. В 2019 году здание занял Третий кассационный суд общей юрисдикции. В 2021 году учреждение под видом капитального ремонта инициировало конкурс на проведение работ по сносу трёх дореволюционных флигелей на территории дворца]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/lnn15ol1lbhlt2n0b19e6491ns/1647898583500/RzU5_B4p39Zxgp6-3bu0lnWfX1-FyQl9/08892943792363940611/5AIsG_vYFKRxNo75dlOYPr8DMbo2n8dcEr5mSEOUiUySYTBfdGi4meaTmxcfw5HbhzE8b63jSJZK0aLjPrgw19tZ1QRja7ajcuDsRceraCQMXy1nyGXfqOVpOBiY1oP1IoufLvgEoRp2ZMOk5bI1AD1keQ9H7EGFv1abrai3ACxns9r2JsuGNG6fyZ-_nvlZKG5Dn6SZN?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.331691,59.931423,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Александринский театр</name>
+        <description><![CDATA[<img src="https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/30sjfvl3ecr7h7o9plttamlp50/1647898583500/RzU5_B4p39Zxgp6-3bu0lnWfX1-FyQl9/08892943792363940611/5AIsG_vbshB7_b0LIS3gj0k5zpV41ZcI9WvwLPwgNO0Ttv5dTjIfRA9fjFnjJsbCf7Jeo-afrzUUoyyKWqXtKl3bOW-HoocF4NBtXav_C-rWPN9sraKju4v-cqtaVnw5uie6qQ8PnGIawRnYhcbifsEkzz806JskwIWrZTUNCg_6vNeQrY0bUXI5THUgKatKs64tbC0Q?session=0&fife" height="200" width="auto" /><br><br>Главный фасад театра обращен к Невскому проспекту. На аттике здания мы видим колесницу Аполлона с четверкой лошадей. Скульптурное убранство раскрывает назначение величественного строения:<br><br>Знаменитая квадрига — это символ театра и одна из эмблем города на Неве<br>Аполлон — покровитель искусства. В одной руке он держит венок, предназначенный победителю на театральной сцене, а в другой — античный струнный инструмент — кифару<br>В нишах главного фасада Вы видите Терпсихору (музу танца) и Мельпомену (музу трагедии). На фасаде, выходящем на улицу Росси и площадь Ломоносова, установлена скульптура Клио, музы истории и Талии, музы комедии. Все это говорит о том, что на сцене должны были идти спектакли всех жанров.<br>Надо отметить, что великий зодчий при проектировании здания проявил себя как настоящий новатор. Для перекрытия всей постройки и зрительного зала, пролет которых составляет соответственно 30 и 21 метр, Росси совместно с инженером Матвеем Кларком создал оригинальную систему из металлических арочных ферм. Причем, архитектор был полностью уверен в прочности своей конструкции и утверждал, что если случится какое-либо происшествие, то «пусть тот же час меня повесят на одной из стропил театра».<br><br>Зрительский зал просторный и нарядный. Для его оформления применены резной орнамент и позолота, роспись и яркая обивка кресел.<br><br>К сожалению, большая часть отделки, а также живописный плафон работы итальянского художника Антонио Виги не сохранились до наших дней.]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0k-b4-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/30sjfvl3ecr7h7o9plttamlp50/1647898583500/RzU5_B4p39Zxgp6-3bu0lnWfX1-FyQl9/08892943792363940611/5AIsG_vbshB7_b0LIS3gj0k5zpV41ZcI9WvwLPwgNO0Ttv5dTjIfRA9fjFnjJsbCf7Jeo-afrzUUoyyKWqXtKl3bOW-HoocF4NBtXav_C-rWPN9sraKju4v-cqtaVnw5uie6qQ8PnGIawRnYhcbifsEkzz806JskwIWrZTUNCg_6vNeQrY0bUXI5THUgKatKs64tbC0Q?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.336157,59.931785,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Павильоны Аничкова дворца</name>
+        <description><![CDATA[<img src="https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/njd0nhuhqll0r2i8aepub4f3qo/1647898583500/RzU5_B4p39Zxgp6-3bu0lnWfX1-FyQl9/08892943792363940611/5AIsG_vbh-5CPQDju0YwAnEpL5yQCQJH4nLjz9It4p9PxagsLmlvADc9YVyp7wl44a1CYIYQBcHh5loFb5oHh1GHxvLMlXnvEIKW-PH8_z9OFTDbCi21tZx-2oOeT4w9WSUx1THxtVwp_zm7noKRBe8EL-EaunEN6iVmVK19eMaDA9_wmAXL5AB6YhDywDsuViiJxp_s?session=0&fife" height="200" width="auto" /><br><br>Мистики в Санкт-Петербурге хоть отбавляй. Сам город на Неве строился и обрастал тайнами. Поэтому, почти каждое историческое сооружение в Северной столице окружено загадками и легендами. И абсолютно неудивительно, что старейшее из сохранившихся зданий на Невском проспекте — Аничков дворец наделён мифами. Было бы удивительнее наоборот, если бы он не имел последних. Но начнём всё сначала… Дворец начали возводить в 1741 году по велению только что взошедшей на престол императрицы Елизаветы Петровны. Проект разработал один из первых архитекторов новой столицы Российской империи — Михаил Земцов. В его планах было построить разноэтажное здание в виде растянутой буквы "Н". Но через 2 года автор проекта отошёл в мир иной, в 1743 году. И заканчивал возведение дворца в стиле высокого известного елизаветинского барокко уже Бартоломео Растрелли. Сегодня дворец расположен в центре Петербурга, на набережной реки Фонтанки. Именно это сооружение должно было украсить въезд в столицу. В истории города сохранились слухи, что место для Аничкова дворца было выбрано неспроста. Тут в 1741 году находился Преображенский полк, служивые которого помогли Елизавете Петровне осуществить переворот и встать на престол. Существует легенда, согласно которой в середине XVIII века в Аничковом дворце поселился призрак женского рода — некая Белая Дама, которая была абсолютно прозрачной, а наряжалась она в длинный балахон. Она появлялась на людях изредка. Говорят, что её увидели в Аничковом дворце в 1837 году. Тогда в него въехал Николай I, после пожара в Зимнем дворце, где он проживал ранее с семьёй. Именно император встретился с этой Белой Дамой, которая возникла перед ним, как из-под земли. Царь было хотел заорать во всё горло, но ледяная ладонь призрака-незнакомки коснулась его рта, и он начал задыхаться. Белая Дама что-то ему сказала, но от страха он не разобрал ни слова. Его сын, Александр II не побоялся даже побеседовать с Белой Дамой, которая ему и поведала о предстоящих 3-х покушениях на царя. Насчёт покушений на императора Александра II жива ещё одна легенда. Государю в Париже гадалка напророчила, что 6 раз на него будут покушаться, но он останется жив, а 7-е покушение станет смертельным. Так и вышло… Но самое интересное, по предсказанию этой же гадалки знаком гибели для него станет светловолосая женщина с белым платком. Всю жизнь император пытался узнать, кто она... С Белой Дамой пообщался также Николай II, которая рассказала, что он станет последним российским самодержцем. А потом она исчезла навсегда. С тех пор Белую Даму никто и никогда не видел. Поэтому опасаться посещать Аничков дворец в наши дни не стоит. До скорой встречи!]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/njd0nhuhqll0r2i8aepub4f3qo/1647898583500/RzU5_B4p39Zxgp6-3bu0lnWfX1-FyQl9/08892943792363940611/5AIsG_vbh-5CPQDju0YwAnEpL5yQCQJH4nLjz9It4p9PxagsLmlvADc9YVyp7wl44a1CYIYQBcHh5loFb5oHh1GHxvLMlXnvEIKW-PH8_z9OFTDbCi21tZx-2oOeT4w9WSUx1THxtVwp_zm7noKRBe8EL-EaunEN6iVmVK19eMaDA9_wmAXL5AB6YhDywDsuViiJxp_s?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3383224,59.9335783,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Дворец Белосельских-Белозерских</name>
+        <description><![CDATA[<img src="https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/bop91751g5vqccriphinnrvn38/1647898583500/RzU5_B4p39Zxgp6-3bu0lnWfX1-FyQl9/08892943792363940611/5AIsG_vZSSjI7Zm0ANwxsFa2iTAAOsdfdFp8rwgR9v0GM6wJMj0JTAleC4fS48W_GhPn3Ev5txM9Hp9uiMvdZyzjtDGmj7aaLLr8KyH9Cua3RwFLm5I6_enRR3aIesB-Dzn_BXsRSDkjmgAuXpQxT0_7TZdwEUlaogB27NPiYs-Wb8-xk7xzNvSMj-dVmnO-4UX8DURM?session=0&fife" height="200" width="auto" /><br><br>Дворец Белосельских-Белозерских — одно из самых красивых и ярких зданий на Невском проспекте. Это не только замечательный памятник архитектуры, выполненный в стиле нового барокко известным архитектором эпохи Николая I А.И. Штакеншнейдером, но и престижное учреждение культуры, вмещающее в своих интерьерах большой концертный зал на 400 мест. Интересно, что этот дом стал последним частным дворцом, возведенным в 19 веке. История дворца началась в 1797 году, когда сенатор Нарышкин продал свой участок земли князьям Белосельским-Белозерским. Семья быстро возвела для себя большой дом, но спустя время была начата масштабная реконструкция. Хозяева хотели жить в настоящем дворце, который по всем параметрам соответствовал бы их высокому положению в обществе. После революции здание было национализировано. Здесь располагались самые разные организации: курсы красной пропаганды, районный комитет комсомола и другие. Во время Великой Отечественной войны дворец сильно пострадал, но был восстановлен и отреставрирован. ]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-14-b4-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/bop91751g5vqccriphinnrvn38/1647898583500/RzU5_B4p39Zxgp6-3bu0lnWfX1-FyQl9/08892943792363940611/5AIsG_vZSSjI7Zm0ANwxsFa2iTAAOsdfdFp8rwgR9v0GM6wJMj0JTAleC4fS48W_GhPn3Ev5txM9Hp9uiMvdZyzjtDGmj7aaLLr8KyH9Cua3RwFLm5I6_enRR3aIesB-Dzn_BXsRSDkjmgAuXpQxT0_7TZdwEUlaogB27NPiYs-Wb8-xk7xzNvSMj-dVmnO-4UX8DURM?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3444099,59.9327424,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Михайловский замок</name>
+        <description><![CDATA[<img src="https://doc-0g-b4-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/4qub8idf9ld7rtmt8t4e4tqml4/1647898583500/RzU5_B4p39Zxgp6-3bu0lnWfX1-FyQl9/08892943792363940611/5AIsG_vZ2WztjTa3Xz1nJVDUHAhZprG8zTqFvLdW1nzDN4dbd0hLiuZz1HVlAP-ohBxNh1YXhsxJ9d0F598hDPTrUDnNV_IMCUGz4vOyVWlJSGCe3WTTNDkyYDbC_8D3LBVWB60UMZ8_9n4zkUYcMidFlLmB3nkyDyiHm0dH5uIGUonPC_0NqBlhPylR4UxBUUBeAinw?session=0&fife" height="200" width="auto" /><br><br>Михайловский, он же Инженерный замок – самое оригинальное и самое мистическое дворцовое сооружение Петербурга. Дворец, созданный во времена правления Павла Первого в виде средневекового замка и обязанный защитить его жизнь, становится местом его насильственной гибели. Находится этот мистический замок на набережной Фонтанки позади территории Летнего сада. Этот замок на Садовой улице появился к концу 18 - началу 19 вв. Почему сооружение называется замком? И почему Михайловским? Случилось так, что славящийся оригинальностью Павел получил титул Великого магистра рыцарского католического Мальтийского ордена, и это дало ему право строить замки (наподобие рыцарских). Такая вот предыстория появления практически единственного классического замка в России. Название же замку было дано в честь Св. Архангела Михаила, которого якобы увидел стоящий на посту солдат. Именно Михаил и указал место постройки будущего императорского дворца. Название было присвоено строению уже при закладке фундамента, и это едва ли не единственный случай названия дворцового сооружения не по имени его владельца.]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0g-b4-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/4qub8idf9ld7rtmt8t4e4tqml4/1647898583500/RzU5_B4p39Zxgp6-3bu0lnWfX1-FyQl9/08892943792363940611/5AIsG_vZ2WztjTa3Xz1nJVDUHAhZprG8zTqFvLdW1nzDN4dbd0hLiuZz1HVlAP-ohBxNh1YXhsxJ9d0F598hDPTrUDnNV_IMCUGz4vOyVWlJSGCe3WTTNDkyYDbC_8D3LBVWB60UMZ8_9n4zkUYcMidFlLmB3nkyDyiHm0dH5uIGUonPC_0NqBlhPylR4UxBUUBeAinw?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3380463,59.9399937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Летний сад</name>
+        <description><![CDATA[<img src="https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/nuqaq3o7d2l9ktn09kkhoiqqdc/1647898583500/RzU5_B4p39Zxgp6-3bu0lnWfX1-FyQl9/08892943792363940611/5AIsG_vb4rfNQgMwywmdPK8EdGnY29hVtELiZn9VE3zZlUG11vWYukB2Q8isZRnNJrwm4eNezfokDzKayFXXmWULWKYc-W1niHVhofMd9rzjkaJs1f8PcPjhJUBOmisoj2zl7S6bkAYGetMxX5kzEwWpYxU0OFPhM_7f4-IsiyUVIc4na_WvQUiJZlAz6z1O1pN2gsSg?session=0&fife" height="200" width="auto" /><br><br>Городская летняя резиденция Петра I основана в 1704 году на месте бывшей шведской усадьбы. Планировка сада сложилась к 1710-м годам – продольные аллеи, ведущие от Невы вглубь сада, поперечные и лучевые, разделяющие сад на боскеты.<br>В ближайшей к Неве части, именовавшейся Первым Летним садом, размещено петровское собрание итальянской мраморной скульптуры. Здесь же находилось большинство увеселительных построек и сохранившийся до наших дней Летний дворец Петра I, построенный в 1710 – 1712 годах архитектором Доменико Трезини. По указанию Петра I дворец был поставлен на стрелке Невы и Фонтанки, в стороне от Главной аллеи сада.<br>В соответствии с правилами изящного садоводства, аллеи Летнего сада были сплошь обсажены ровно подстриженным кустарником — своеобразными зелеными стенами, так называемыми шпалерами. Четыре участка, ограниченные стенами шпалер, — боскеты, были заняты разнообразными садовыми затеями. <br>В начале Великой Отечественной войны в течение двух месяцев статуи и бюсты укрыли в земле. В саду была расположена зенитная батарея. После войны Летний сад был полностью восстановлен. Статуи и бюсты вернулись на свои места.<br>В 2009-2011 гг. сад прошел комплексную реставрацию.]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0s-b4-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/nuqaq3o7d2l9ktn09kkhoiqqdc/1647898583500/RzU5_B4p39Zxgp6-3bu0lnWfX1-FyQl9/08892943792363940611/5AIsG_vb4rfNQgMwywmdPK8EdGnY29hVtELiZn9VE3zZlUG11vWYukB2Q8isZRnNJrwm4eNezfokDzKayFXXmWULWKYc-W1niHVhofMd9rzjkaJs1f8PcPjhJUBOmisoj2zl7S6bkAYGetMxX5kzEwWpYxU0OFPhM_7f4-IsiyUVIc4na_WvQUiJZlAz6z1O1pN2gsSg?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3354879,59.9449379,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Дом Эбелинга</name>
+        <description><![CDATA[<img src="https://doc-0g-b4-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/8lqk3gbr751fkph3sqovesjqt8/1647898583500/RzU5_B4p39Zxgp6-3bu0lnWfX1-FyQl9/08892943792363940611/5AIsG_vY6p-DHqkKo5JK3ikpAX6jNSZ4xJTTG_fshej34Awrnq5c7ANPot56_GPf4FggoFFmzuzxop1hb4BTEHcovmk57kMfifX8SQ1ahPRS_yDm59bxC8QFmGEPFhucbSO_uOMiuTRRZ82igoN5raS5HMqyYVt1_AVmQoscTxYGmfPE_13_PYas20HKF9GnrdDjlujtp?session=0&fife" height="200" width="auto" /><br><br>Данные о земельном владении восходят к первой половине XVIII века. Первым известным владельцем был Алексей Макаров, тайный советник и кабинет-секретарь Петра I. Позднее участок принадлежал князю Александру Голицыну, затем генерал-аншефу Рудольфу фон Бисмарку и фельдмаршалу Б. Х. Миниху. В 1770-х владение приобрёл граф Пётр Завадовский, спустя 15 лет участок выкупило государство и разместило на нём Пажеский корпус. С 1802-го зданием владела Анастасия Ивановна Эбелинг, вдова лейб-хирурга Карла Эбелинга. Дом на Миллионной Анастасия Ивановна получила в обмен на своё имение в 150 душ, которое она передала в Удельное ведомство. На начало 1800-х земельный участок оценивался в 70 тысяч рублей. По заказу новой хозяйки вместо «обветшавших палат» в 1803-м архитектор Луиджи Руска возвёл трёхэтажный особняк в стиле классицизм. В узнаваемой авторской манере Руска разместил на портике из восьми колонн коринфского ордера. В 1825-м году особняк оценивался уже в 275 тыс. рублей, однако долгое время вдове Эбелинг не удавалось его продать. Только в начале 1830-х его выкупила надворная советница М. П. Ротенберг. С 1833-го до конца 1840-х дом принадлежал врачу Николаю Арендту, лейб-медику при Николае I.]]></description>
+        <styleUrl>#icon-1899-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0g-b4-mymaps.googleusercontent.com/untrusted/hostedimage/46p7v27o3hcjatqq4pene2tioc/8lqk3gbr751fkph3sqovesjqt8/1647898583500/RzU5_B4p39Zxgp6-3bu0lnWfX1-FyQl9/08892943792363940611/5AIsG_vY6p-DHqkKo5JK3ikpAX6jNSZ4xJTTG_fshej34Awrnq5c7ANPot56_GPf4FggoFFmzuzxop1hb4BTEHcovmk57kMfifX8SQ1ahPRS_yDm59bxC8QFmGEPFhucbSO_uOMiuTRRZ82igoN5raS5HMqyYVt1_AVmQoscTxYGmfPE_13_PYas20HKF9GnrdDjlujtp?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3205197,59.942057,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Античный маршрут</name>
+    <description/>
+    <Style id="icon-1899-FF5252-normal">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FF5252-highlight">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FF5252">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FF5252-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FF5252-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Слой без названия</name>
+      <Placemark>
+        <name>Смольный институт</name>
+        <description><![CDATA[<img src="https://doc-10-60-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/5u3neplvbmg3guphifnhj71l9c/1647898200000/zuZW4gzzYpjQ2Y8v8lumfr0vP0QkNz4D/*/6AIsG_va8nyvKI9gobm0c7DmgCqYoiwWHPqKVvTh_z9gfMcsmKqyHWyemt7m_fErsXdst7QY0r-vE8LJw2PPYyQojtEQEPVBqH93oT-nNfaajVHViurUsbgM0usCv6JP683VAwZs-up0b9r2BunQQmIh1bg41nTsJCZ29n_FbSRmO7NqrtmdhqY5ECgeKFrdsurnS_A4?session=0&fife" height="200" width="auto" /><br><br>Архитектор: Джакомо Кваренги<br>Дата постройки: 1806—1808 годах <br>Адрес: Санкт-Петербург, Смольный проезд, д. 1]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-10-60-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/5u3neplvbmg3guphifnhj71l9c/1647898200000/zuZW4gzzYpjQ2Y8v8lumfr0vP0QkNz4D/*/6AIsG_va8nyvKI9gobm0c7DmgCqYoiwWHPqKVvTh_z9gfMcsmKqyHWyemt7m_fErsXdst7QY0r-vE8LJw2PPYyQojtEQEPVBqH93oT-nNfaajVHViurUsbgM0usCv6JP683VAwZs-up0b9r2BunQQmIh1bg41nTsJCZ29n_FbSRmO7NqrtmdhqY5ECgeKFrdsurnS_A4?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3965706,59.946251,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Горный институт</name>
+        <description><![CDATA[<img src="https://doc-0k-60-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/7gihtdjfmal7n7d8kppc150118/1647898200000/zuZW4gzzYpjQ2Y8v8lumfr0vP0QkNz4D/*/6AIsG_vZgrO3bzYSikL2tavXhqPx9v-wxnxkd4r0otjMTkSTevjVfmNXFQdPeR1SMPajiqTzFtUtv99ScxfGPaz5AVtfWn8BURhsKcbOVK5FpPd12Yi8oKgSIkF-v1LWkxA6KuyncOxIjWGHWW-Ss2DY9OdcgsG0qU3xBmftdQcplycnUK6z9yu3ONFXlD8L9IXl-kNYa?session=0&fife" height="200" width="auto" /><br><br>Архитектор: А. Н. Воронихин<br>Дата постройки: 1806-1811 гг<br>Адрес: Санкт-Петербург, Васильевский остров, 21 линия д. 2]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0k-60-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/7gihtdjfmal7n7d8kppc150118/1647898200000/zuZW4gzzYpjQ2Y8v8lumfr0vP0QkNz4D/*/6AIsG_vZgrO3bzYSikL2tavXhqPx9v-wxnxkd4r0otjMTkSTevjVfmNXFQdPeR1SMPajiqTzFtUtv99ScxfGPaz5AVtfWn8BURhsKcbOVK5FpPd12Yi8oKgSIkF-v1LWkxA6KuyncOxIjWGHWW-Ss2DY9OdcgsG0qU3xBmftdQcplycnUK6z9yu3ONFXlD8L9IXl-kNYa?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.2694749,59.9292556,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Российская национальная библиотека</name>
+        <description><![CDATA[<img src="https://doc-0c-60-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/laolremg5g984mjvpifejdb2hc/1647898200000/zuZW4gzzYpjQ2Y8v8lumfr0vP0QkNz4D/*/6AIsG_vZunNmTHdQyKuTaPg50id-67RBfejEaMNxNHQ-3RNnPJXgO0UVZCAPcv5OqmnvpeCM2eKKXjSWfcYx8WjDKH-jL98mOPwO3fgyt1Mh1CzJu2FvaXfN4XsAnwaoMwK0s7O59NNo-BjgfRBQtuA9ikxuM8tjB01lckmKIqekNNMYo_e0Yb7txMWUC90PqPU6_WC79?session=0&fife" height="200" width="auto" /><br><br>Архитектор: Е. Т. Соколов<br>Дата постройки: 1796-1801 гг<br>Адрес: Санкт-Петербург, Садовая улица, д. 16]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0c-60-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/laolremg5g984mjvpifejdb2hc/1647898200000/zuZW4gzzYpjQ2Y8v8lumfr0vP0QkNz4D/*/6AIsG_vZunNmTHdQyKuTaPg50id-67RBfejEaMNxNHQ-3RNnPJXgO0UVZCAPcv5OqmnvpeCM2eKKXjSWfcYx8WjDKH-jL98mOPwO3fgyt1Mh1CzJu2FvaXfN4XsAnwaoMwK0s7O59NNo-BjgfRBQtuA9ikxuM8tjB01lckmKIqekNNMYo_e0Yb7txMWUC90PqPU6_WC79?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3356592,59.9338989,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Главное адмиралтейство</name>
+        <description><![CDATA[<img src="https://doc-14-60-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/9ci76d1re6h7pqo9pp8a9eteu8/1647898200000/zuZW4gzzYpjQ2Y8v8lumfr0vP0QkNz4D/*/6AIsG_vZeADJ1g1amaFbuyOUSDMp2sXe-XG28P2U_jmB3wP0XgLwTTF78KU2o6JCFCOEBgZgRI_XK3uF7O0iY6V-YT96We93_b-9xXg9kIE7Ul6klkEqU7NMwl6vtqz7FSO0GTnR6Dr7yz70l-Luanf1in0DE3y1UND2ZRJXtjEqY10qXwu6jSrwwbjdE3GvxVBB3QCLh?session=0&fife" height="200" width="auto" /><br><br>Архитектор: А. Д. Захаров<br>Дата постройки: 1704-1706 гг<br>Адрес: Санкт-Петербург, Адмиралтейский пр-д, д. 1]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-14-60-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/9ci76d1re6h7pqo9pp8a9eteu8/1647898200000/zuZW4gzzYpjQ2Y8v8lumfr0vP0QkNz4D/*/6AIsG_vZeADJ1g1amaFbuyOUSDMp2sXe-XG28P2U_jmB3wP0XgLwTTF78KU2o6JCFCOEBgZgRI_XK3uF7O0iY6V-YT96We93_b-9xXg9kIE7Ul6klkEqU7NMwl6vtqz7FSO0GTnR6Dr7yz70l-Luanf1in0DE3y1UND2ZRJXtjEqY10qXwu6jSrwwbjdE3GvxVBB3QCLh?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3086683,59.937496,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Александринский театр</name>
+        <description><![CDATA[<img src="https://doc-0c-60-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/4bs2q644ke9mlvmnm1tg0leufo/1647898200000/zuZW4gzzYpjQ2Y8v8lumfr0vP0QkNz4D/*/6AIsG_vYkt-oS2ESOXyENbYF0HOqy_EzW9XWDYQiHTsa-EB6LmAlAB1zGb-wfW2jRDErQODG9PfzqKeXNCKhid8WGF0B8cQblgLgfU_WaIlpdtBWR7-LNro3XrKCPOAfP5pXYTtI-122pNo_dyoMmtJeupMPZg7VsHyotmg2o_Z2L_7vYOKza4f0PkykSJdrk0ySv0JzT?session=0&fife" height="200" width="auto" /><br><br>Архитектор: К. И. Росси<br>Даты постройки: 1828-1832 гг<br>Адрес: Санкт-Петербург, пл. Островского, д. 6]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0c-60-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/4bs2q644ke9mlvmnm1tg0leufo/1647898200000/zuZW4gzzYpjQ2Y8v8lumfr0vP0QkNz4D/*/6AIsG_vYkt-oS2ESOXyENbYF0HOqy_EzW9XWDYQiHTsa-EB6LmAlAB1zGb-wfW2jRDErQODG9PfzqKeXNCKhid8WGF0B8cQblgLgfU_WaIlpdtBWR7-LNro3XrKCPOAfP5pXYTtI-122pNo_dyoMmtJeupMPZg7VsHyotmg2o_Z2L_7vYOKza4f0PkykSJdrk0ySv0JzT?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.336157,59.931785,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Главный штаб</name>
+        <description><![CDATA[<img src="https://doc-0g-60-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/j6bbg350k9utgoh8kitnk1tae0/1647898200000/zuZW4gzzYpjQ2Y8v8lumfr0vP0QkNz4D/*/6AIsG_vbgFDGYDup2zFQJLOGSpcvyD-rigxtw77e6AEvef8TKWnS63yXa9QAaFX1rWhAl-zUw3860WI6ZJu6x6PtRE2xM75YkixotY5yp5lDS_S4MRiVM9Edj0tI5hm2wP0GAopj0AUuFo64NH1Ko2nNvDDGsVke847hJkUL5fORS6RRES7sCU2HSr37zHwe_bfv3DiP-?session=0&fife" height="200" width="auto" /><br><br>Архитектор: К. И. Росси<br>Дата постройки: 1819-1828 гг<br>Адрес: Санкт-Петербург, Дворцовая пл., д. 6-8]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0g-60-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/j6bbg350k9utgoh8kitnk1tae0/1647898200000/zuZW4gzzYpjQ2Y8v8lumfr0vP0QkNz4D/*/6AIsG_vbgFDGYDup2zFQJLOGSpcvyD-rigxtw77e6AEvef8TKWnS63yXa9QAaFX1rWhAl-zUw3860WI6ZJu6x6PtRE2xM75YkixotY5yp5lDS_S4MRiVM9Edj0tI5hm2wP0GAopj0AUuFo64NH1Ko2nNvDDGsVke847hJkUL5fORS6RRES7sCU2HSr37zHwe_bfv3DiP-?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3179831,59.9386465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Исаакиевский собор</name>
+        <description><![CDATA[<img src="https://doc-0s-60-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/9qh1qv0h6pl8mmda2mkr97juuo/1647898200000/zuZW4gzzYpjQ2Y8v8lumfr0vP0QkNz4D/*/6AIsG_vaymKplMO1PezKsf1H_uWt2hL49muIguC5AoidhkU0QjvIgz-RL7qcR9yjnzMhjqRLZCHkQT0-5IGxR39c5jrNDrIZ6GuhaGmIeQndKG4A9IoXO3j2_ZXJ9_-nadDayDKpOkoQv0b9kej_6_XJQNzslXpOEPKwJ2TK8r82xerIW9yyMbvjMBhI-J-kvhtPyi5k4?session=0&fife" height="200" width="auto" /><br><br>Архитектор: О. Монферран<br>Дата постройки: 1818—1858 гг<br>Адрес: Санкт-Петербург, Исаакиевская пл., д. 4]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0s-60-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/9qh1qv0h6pl8mmda2mkr97juuo/1647898200000/zuZW4gzzYpjQ2Y8v8lumfr0vP0QkNz4D/*/6AIsG_vaymKplMO1PezKsf1H_uWt2hL49muIguC5AoidhkU0QjvIgz-RL7qcR9yjnzMhjqRLZCHkQT0-5IGxR39c5jrNDrIZ6GuhaGmIeQndKG4A9IoXO3j2_ZXJ9_-nadDayDKpOkoQv0b9kej_6_XJQNzslXpOEPKwJ2TK8r82xerIW9yyMbvjMBhI-J-kvhtPyi5k4?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.306485,59.933905,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Каменноостровский дворец</name>
+        <description><![CDATA[<img src="https://doc-10-60-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/3hrslh6c6mthoq767bni3pmf5o/1647898200000/zuZW4gzzYpjQ2Y8v8lumfr0vP0QkNz4D/*/6AIsG_vZnckmWALWGO2dlZZan74kxfNIeB9vpYgfmOSpSp3LRo2mFzNhmT5DNjEVbtEqtYXbOFvSrtj9lvNDWKrt0F7Q1THaCWMNrLPOjqO2VoU_9PzebKvzrL9MLqmlEkKTkUK9m0X_GVNBhZClOkDfTQO-hLP9EpUVjK7vD0pErfQPzAZwvO-5vTmaWX6pSDeKXIYn-?session=0&fife" height="200" width="auto" /><br><br>Архитектор: Ю. М. Фельтен<br>Дата постройки: 1776-1780 гг<br>Адрес: Санкт-Петербург, наб. реки Малой Невки, д. 1]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-10-60-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/3hrslh6c6mthoq767bni3pmf5o/1647898200000/zuZW4gzzYpjQ2Y8v8lumfr0vP0QkNz4D/*/6AIsG_vZnckmWALWGO2dlZZan74kxfNIeB9vpYgfmOSpSp3LRo2mFzNhmT5DNjEVbtEqtYXbOFvSrtj9lvNDWKrt0F7Q1THaCWMNrLPOjqO2VoU_9PzebKvzrL9MLqmlEkKTkUK9m0X_GVNBhZClOkDfTQO-hLP9EpUVjK7vD0pErfQPzAZwvO-5vTmaWX6pSDeKXIYn-?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.3047081,59.9798568,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Дворец Лейхтенбергских</name>
+        <description><![CDATA[<img src="https://doc-0c-60-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/a4jctt9ngsgqkm2bkn4v9mpa8c/1647898200000/zuZW4gzzYpjQ2Y8v8lumfr0vP0QkNz4D/*/6AIsG_vanOKdUFyZzzI3le3u8sF7QsebvpNE8Kzh7MVgxdERhDWAc9sPYF4R6QfNO7Vof6xYQluwAp-P2QoHB4NVDpCJ1pdl86SgLUeD0BqjZBnE7r2CdZWIfJOjqxIzkP9QKIRoFxZqtiIpgF5rKxJWjEh1YbTNYhAsIvWsr71Cc-uPR7m3ky9zBwN2RiyxatlxII42f?session=0&fife" height="200" width="auto" /><br><br>Архитектор: А. Штакеншнейдер<br>Дата постройки:1839—1842 гг<br>Адрес: Санкт-Петербург, Ораниенбаумское шоссе, д. 2]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0c-60-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/a4jctt9ngsgqkm2bkn4v9mpa8c/1647898200000/zuZW4gzzYpjQ2Y8v8lumfr0vP0QkNz4D/*/6AIsG_vanOKdUFyZzzI3le3u8sF7QsebvpNE8Kzh7MVgxdERhDWAc9sPYF4R6QfNO7Vof6xYQluwAp-P2QoHB4NVDpCJ1pdl86SgLUeD0BqjZBnE7r2CdZWIfJOjqxIzkP9QKIRoFxZqtiIpgF5rKxJWjEh1YbTNYhAsIvWsr71Cc-uPR7m3ky9zBwN2RiyxatlxII42f?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            29.842888,59.89449,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Санкт-Петербургская академия художеств</name>
+        <description><![CDATA[<img src="https://doc-0k-60-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/oeaps5ogn7ior2p4u9ot7eifeo/1647898200000/zuZW4gzzYpjQ2Y8v8lumfr0vP0QkNz4D/*/6AIsG_vYGaokhZS_wAAzSDBYLbopEnHbH-b5KAN-xqdUYCU7DapesLfy8fABGSHatfBZJ8agh331Qbmq-UwHJxm4CX0_3Yp-IkHv6OmLwyV3bYHWtYL5PUjwPbShMmgVwNfxbMC1-2c_v6SSwg8sVcJulFOsjOZ9Nlx7RX_wZzk-x-QZLNV_7hiUDyAXSslgJ0xmOm0of?session=0&fife" height="200" width="auto" /><br><br>Архитекторы: Ж.-Б. Валлен-Деламот,  А. Ф. Кокоринов, Ю. М. Фельтен <br>Дата постройки: 1764-1788 гг<br>Адрес:  Санкт-Петербург, Университетская наб., д. 17]]></description>
+        <styleUrl>#icon-1899-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0k-60-mymaps.googleusercontent.com/untrusted/hostedimage/ihucu48q9m5s1hftel5u85tfdc/oeaps5ogn7ior2p4u9ot7eifeo/1647898200000/zuZW4gzzYpjQ2Y8v8lumfr0vP0QkNz4D/*/6AIsG_vYGaokhZS_wAAzSDBYLbopEnHbH-b5KAN-xqdUYCU7DapesLfy8fABGSHatfBZJ8agh331Qbmq-UwHJxm4CX0_3Yp-IkHv6OmLwyV3bYHWtYL5PUjwPbShMmgVwNfxbMC1-2c_v6SSwg8sVcJulFOsjOZ9Nlx7RX_wZzk-x-QZLNV_7hiUDyAXSslgJ0xmOm0of?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            30.2898931,59.9377729,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
