@@ -18,6 +18,7 @@ import com.vaadin.flow.server.auth.AnonymousAllowed;
 import org.springframework.beans.factory.annotation.Autowired;
 
 import java.util.ArrayList;
+import java.util.Collection;
 import java.util.List;
 
 @PageTitle("Create Route")
@@ -30,8 +31,11 @@ public class CreateRouteView extends VerticalLayout {
     private TextField searchQueryField;
     private Button searchButton;
     private List<GoogleMapMarker> markers = new ArrayList<>();
+    private PlacemarkService placemarkService;
 
     public CreateRouteView(@Autowired PlacemarkService placemarkService) {
+        this.placemarkService = placemarkService;
+
         setSizeFull();
 
         String apiKey = "AIzaSyCEQdmi84t3titEn8xHkf7pCZ2ll5Otcv4";
@@ -54,39 +58,50 @@ public class CreateRouteView extends VerticalLayout {
             }
             markers = new ArrayList<>();
 
-            List<Placemark> placemarks;
             if (searchQueryField.getValue().isBlank()) {
-                Notification.show("Loading all placemarks...");
-                placemarks = placemarkService.findAll();
+                Notification.show("Loading default placemarks...");
+                loadDefaultPlacemarks();
             } else {
                 Notification.show("Loading route \"" + searchQueryField.getValue() + "\"...");
-                placemarks = placemarkService.findByPhrase(searchQueryField.getValue());
+                loadPlacemarksByQuery(searchQueryField.getValue());
             }
-
-            placemarks.forEach(p -> {
-                GoogleMapMarker marker = gmaps.addMarker(
-                        p.getName(),
-                        new LatLon(p.getLatitude(), p.getLongitude()),
-                        false,
-                        null
-                );
-                marker.addInfoWindow("<h1>" + p.getName() + "</h1>\n\n" + p.getDescription());
-                marker.addClickListener(ev -> {
-                    for (GoogleMapMarker gmarker : markers) {
-                        if (!gmarker.equals(marker)) {
-                            gmarker.setInfoWindowVisible(false);
-                        }
-                    }
-                });
-                markers.add(marker);
-            });
-
-            Notification.show("Loaded " + placemarks.size() + " placemarks");
         });
 
         HorizontalLayout searchLayout = new HorizontalLayout(searchQueryField, searchButton);
         searchLayout.setVerticalComponentAlignment(Alignment.BASELINE, searchQueryField, searchButton);
 
         add(searchLayout, gmaps);
+
+        loadDefaultPlacemarks();
+    }
+
+    private void loadPlacemarks(Collection<Placemark> placemarks) {
+        placemarks.forEach(p -> {
+            GoogleMapMarker marker = gmaps.addMarker(
+                    p.getName(),
+                    new LatLon(p.getLatitude(), p.getLongitude()),
+                    false,
+                    null
+            );
+            marker.addInfoWindow("<h1>" + p.getName() + "</h1>\n\n" + p.getDescription());
+            marker.addClickListener(ev -> {
+                for (GoogleMapMarker gmarker : markers) {
+                    if (!gmarker.equals(marker)) {
+                        gmarker.setInfoWindowVisible(false);
+                    }
+                }
+            });
+            markers.add(marker);
+        });
+
+        Notification.show("Loaded " + placemarks.size() + " placemarks");
+    }
+
+    private void loadDefaultPlacemarks() {
+        loadPlacemarks(placemarkService.findAll());
+    }
+
+    private void loadPlacemarksByQuery(String query) {
+        loadPlacemarks(placemarkService.findByPhrase(query));
     }
 }
